@@ -1,6 +1,9 @@
 ---
 title: Om mig
 date: 2023-04-08 14:46:35
+title_custom: true
+created: 2023-04-08T12:46:35
+modified: 2023-04-08T12:46:35
 ---
 
 _Nedanstående är från mitt CV. Så kan man inte formulera sig om man skall säja sig på en hemsida, men den del av det jag vill förmedla kan väl vara med._
