@@ -1,6 +1,6 @@
-[submodule "themes/minos"]
-	path = themes/minos
-	url = https://github.com/bluebirch/hexo-theme-minos.git
 [submodule "hexo-scripts"]
 	path = hexo-scripts
 	url = https://git.accum.se/skalman/hexo-scripts
+[submodule "themes/icarus"]
+	path = themes/icarus
+	url = https://github.com/bluebirch/hexo-theme-icarus
