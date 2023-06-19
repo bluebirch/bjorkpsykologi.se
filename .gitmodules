@@ -3,4 +3,4 @@
 	url = https://git.accum.se/skalman/hexo-scripts
 [submodule "themes/icarus"]
 	path = themes/icarus
-	url = https://github.com/bluebirch/hexo-theme-icarus
+	url = https://github.com/ppoffice/hexo-theme-icarus.git
