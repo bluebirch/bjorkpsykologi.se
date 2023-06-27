@@ -106,16 +106,17 @@ navbar:
     # Navigation menu items
     menu:
         Start: /
-        Om mig: /om
+        # Om mig: /om
+        Min bakgrund: /bakgrund
         Psykologsamtal: /psykologsamtal
-        Skola: /skola
-        AR: /ar
+        Elevhälsa: /skola
+        Arbetslivsinriktad rehabilitering: /ar
         Blogg: /blog
     # Links to be shown on the right of the navigation bar
-    # links:
-    #     Download on GitHub:
-    #         icon: fab fa-github
-    #         url: https://github.com/ppoffice/hexo-theme-icarus
+    links:
+        Facebook:
+            icon: fab fa-facebook
+            url: https://facebook.com/fenomenologen
 # Page footer configurations
 # footer:
     # Copyright text

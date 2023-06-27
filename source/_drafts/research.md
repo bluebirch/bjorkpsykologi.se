@@ -1,9 +1,6 @@
 ---
 title: Research för hemsidan
 tags: null
-title_custom: true
-created: null
-modified: null
 ---
 
 Jag tjuvtittar på andra.
