@@ -2,6 +2,8 @@
 title: Psykologsamtal
 hide_date: true
 date: 2023-03-18 20:26:56
+updated: 2023-06-27 18:00
+cover: /img/iza-gawrych-X96x4vMmsFc-unsplash.jpg
 ---
 
 Hur har du det?
@@ -13,6 +15,7 @@ Tillsammans undersöker vi vad som behöver förändras för att du skall komma 
 Mitt förhållningssätt är i linje med den relationella psykoterapin. Den är mer lik den psykodynamiska psykoterapin än KBT, men är egentligen metodneutral: psykoterapi är något vi gör tillsammans, ett ömsesidigt samarbete snarare än en förutbestämd metod. Min utgångspunkt är dina berättelser och det ömsesidiga samspelet i mottagningsrummet.
 
 
+_Foto: [Iza Gawrych](https://unsplash.com/pt-br/@ilmatar?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_  
 
 
 <!--
