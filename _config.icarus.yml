@@ -17,7 +17,7 @@ head:
         # when there is not enough space to display full name
         short_name: 
         # The start URL of the web application
-        start_url: 
+        start_url: https://bjorkpsykologi.se
         # The default theme color for the application
         theme_color: 
         # A placeholder background color for the application page to display
@@ -105,13 +105,14 @@ head:
 navbar:
     # Navigation menu items
     menu:
-        Start: /
-        # Om mig: /om
-        Min bakgrund: /bakgrund
+        # Start: /
+        Om mig: /om
+        # Bakgrund: /bakgrund
         Psykologsamtal: /psykologsamtal
         Elevhälsa: /skola
-        AR: /ar
+        # AR: /ar
         Blogg: /blog
+        Kontakt: /kontakt
     # Links to be shown on the right of the navigation bar
     links:
         Facebook:

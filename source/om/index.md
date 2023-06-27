@@ -1,10 +1,14 @@
 ---
 title: Om mig
-date: 2023-04-08 00:00:00
-updated: 2023-06-19 00:00:00
+date: 2023-04-08
+updated: 2023-06-19
 ---
 
 Jag är legitimerad psykolog och filosofie doktor i psykologi. Som psykolog har jag erfarenhet av individuella samtal, psykologutredningar, neuropsykiatriska funktionsvariationer, mellanmänskligt samspel, konflikthantering och organisationspsykologi. Jag har arbetat inom elevhälsa, arbetslivsinriktad rehabilitering och vuxenpsykiatri. Min forskning handlade om blivande pappors möte med mödrahälsovården.
+
+...
+
+<!--
 
 När jag arbetar som psykolog är min utgångspunkt _hela människan i hela sitt livssammanhang_. 
 
@@ -21,3 +25,5 @@ _Nedanstående är från mitt CV. Så kan man inte formulera sig om man skall s�
 2022--
 :   **Skolpsykolog**, Umeå kommun.
     Som skolpsykolog är min främsta uppgift att hjälpa pedagoger bemöta elever utifrån sina förutsättningar och förmågor. Arbetet sker i samarbete med övriga professioner i elevhälsoteamet, främst specialpedagoger, skolkuratorer, skolsköterskor och rektorer. Vanliga arbetsuppgifter är konsultation och handledning till pedagoger och annan personal, klassrumsobservationer för att bättre förstå en elev, möten där vårdnadshavare är med, psykologutredning av intellektuell funktionsnedsättning samt bedömningssamtal. En av mina styrkor som skolpsykolog är förmågan att se eleven i hela sitt komplexa livssammanhang, inte bara det psykologiska perspektivet. Jag verkar också ha en särskild talang att hantera ansträgda relationer och konflikter mellan skolpersonal och vårdnadshavare.
+
+-->

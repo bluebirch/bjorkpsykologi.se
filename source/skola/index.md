@@ -19,7 +19,3 @@ En särskild talang jag har är att hantera de där situationerna när läraren 
 
 2021--2022
 : _Skövde kommun._ Skolpsykolog på Käpplundaskolan (F-6), Lundenskolan (F-6), Norrmalmskolan (F-6) och Helenaskolan (7-9). 
-
-## Kontakt
-
-Tveka inte att ta kontakt med mig
