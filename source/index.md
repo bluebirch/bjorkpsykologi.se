@@ -5,9 +5,7 @@ date: 2023-04-08
 updated: 2023-06-26
 ---
 
-Jag är legitimerad psykolog och doktor i psykologi. Jag har ett brett kunnande inom psykologi och har arbetat med såväl individer som grupper och organisationer. Jag erbjuder [psykologsamtal](/psykologsamtal) och konsulttjänster inom [elevhälsa](/skola) och [arbetslivsinriktad rehabilitering](/ar).[^1]
-
-[^1]: Jag vill ha tre meningar i första stycket, men den sista meningen är egentligen ganska innehållslös. Det som står där framgår ju av hemsidans struktur.
+Jag är legitimerad psykolog och doktor i psykologi. Jag har ett brett kunnande inom psykologi och har arbetat med såväl individer som grupper och organisationer.
 
 Det är det ett privilegium att få ta del av människors livsberättelser och jag känner ödmjukhet och tacksamhet när människor visar mig det förtroendet. Jag brukar tänka att jag inte behöver resa till jordens alla hörn, för jag besöker en ny värld varje gång jag möter en klient.
 

@@ -122,5 +122,6 @@ fancybox: true
 markdown:
   plugins:
     - markdown-it-footnote
+    - markdown-it-deflist
   render:
     quotes: '»«›‹'
