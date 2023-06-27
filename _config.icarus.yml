@@ -110,7 +110,7 @@ navbar:
         Min bakgrund: /bakgrund
         Psykologsamtal: /psykologsamtal
         Elevhälsa: /skola
-        Arbetslivsinriktad rehabilitering: /ar
+        AR: /ar
         Blogg: /blog
     # Links to be shown on the right of the navigation bar
     links:
@@ -118,9 +118,9 @@ navbar:
             icon: fab fa-facebook
             url: https://facebook.com/fenomenologen
 # Page footer configurations
-# footer:
+footer:
     # Copyright text
-    # copyright: Kåppyrajt © 2023
+    copyright: Telefon 070-622 24 37 · <a href="mailto:stefan.bjork@gmail.com">info@bjork-psykologi.se</a> · Företaget innehar F-skattsedel
     # Links to be shown on the right of the footer section
     # links:
     #     Creative Commons:
