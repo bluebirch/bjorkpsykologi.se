@@ -112,7 +112,7 @@ deploy:
   type: rsync
   host: 192.168.0.3
   user: stefan
-  root: /volume1/psykolog.bjork.blog
+  root: /volume1/bjorkpsykologi.se
   delete: true
   verbose: true
   ignore_errors: true
