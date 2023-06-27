@@ -42,7 +42,7 @@ head:
         title: 
         # Page type (og:type) (optional)
         # You should leave this blank for most of the time
-        type: blog
+        type: 
         # Page URL (og:url) (optional)
         # You should leave this blank for most of the time
         url: 
@@ -111,17 +111,17 @@ navbar:
         Psykologsamtal: /psykologsamtal
         Elevhälsa: /skola
         # AR: /ar
-        Blogg: /blog
+        Blogg: /blogg
         Kontakt: /kontakt
     # Links to be shown on the right of the navigation bar
     links:
         Facebook:
             icon: fab fa-facebook
-            url: https://facebook.com/fenomenologen
+            url: https://facebook.com/bjorkpsykologi
 # Page footer configurations
 footer:
     # Copyright text
-    copyright: Telefon 070-622 24 37 · <a href="mailto:stefan@bjorkpsykologi.se">stefan@bjorkpsykologi.se</a> · Företaget innehar F-skattsedel
+    copyright: Telefon 070-622 24 37 · <a href="mailto:stefan@bjorkpsykologi.se">stefan@bjorkpsykologi.se</a>
     # Links to be shown on the right of the footer section
     # links:
     #     Creative Commons:
