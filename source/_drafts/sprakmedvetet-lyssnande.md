@@ -9,13 +9,55 @@ tags:
 
 <!--more-->
 
-På ett sätt var det väldigt enkelt: jag lyssnade förutsättningslöst på patientens berättelse utan att försöka passa in den i mina psykologramar. Vi vill så gärna göra det. Vi psykologer har vårt _fackspråk_ och vi vill gärna tala om för våra patienter att det där som de beskriver, det är "ångest" eller "exekutiva svårigheter" eller "hyperreaktivitet vid sensorisk stimulering". Så tror vi att vi hjälpt våra patienter på vägen genom att tala om för dem vad deras upplevelser _egentligen_ är.
+På ett sätt var det väldigt enkelt: jag lyssnade förutsättningslöst på patientens berättelse utan att försöka passa in den i mina psykologramar. Vi psykologer (och andra som jobbar inom psykiatrin) har vårt _fackspråk_. Det består av psykologiska och medicinska termer och psykiatriska diagnoser. När vi möter patienter behöver vi översätta deras berättelser till psykiatriskt fackspråk.
 
-Men det vi i själva verket gjort är att vi skrivit över patientens egen berättelse med vår berättelse. Vi har lagt våra ord i patientens mun. Det leder sällan till att patienten känner sig förstådd.
+Alltför ofta vill vi använda fackspråket i mötet med patienten. Vi vill så gärna tala om för våra patienter att det där som de beskriver, det är "ångest" eller "exekutiva svårigheter" eller "hyperreaktivitet vid sensorisk stimulering". Då tror vi att vi hjälper våra patienter på vägen genom att tala om för dem vad deras upplevelser _egentligen_ är. Men det vi i själva verket gör är att vi skriver över patientens egen berättelse med vår berättelse. Vi lägger våra ord i patientens mun. Det leder sällan till att patienten känner sig förstådd.
 
-Vilket språk och vilka ord vi använder är viktigt. Varför? Därför att språket definierar vår verklighet. Hur vi benämner saker och företeelser avgör hur vi tänker om dem. Det spelar roll om vi benämner en bit mark där det en gång varit skog för "kalhygge" eller "föryngringsyta".
+Men det finns ytterligare problem som man till en början inte lägger märke till. Inte ens vi som arbetar inom psykiatri tänker på det. Det första problemet är att språket definierar verkligheten. Det andra är att det psykiatriska fackspråket inte är fritt från teorier och förklaringar. Ett tredje problem är att relationen mellan patient och psykiatrins personal inte är jämlik.
 
-{% asset_img annie-spratt-Qd2frxnJPnI-unsplash.jpg '"" "Kalhygge eller föryngringsyta?"' %}
+Allt detta går att undvika med det som jag kallar för ett _språkmedvetet lyssnande_. Men först några ord om de där problemen.
+
+## Språket definierar verkligheten
+
+Vilket språk och vilka ord vi använder är viktigt. Varför? Därför att språket definierar vår verklighet. Det spelar roll om vi benämner en bit mark där det en gång varit skog för "kalhygge" eller "föryngringsyta". Den som talar om kalhyggen ser något fult och klimatskadligt. Den som talar om föryngringsytor ser ett normalt och lönsamt skogsbruk. Hur vi benämner saker och företeelser avgör hur vi förstår dem.
+
+<!-- {% asset_img annie-spratt-Qd2frxnJPnI-unsplash.jpg '"Foto: Annie Spratt" "Kalhygge eller föryngringsyta?"' %} -->
+
+{% asset_img maksim-shutov-FjgZvsp_SFE-unsplash.jpg '"Foto: Maksim Shutov" "Kalhygge eller föryngringsyta?"' %}
+
+Markytor påverkas inte av om vi kallar dem "kalhyggen" eller "föryngringsytor". De bryr sig inte heller. Människor, däremot, påverkas av hur vi benämner dem. I allmänhet bryr de sig också. De påverkas av om vi säger att de "inte kan" eller "inte vill". De bryr sig om vi kallar dem "målmedvetna" eller "manipulativa". Och det är en stor skillnad om en patienten får höra att "det är inte konstigt att du mår som du gör givet vad du varit med om" jämfört med "du är deprimerad, du behöver medicin". Hur vi talar om människor och deras upplevelser avgör hur vi förstår dem -- i förlängningen också hur vi bemöter dem.
+
+## Det psykiatriska fackspråket medikaliserar
+
+Psykiatriska diagnoser är beskrivningar, inte förklaringar.[^a] En diagnos är en beskrivning av ett karaktäristiskt sätt att tänka, känna, uppleva och agera. Diagnosen i sig säger ingenting om _varför_ en person tänker, känner, upplever och agerar på det sättet. Den enda diagnos som uttryckligen anger en orsak är posttraumatiskt stressyndrom (PTSD).
+
+[^a]: Detta skall jag skriva ett inlägg om och länka till.
+
+***
+
+<!-- fortsätt här -->
+
+Psykiatriska diagnoser utger sig för att bara vara neutrala beskrivningar som inte anger någon orsak.[^2] I DSM-5 är det bara posttraumatiskt stressyndrom som har någon idé om orsak. Alla andra diagnoser är beskrivningar av karaktäristiska sätt att tänka, känna, uppleva och agera. När vi ställer en diagnos, borde vi således säga: "Det här som du berättar för mig, det är vad vi kallar depression". Diagnosen är bara en fackterm för det vi kan observera.
+
+[^2]: "... a diagnosis does not carry any necessary implications regarding the etiology or causes of the individual's mental disorder ..." 
+
+Om en patient har svårt med uppmärksamhet, hyperaktivitet och impulsivitet kan de svårigheterna benämnas ADHD om de uppfyller diagnoskriterierna. Men alltför ofta vänder vi på det och förmodar att ADHD är *orsaken* till att en person har svårt med uppmärksamhet, hyperaktivitet och impulsivitet. Även vi yrkesutövare gör det. Vi tror gärna att vi *förklarat* någonting när vi ställt diagnos, men det enda vi gjort är att vi *benämnt*. Det finns många teorier och förklaringar vad som ligger bakom det som olika diagnoser beskriver, men *diagnosen i sig är ingen förklaring*.
+
+## Diagnoser medikaliserar
+
+Majoriteten av alla teorier bakom psykiatriska diagnoser är biomedicinska. De förmodar att det diagnosen beskriver, alltså det vi kan observera, är ett uttryck för någonting inuti individen. Ord som "hjärna" och prefix som "neuro" är i dag mycket populära vilket implicerar att förklaringen bakom diagnosen är medicinsk. Andra förklaringar till patientens mående, till exempel dennes livshistoria och livssituation, riskerar att döljas av de medicinska förklaringarna. Detta är *medikalisering*, det vill säga att problem som har andra orsaker ändå uppfattas som *medicinska* problem.
+
+## Det psykiatriska fackspråket exkluderar
+
+Det psykiatriska fackspråket är ofta det naturliga och självklara språket för yrkesutövaren. De psykologiska begreppen och de diagnostiska kategorierna är ofta självklara kategorier som yrkesutövaren också använder för att förstå sitt eget mående och psykologiska fungerande.
+
+Patienten kan ha ett helt annat språk för att tala om sina upplevelser och sitt mående. Yrkesutövarens uppgift är, som jag nämnt, att översätta patientens berättelse till det psykiatriska fackspråket. Om yrkesutövaren gör det i mötet med patienten kommer hen inte bara att erbjuda patienten nya sätt att benämna och kategorisera sitt eget mående, utan också nya sätt att *förklara* måendet. Eftersom maktförhållandet mellan patient och yrkesutövare är asymmetriskt, är det som regel yrkesutövarens språk som gäller. Det kan vara det svårt för patienten att värja sig för det medikaliserande språket. Patientens egen berättelse riskerar att osynliggöras.
+
+Detta blir en exkluderande praktik. Ju längre bort från det psykiatriska fackspråket patienten befinner sig, desto större risk att patientens berättelse osynliggörs och det psykiatriska språket liksom invaderar dennes värld och blir det "rätta" sättet att förstå det egna måendet.
+
+Om det psykiatriska fackspråket för yrkesutövaren är det naturliga eller korrekta språket att tala om psykisk ohälsa, kommer hen inte att märka att patientens berättelse osynliggörs. Osynliggörandet blir osynligt för yrkesutövaren.
+
+Många patienter är bekanta med det psykiatriska fackspråket eftersom de googlat och läst populärpsykologisk litteratur, men de saknar som regel yrkesutövarens akademiska skolning och djupare förståelse av teorier och begrepp. Detta gör att förståelseglappet kan bli osynligt även för patienten: de använder samma benämningar och kategorier, men talar egentligen inte samma språk.
 
 
 ***
@@ -43,31 +85,9 @@ Mötet mellan patient och yrkesutövare är asymmetriskt när det gäller makt. 
 
 
 
-Hur vi pratar om saker avgör hur vi förstår dem. "Kalhygge" och "föryngringsyta" är inte samma sak, trots att de båda hänvisar till samma fysiska plats, nämligen en bit mark där det en gång stod en massa träd. Hur vi benämner och kategoriserar föremål och företeelser har stor betydelse för hur vi förstår dem.
-
-Markytor bryr sig dock inte om hur vi benämner dem. De påverkas inte heller av om vi kallar dem "kalhyggen" eller "föryngringsytor". Människor, däremot, bryr sig om hur de blir benämnda och kategoriserade. Det påverkar dem också. Det spelar roll om vi säger att människor "inte kan" eller om de "inte vill", om de är "målmedvetna" eller "manipulativa", "trevliga" eller "inställsamma".
 
 ## Diagnoser är beskrivningar, inte förklaringar
 
-Psykiatriska diagnoser utger sig för att bara vara neutrala beskrivningar som inte anger någon orsak. I DSM-5 är det bara posttraumatiskt stressyndrom som har någon idé om orsak. Alla andra diagnoser är beskrivningar av karaktäristiska sätt att tänka, känna, uppleva och agera. När vi ställer en diagnos, borde vi således säga: "Det här som du berättar för mig, det är vad vi kallar depression". Diagnosen är bara en fackterm för det vi kan observera.
-
-Om en patient har svårt med uppmärksamhet, hyperaktivitet och impulsivitet kan de svårigheterna benämnas ADHD om de uppfyller diagnoskriterierna. Men alltför ofta vänder vi på det och förmodar att ADHD är *orsaken* till att en person har svårt med uppmärksamhet, hyperaktivitet och impulsivitet. Även vi yrkesutövare gör det. Vi tror gärna att vi *förklarat* någonting när vi ställt diagnos, men det enda vi gjort är att vi *benämnt*. Det finns många teorier och förklaringar vad som ligger bakom det som olika diagnoser beskriver, men *diagnosen i sig är ingen förklaring*.
-
-## Diagnoser medikaliserar
-
-Majoriteten av alla teorier bakom psykiatriska diagnoser är biomedicinska. De förmodar att det diagnosen beskriver, alltså det vi kan observera, är ett uttryck för någonting inuti individen. Ord som "hjärna" och prefix som "neuro" är i dag mycket populära vilket implicerar att förklaringen bakom diagnosen är medicinsk. Andra förklaringar till patientens mående, till exempel dennes livshistoria och livssituation, riskerar att döljas av de medicinska förklaringarna. Detta är *medikalisering*, det vill säga att problem som har andra orsaker ändå uppfattas som *medicinska* problem.
-
-## Det psykiatriska fackspråket exkluderar
-
-Det psykiatriska fackspråket är ofta det naturliga och självklara språket för yrkesutövaren. De psykologiska begreppen och de diagnostiska kategorierna är ofta självklara kategorier som yrkesutövaren också använder för att förstå sitt eget mående och psykologiska fungerande.
-
-Patienten kan ha ett helt annat språk för att tala om sina upplevelser och sitt mående. Yrkesutövarens uppgift är, som jag nämnt, att översätta patientens berättelse till det psykiatriska fackspråket. Om yrkesutövaren gör det i mötet med patienten kommer hen inte bara att erbjuda patienten nya sätt att benämna och kategorisera sitt eget mående, utan också nya sätt att *förklara* måendet. Eftersom maktförhållandet mellan patient och yrkesutövare är asymmetriskt, är det som regel yrkesutövarens språk som gäller. Det kan vara det svårt för patienten att värja sig för det medikaliserande språket. Patientens egen berättelse riskerar att osynliggöras.
-
-Detta blir en exkluderande praktik. Ju längre bort från det psykiatriska fackspråket patienten befinner sig, desto större risk att patientens berättelse osynliggörs och det psykiatriska språket liksom invaderar dennes värld och blir det "rätta" sättet att förstå det egna måendet.
-
-Om det psykiatriska fackspråket för yrkesutövaren är det naturliga eller korrekta språket att tala om psykisk ohälsa, kommer hen inte att märka att patientens berättelse osynliggörs. Osynliggörandet blir osynligt för yrkesutövaren.
-
-Många patienter är bekanta med det psykiatriska fackspråket eftersom de googlat och läst populärpsykologisk litteratur, men de saknar som regel yrkesutövarens akademiska skolning och djupare förståelse av teorier och begrepp. Detta gör att förståelseglappet kan bli osynligt även för patienten: de använder samma benämningar och kategorier, men talar egentligen inte samma språk.
 
 ## Exempel
 
