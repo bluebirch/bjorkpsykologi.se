@@ -19,13 +19,13 @@ Allt detta går att undvika med det som jag kallar för ett _språkmedvetet lyss
 
 ## Språket definierar verkligheten
 
-Vilket språk och vilka ord vi använder är viktigt. Varför? Därför att språket definierar vår verklighet. Det spelar roll om vi benämner en bit mark där det en gång varit skog för "kalhygge" eller "föryngringsyta". Den som talar om kalhyggen ser något fult och klimatskadligt. Den som talar om föryngringsytor ser ett normalt och lönsamt skogsbruk. Hur vi benämner saker och företeelser avgör hur vi förstår dem.
+Vilket språk och vilka ord vi använder är viktigt. Varför? Därför att språket definierar vår verklighet. Det spelar roll om vi benämner en bit mark där det en gång varit skog för "kalhygge" eller "föryngringsyta". Den som talar om kalhyggen ser något fult och klimatskadligt. Den som talar om föryngringsytor ser ett normalt och lönsamt skogsbruk. Hur vi benämner saker och företeelser avgör hur vi tänker om dem. Och hur vi tänker avgör vad vi gör.
 
 <!-- {% asset_img annie-spratt-Qd2frxnJPnI-unsplash.jpg '"Foto: Annie Spratt" "Kalhygge eller föryngringsyta?"' %} -->
 
 {% asset_img maksim-shutov-FjgZvsp_SFE-unsplash.jpg '"Foto: Maksim Shutov" "Kalhygge eller föryngringsyta?"' %}
 
-Markytor påverkas inte av om vi kallar dem "kalhyggen" eller "föryngringsytor". De bryr sig inte heller. Människor, däremot, påverkas av hur vi benämner dem. I allmänhet bryr de sig också. De påverkas av om vi säger att de "inte kan" eller "inte vill". De bryr sig om vi kallar dem "målmedvetna" eller "manipulativa". Och det är en stor skillnad om en patienten får höra att "det är inte konstigt att du mår som du gör givet vad du varit med om" jämfört med "du är deprimerad, du behöver medicin". Hur vi talar om människor och deras upplevelser avgör hur vi förstår dem -- i förlängningen också hur vi bemöter dem.
+Markytor påverkas inte av om vi kallar dem "kalhyggen" eller "föryngringsytor". De bryr sig inte heller. Människor, däremot, påverkas av hur vi benämner dem. I allmänhet bryr de sig också. De påverkas av om vi säger att de "inte kan" eller "inte vill". De bryr sig om vi kallar dem "målmedvetna" eller "manipulativa". Och det är en stor skillnad om en patienten får höra att "det är inte konstigt att du mår som du gör givet vad du varit med om" jämfört med "du är deprimerad, du behöver medicin". Hur vi talar om människor och deras upplevelser avgör hur vi tänker om dem. Hur vi tänker om dem avgör hur vi bemöter dem.
 
 ## Det psykiatriska fackspråket medikaliserar
 
