@@ -69,7 +69,7 @@ head:
         # Facebook admin ID
         fb_admins: 
         # Facebook App ID
-        fb_app_id: 
+        fb_app_id: "852045899676895"
     # Structured data of the page
     # https://developers.google.com/search/docs/guides/intro-structured-data
     structured_data:
@@ -98,7 +98,7 @@ head:
     meta:
         # Meta tag specified in <attribute>=<value> style
         # E.g., name=theme-color;content=#123456 => <meta name="theme-color" content="#123456">
-        - ''
+        # - ''
     # URL or path to the website's RSS atom.xml
     rss: 
 # Page top navigation bar configurations
@@ -168,7 +168,7 @@ search:
 # Comment plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment/
 comment:
-    type: disqus
+    type: facebook
     # Disqus shortname
     shortname: 'bjork-psykologi'
 # Donate plugin configurations
