@@ -4,17 +4,36 @@
 
 # Site
 title: Björk Psykologi
-subtitle: Japp, det är en bedrövlig titel.
-description: En bra psykolog.
+#subtitle: 
+#description: 
 keywords:
+  - psykolog
+  - psykologsamtal
+  - psykoterapi
+  - samtalsterapi
+  - psykologutredning
+  - elevhälsa
+  - skolpsykolog
+  - arbetslivsinriktad rehabilitering
+  - arbets- och organisationspsykologi
+  - arbetspsykolog
+  - organisationskonsult
+  - Umeå
+  - Stockholm
+  - psykologi
+  - Internal Family Systems
+  - relationell psykoterapi
+  - psykodynamisk psykoterapi
+  - trauma
+  - dissociation
 author: Stefan Björk
 language: sv
 timezone: 'Europe/Stockholm'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://psykolog.bjork.blog
-permalink: blog/:year/:month/:title/
+url: http://bjorkpsykologi.se
+permalink: blogg/:year/:month/:title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -64,7 +83,7 @@ prismjs:
 # per_page: Posts displayed per page. (0 = disable pagination)
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
-  path: 'blog'
+  path: 'blogg'
   per_page: 7
   order_by: -date
 
