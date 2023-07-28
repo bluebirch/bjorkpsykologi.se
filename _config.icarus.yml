@@ -67,7 +67,7 @@ head:
         # Google+ profile link (deprecated)
         google_plus: 
         # Facebook admin ID
-        fb_admins: 
+        #fb_admins: "701061626671846" 
         # Facebook App ID
         fb_app_id: "852045899676895"
     # Structured data of the page
@@ -168,9 +168,9 @@ search:
 # Comment plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment/
 comment:
-    type: facebook
+    #type: facebook
     # Disqus shortname
-    shortname: 'bjork-psykologi'
+    #shortname: 'bjork-psykologi'
 # Donate plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Donation/
 # donates:
