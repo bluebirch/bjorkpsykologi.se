@@ -7,7 +7,7 @@ updated: 2023-06-26
 
 Jag är legitimerad psykolog och doktor i psykologi. Jag har ett brett kunnande inom psykologi och har arbetat med såväl individer som grupper och organisationer.
 
-Det är det ett privilegium att få ta del av människors livsberättelser och jag känner ödmjukhet och tacksamhet när människor visar mig det förtroendet. I varje klient möter jag en ny, främmande värld som jag får förmånen att utforska.
+Det är det ett privilegium att få ta del av människors livsberättelser och jag känner ödmjukhet och tacksamhet när människor visar mig det förtroendet. I varje klient möter jag en ny, främmande värld som jag får förmånen att utforska. <!--  Jag brukar tänka att jag inte behöver resa till jordens alla hörn, för jag besöker en ny värld varje gång jag möter en klient. -->
 
 Min utgångspunkt är att människor kan förändra sig själva och sina liv. Min erfarenhet är att när människor mår dåligt är det ofta för att de hamnat i en stängd livssituation och inte kan se några vägar framåt. Genom att lyssna noga kan jag hitta springor och skav i människors berättelser som kan vara nycklar till ny förståelse och förändring. Det gäller såväl individer som par och grupper. Det är alltid lika fantastiskt när jag kan bidra till att undanröja hinder inom eller mellan människor. Då känner jag att jag bidrar till lite mer fred i världen, i det lilla.     
  
