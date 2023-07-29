@@ -1,7 +1,7 @@
 ---
 title: Om mig
-date: 2023-04-08
-updated: 2023-06-19
+date: 2023-04-08 00:00:00
+updated: 2023-06-19 00:00:00
 ---
 
 {% message color:warning "icon:fa-solid fa-wrench" "title:Arbete pågår" %}

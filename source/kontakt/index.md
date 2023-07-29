@@ -1,6 +1,6 @@
 ---
 title: Kontakt
-date: 2023-06-27
+date: 2023-06-27 00:00:00
 ---
 
 Stefan Björk  

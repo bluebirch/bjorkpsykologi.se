@@ -1,6 +1,6 @@
 ---
 title: Arbetslivsinriktad rehabilitering
-date: 2023-04-10
+date: 2023-04-10 00:00:00
 ---
 
 Här skall jag skriva om vad jag kan om arbetslivsinriktad rehabilitering, inklusive

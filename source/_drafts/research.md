@@ -1,6 +1,7 @@
 ---
 title: Research för hemsidan
-tags: null
+date: 2023-06-19 09:55:00
+updated: 2023-07-29 17:19:39
 ---
 
 Jag tjuvtittar på andra.
@@ -43,3 +44,6 @@ Jag tjuvtittar på andra.
   > VI JOBBAR MED organisationer som Länsstyrelsen, Lunds Universitet, Skanska, Hållbar Utveckling Skåne, Uppsala Universitet, Chalmers, Fridays for Future, Region Kronoberg, Stadsmissionens folkhögskola, Föräldravrålet, Världskulturmuseet, gymnasieskolor, bibliotek och myndigheter.
 
   Nu är jag inte klimatpsykolog -- men gud vad jag gillar anslaget! "Vi skapar modig och hållbar förändring" är briljant (även om det återigen inte är psykologerna som "skapar förändring"). Det här är en attityd jag vill ha! Självsäkert och modigt!
+
+Jag borde väl titta på Örjan Tiréns hemsida också.
+

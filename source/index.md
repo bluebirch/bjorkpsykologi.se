@@ -1,8 +1,8 @@
 ---
 title: Psykolog Stefan Björk
 cover: /img/index-cover.jpg
-date: 2023-04-08
-updated: 2023-06-26
+date: 2023-04-08 00:00:00
+updated: 2023-06-26 00:00:00
 ---
 
 {% message color:warning "icon:fa-solid fa-wrench" "title:Arbete pågår" %}

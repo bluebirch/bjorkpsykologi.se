@@ -1,6 +1,6 @@
 ---
 title: Min bakgrund
-date: 2023-06-26
+date: 2023-06-26 00:00:00
 ---
 
 Jag föddes en onsdag i september 1972. Solen lyste över Karolinska sjukhuset och min pappa var på idrottsdag med en skolklass.

@@ -1,7 +1,7 @@
 ---
 title: Psykologsamtal
 date: 2023-03-18 20:26:56
-updated: 2023-06-27 18:00
+updated: 2023-06-27 18:00:00
 cover: /img/iza-gawrych-X96x4vMmsFc-unsplash.jpg
 ---
 
@@ -37,9 +37,12 @@ Människor är berättande varelser. Det är genom våra berättelser om vandra 
 
 Jag lyssnar efter _hur_ människor framställer sig själva i sina berättelser: aktiva, passiva, hjältar, hjälplösa, osynliga, och så vidare. Ofta finns en direkt koppling till hur människor bemöter sig själva och andra här och nu. Ofta kan man behöva skärskåda sina egna berättelser om sig själv. Ibland till och med skriva om dem.
 
-### IFS (Internal Family Systems)
+### Internal Family Systems (IFS)
 
-...
+IFS utgår från att vi alla har ett inre system av delpersonligheter. Jag är en person på jobbet, en annan med min partner, en när jag spelar piano och ytterligare en när jag är arg och upprörd. Olika delar kan ha motstridiga behov och avsikter vilket ställer till det.
+
+
+<a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-size:12px;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/photos/X96x4vMmsFc" target="_blank" rel="noopener noreferrer" title="a key chain hanging from a door handle"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-1px;fill:white" viewBox="0 0 32 32"><path d="M20.8 18.1c0 2.7-2.2 4.8-4.8 4.8s-4.8-2.1-4.8-4.8c0-2.7 2.2-4.8 4.8-4.8 2.7.1 4.8 2.2 4.8 4.8zm11.2-7.4v14.9c0 2.3-1.9 4.3-4.3 4.3h-23.4c-2.4 0-4.3-1.9-4.3-4.3v-15c0-2.3 1.9-4.3 4.3-4.3h3.7l.8-2.3c.4-1.1 1.7-2 2.9-2h8.6c1.2 0 2.5.9 2.9 2l.8 2.4h3.7c2.4 0 4.3 1.9 4.3 4.3zm-8.6 7.5c0-4.1-3.3-7.5-7.5-7.5-4.1 0-7.5 3.4-7.5 7.5s3.3 7.5 7.5 7.5c4.2-.1 7.5-3.4 7.5-7.5z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Iza Gawrych</span></a>
 
 <!-- _Foto: [Iza Gawrych](https://unsplash.com/pt-br/@ilmatar?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_  -->
 

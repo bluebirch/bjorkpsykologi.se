@@ -3,11 +3,19 @@ title: Språkmedvetet lyssnande
 tags:
 - psykiatri
 - språk
+updated: 2023-07-12 04:51:29
+date: 2023-07-12 06:51:29
 ---
 
 "Jag har haft kontakt med psykiatrin i tio år och du är den första som förstår mig", sade patienten till mig. Jag blev förvånad eftersom jag var helt ny som psykolog i vuxenpsykiatri. När patient efter patient sade liknande saker, förstod jag att jag måste göra någonting rätt. Vad var det jag gjorde annorlunda?
 
 <!--more-->
+
+{% message color:warning "icon:fa-solid fa-wrench" "title:Arbete pågår" %}
+
+Jag måste nog skriva om hela den här texten.
+
+{% endmessage %}
 
 På ett sätt var det väldigt enkelt: jag lyssnade förutsättningslöst på patientens berättelse utan att försöka passa in den i mina psykologramar. Vi psykologer (och andra som jobbar inom psykiatrin) har vårt _fackspråk_. Det består av psykologiska och medicinska termer och psykiatriska diagnoser. När vi möter patienter behöver vi översätta deras berättelser till psykiatriskt fackspråk.
 
