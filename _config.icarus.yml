@@ -67,7 +67,10 @@ head:
         # Google+ profile link (deprecated)
         google_plus: 
         # Facebook admin ID
-        #fb_admins: "701061626671846" 
+        fb_admins:
+        #fb_admins: "701061626671846"
+        #fb_admins: "105762312571512"
+        # I have no idea why there are two of them but I'm not going to use them anyway.
         # Facebook App ID
         fb_app_id: "852045899676895"
     # Structured data of the page
@@ -106,11 +109,11 @@ navbar:
     # Navigation menu items
     menu:
         # Start: /
-        Om mig: /om
         # Bakgrund: /bakgrund
         Psykologsamtal: /psykologsamtal
         Elevhälsa: /skola
         # AR: /ar
+        Om mig: /om
         Blogg: /blogg
         Kontakt: /kontakt
     # Links to be shown on the right of the navigation bar
@@ -121,7 +124,7 @@ navbar:
 # Page footer configurations
 footer:
     # Copyright text
-    copyright: Telefon 070-622 24 37 · <a href="mailto:stefan@bjorkpsykologi.se">stefan@bjorkpsykologi.se</a>
+    copyright: Kungsgatan 91 Umeå · 070-622 24 37 · <a href="mailto:stefan@bjorkpsykologi.se">stefan@bjorkpsykologi.se</a>
     # Links to be shown on the right of the footer section
     # links:
     #     Creative Commons:
@@ -168,9 +171,9 @@ search:
 # Comment plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment/
 comment:
-    #type: facebook
+    type: disqus
     # Disqus shortname
-    #shortname: 'bjork-psykologi'
+    shortname: 'bjork-psykologi'
 # Donate plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Donation/
 # donates:

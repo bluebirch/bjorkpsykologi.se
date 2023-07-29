@@ -4,6 +4,12 @@ date: 2023-04-10 16:16:47
 cover: /img/skola-cover.jpg
 ---
 
+{% message color:warning "icon:fa-solid fa-wrench" "title:Arbete pågår" %}
+
+Sidan är under uppbyggnad.
+
+{% endmessage %}
+
 När jag började arbeta som skolpsykolog var det som att hitta hem. Alla erfarenheter och allt kunnande jag samlat på mig som psykolog, akademiker och konsult föll på plats. Efter två veckor kändes det som om jag jobbat i minst ett halvår. Jag förstod intuitivt vad verksamheten behövde av mig som skolpsykolog.
 
 Jag brukar säga att min huvuduppgift som skolpsykolog är att hjälpa lärare förstå hur de kan bemöta elever de inte förstår. Hemligheten är att skifta perspektiv och försöka se den pedagogiska situationen med elevens ögon och hur den situationen ter sig om man har svårigheter med uppmärksamhet, koncentration, sammanhangsförståelse eller vad det nu kan vara. Att hjälpa till med det här perspektivskiftet är min styrka som skolpsykolog.

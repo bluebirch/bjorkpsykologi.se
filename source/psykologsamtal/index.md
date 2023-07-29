@@ -1,21 +1,47 @@
 ---
 title: Psykologsamtal
-hide_date: true
 date: 2023-03-18 20:26:56
 updated: 2023-06-27 18:00
 cover: /img/iza-gawrych-X96x4vMmsFc-unsplash.jpg
 ---
 
+{% message color:warning "icon:fa-solid fa-wrench" "title:Arbete pågår" %}
+
+Sidan är under uppbyggnad.
+
+{% endmessage %}
+
 Hur har du det?
 
 Ibland mår man inte så bra. Ibland förföljs man av nedstämdhet, stress eller ångest. Ibland fungerar inte relationerna till dem man har närmast. Ibland har man kommit till vägs ände i en ohållbar livssituation och ser inga vägar framåt. Det är då du kan höra av dig till mig.
 
-Tillsammans undersöker vi vad som behöver förändras för att du skall komma vidare och hur vi kan undanröja de hinder som ligger i vägen. Utgångspunkten är ditt livssammanhang och din egen berättelse. Målet är att du inte längre skall behöva prata med mig.
+Tillsammans undersöker vi vad som behöver förändras för att du skall komma vidare och hur vi kan undanröja de hinder som ligger i vägen. Utgångspunkten är ditt livssammanhang och din egen berättelse. Målet är att du själv skall kunna hålla i rodret i ditt eget liv inte längre behöva prata med mig.
 
-Mitt förhållningssätt är i linje med den relationella psykoterapin. Den är mer lik den psykodynamiska psykoterapin än KBT, men är egentligen metodneutral: psykoterapi är något vi gör tillsammans, ett ömsesidigt samarbete snarare än en förutbestämd metod. Min utgångspunkt är dina berättelser och det ömsesidiga samspelet i mottagningsrummet.
+## Förhållningssätt och metoder
 
+Mitt förhållningssätt utgår från den humanistiska psykologin, systemteori och den relationella psykoterapin. Jag använder främst metoder från den psykodynamiska traditionen och IFS (Internal Family Systems). Jag är inte främmande för KBT om frågeställningen är avgränsad och handlar om ren beteendeförändring.
 
-_Foto: [Iza Gawrych](https://unsplash.com/pt-br/@ilmatar?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_  
+### Existentiell/humanistisk utgångspunkt
+
+Min utgångspunkt är _människan i sitt livssammanhang_. Varje människa bebor en _livsvärld_ av mellanmänskliga relationer, intentioner och berättelser. En människa är mer än summan av sina delar. Mänskligt lidande kan inte till fullo förstås om det reduceras till välavgränsade problem eller psykiatriska diagnoser. Mitt mål är att hjälpa klienten upptäcka att hen har en fri vilja och är deltagare i sitt eget liv, inte blott observatör.
+
+Som existentiell terapeut är jag på besök i klientens livsvärld. Det är klienten som är expert på sitt liv. Tillsammans söker vi mening och sammanhang i klientens livsvärld och livsberättelse.
+
+### Relationell psykoterapi
+
+Den relationella psykoterapin utgår inte från någon förutbestämd metod (som KBT eller psykodynamisk psykoterapi). Jag betraktar psykoterapi som något vi gör tillsammans, ett _ömsesidigt samarbete_. Min roll som terapeut är att tänka _tillsammans med_ dig, inte _åt_ dig. Särskilt viktigt är hur känslor och känsloreaktioner kommer i spel i den terapeutiska relationen. Det är den terapeutiska relationens _här och nu_ snarare än det berättade _där och då_ som är den terapeutiska processens utgångspunkt.
+
+### Narrativ psykoterapi
+
+Människor är berättande varelser. Det är genom våra berättelser om vandra som vi förstår oss själva och som vi förankrar oss i tiden, med ett här-och-nu av pågående berättelser, ett förflutet av avslutade berättelser och en framtid av möjliga berättelser.
+
+Jag lyssnar efter _hur_ människor framställer sig själva i sina berättelser: aktiva, passiva, hjältar, hjälplösa, osynliga, och så vidare. Ofta finns en direkt koppling till hur människor bemöter sig själva och andra här och nu. Ofta kan man behöva skärskåda sina egna berättelser om sig själv. Ibland till och med skriva om dem.
+
+### IFS (Internal Family Systems)
+
+...
+
+<!-- _Foto: [Iza Gawrych](https://unsplash.com/pt-br/@ilmatar?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_  -->
 
 
 <!--

@@ -4,6 +4,12 @@ date: 2023-04-08
 updated: 2023-06-19
 ---
 
+{% message color:warning "icon:fa-solid fa-wrench" "title:Arbete pågår" %}
+
+Sidan är under uppbyggnad.
+
+{% endmessage %}
+
 Jag är legitimerad psykolog och filosofie doktor i psykologi. Som psykolog har jag erfarenhet av individuella samtal, psykologutredningar, neuropsykiatriska funktionsvariationer, mellanmänskligt samspel, konflikthantering och organisationspsykologi. Jag har arbetat inom elevhälsa, arbetslivsinriktad rehabilitering och vuxenpsykiatri. Min forskning handlade om blivande pappors möte med mödrahälsovården.
 
 ...
