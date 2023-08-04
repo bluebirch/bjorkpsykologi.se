@@ -30,3 +30,10 @@ Det här var en bra sida som introducerar IFS: <https://www.choosingtherapy.com/
 
 Nu middag.
 
+***
+
+Läser Schwartz (2013).
+
+***
+
+Utgångspunkten i IFS är att människans psyke består av olika delar.
