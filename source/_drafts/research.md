@@ -1,7 +1,5 @@
 ---
 title: Research för hemsidan
-date: 2023-06-19 09:55:00
-updated: 2023-07-29 17:19:39
 ---
 
 Jag tjuvtittar på andra.

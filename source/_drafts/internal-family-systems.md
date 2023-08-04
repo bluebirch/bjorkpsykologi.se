@@ -1,7 +1,5 @@
 ---
 title: Internal Family Systems (IFS)
-date: 2023-07-29 15:14:47
-updated: 2023-07-29 17:22:04
 ---
 
 {% message color:warning "icon:fa-solid fa-pen-ruler" "title:Utkast" %}
