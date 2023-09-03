@@ -1,5 +1,6 @@
 ---
 title: Research för hemsidan
+excerpt: Spaning på hur andra gör hemsida. Det här borde egentligen vara en anteckningn i Notable.
 ---
 
 Jag tjuvtittar på andra.

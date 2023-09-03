@@ -4,9 +4,11 @@ date: 2023-04-10 16:16:47
 cover: /img/skola-cover.jpg
 ---
 
-{% message color:warning "icon:fa-solid fa-wrench" "title:Arbete pågår" %}
+Jag är skolpsykolog i Bjurholm, Sveriges minsta kommun, på en liten deltid. Tidigare har jag arbetat som skolpsykolog i bland annat Umeå och Skövde kommun. Jag gör också skolpsykologiska utredningar på uppdrag.
 
-Sidan är under uppbyggnad.
+{% message title:Kontakt color:success icon:"fa-solid fa-phone" %}
+
+Kontakta mig gärna för att få referenser från tidigare uppdrag.
 
 {% endmessage %}
 
@@ -17,11 +19,3 @@ Jag brukar säga att min huvuduppgift som skolpsykolog är att hjälpa lärare f
 Min utgångspunkt är det tvärprofessionella samarbetet i elevhälsoteamet. Jag tycker att jag kommer bäst till min rätt ju mer involverad jag är i elevhälsoarbetet och ju tidigare kan bidra med nya perspektiv, råd och handledning. Jag samverkar också mycket med socialtjänst, primärvård, BUP och habilitering.
 
 En särskild talang jag har är att hantera de där situationerna när läraren inte förstår sig på en elev, vårdnadshavarna är missnöjda och skyller på skolan, lärarna skyller på vårdnadshavarna, alla är missnöjda med rektorn som inte vill lösa problemet med en elevassistent och ingen lyssnar på specialpedagogen (som ofta sitter inne med lösningen). Då samlar jag alla berörda parter i samma rum, tar hand om de upprörda känslorna och hjälper dem samarbeta konstruktivt på ett sätt som gagnar eleven.
-
-## Exempel på uppdrag
-
-2022--2023
-: _Umeå kommun._ Skolpsykolog på Sjöfruskolan (F-9), Tomtebogårds skola (F-3) och Innertavle skola (F-5).
-
-2021--2022
-: _Skövde kommun._ Skolpsykolog på Käpplundaskolan (F-6), Lundenskolan (F-6), Norrmalmskolan (F-6) och Helenaskolan (7-9). 
