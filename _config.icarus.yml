@@ -270,12 +270,15 @@ widgets:
             Facebook:
                 icon: fab fa-facebook
                 url: https://facebook.com/fenomenologen
-            Mastodon:
+            mastodon.nu:
+                icon: fab fa-mastodon
+                url: https://mastodon.nu/@drbjork
+            scholar.social:
                 icon: fab fa-mastodon
                 url: https://scholar.social/@drbjork
-            RSS:
-                icon: fas fa-rss
-                url: /
+            # RSS:
+            #     icon: fas fa-rss
+            #     url: /
     # Categories widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar

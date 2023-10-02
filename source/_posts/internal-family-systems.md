@@ -1,10 +1,21 @@
 ---
 title: Internal Family Systems (IFS)
 date: 2023-08-05 10:57:52
+updated: 2023-10-02T17:06:00
 tags:
-- IFS
-- psykoterapi
+  - IFS
+  - psykoterapi
 ---
+
+<!--
+
+## Internal Family Systems (IFS)
+
+Internal family systems (IFS) är en psykoterapi där utgångspunkten är att vi alla består av flera delpersonligheter eller "delar" som antar olika roller, till exempel "den inre kritikern" eller "det inre barnet". En del delar tyngs av bördor: smärtsamma upplevelser och svåra känslor som skam, ilska och rädsla. Målet är att hjälpa dig få kontakt med det som i IFS kallas "Självet" (ibland "det autentiska jaget") så att det kan befria de skadade delarna från sina bördor och göra det "inre familjesystemet" mer balanserat och harmoniskt.
+
+
+
+-->
 
 Internal Family Systems (IFS) är en form av psykoterapi som fokuserar på klientens inre "delar" och "själv". Utgångspunkten i IFS är att människans psyke är ett system av olika delar eller _delpersonligheter_. Delpersonligheterna har olika roller eller funktioner. En del kan vara den jag är på jobbet, en annan den jag är hemma. Andra delar kan vara den inre kritikern eller det inre barnet.
 
