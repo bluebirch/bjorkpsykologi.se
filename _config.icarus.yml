@@ -118,15 +118,31 @@ navbar:
         Blogg: /blogg
         Kontakt: /kontakt
     # Links to be shown on the right of the navigation bar
-    links:
-        Facebook:
-            icon: fab fa-facebook
-            url: https://facebook.com/bjorkpsykologi
+    # links:
+    #     Facebook:
+    #         icon: fab fa-facebook
+    #         url: https://facebook.com/bjorkpsykologi
+    #     Instagram:
+    #         icon: fab fa-instagram
+    #         url: https://instagram.com/bjorkpsykologi
+    #     Telegram:
+    #         icon: fab fa-telegram
+    #         url: https://t.me/drbjork
 # Page footer configurations
 footer:
     # Copyright text
     copyright: 070-622 24 37 · <a href="mailto:stefan@bjorkpsykologi.se">stefan@bjorkpsykologi.se</a>
     # Links to be shown on the right of the footer section
+    links:
+        Facebook:
+            icon: fab fa-facebook
+            url: https://facebook.com/bjorkpsykologi
+        Instagram:
+            icon: fab fa-instagram
+            url: https://instagram.com/bjorkpsykologi
+        Telegram:
+            icon: fab fa-telegram
+            url: https://t.me/drbjork
     # links:
     #     Creative Commons:
     #         icon: fab fa-creative-commons
