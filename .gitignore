@@ -9,3 +9,4 @@ _multiconfig.yml
 *.sublime-workspace
 .notable/
 notes/
+.obsidian/workspace*
