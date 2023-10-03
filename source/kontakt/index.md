@@ -9,3 +9,5 @@ Kontakta mig gärna för ett samtal om vad jag kan hjälpa just dig eller din or
 Stefan Björk  
 <i class="fa-solid fa-phone"></i> 070-622 24 37  
 <i class="fa-regular fa-envelope"></i> <stefan@bjorkpsykologi.se>
+
+<p align="center"><img src="/img/logo.png"></img></p>
