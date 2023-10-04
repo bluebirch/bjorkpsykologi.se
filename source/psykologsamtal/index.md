@@ -18,4 +18,3 @@ Människor är berättande varelser. Det är genom våra berättelser om vandra 
 ## Hur jag arbetar
 
 Vi börjar med att du berättar om vad du vill ha hjälp med. Jag ställer nyfikna frågor om din aktuella livssituation och din bakgrund och tillsammans formulerar vi mål för vårt samarbete. Jag anpassar hur jag arbetar efter klientens behov men använder främst metoder från den psykodynamiska skolan, {% post_link relationell-psykoterapi relationell psykoterapi %} och {% post_link internal-family-systems IFS (Internal Famly Systems) %}. Jag är också skolad i KBT.
-

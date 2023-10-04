@@ -5,7 +5,7 @@ updated: 2023-10-02T11:04:00
 cover: /img/index-cover.jpg
 ---
 
-Jag tror på människors förmåga att förändra sig själva och sina liv. När vi mår dåligt är det för att vi ofta hamnat i en stängd livssituation och inte ser några vägar framåt. Mitt arbete handlar om att hjälpa dig att finna nycklar som kan öppna dörrar till ny förståelse och förändring.
+Jag tror på människors förmåga att förändra sig själva och sina liv. När vi mår dåligt är det ofta för att vi hamnat i en stängd livssituation och inte ser några vägar framåt. Mitt arbete handlar om att hjälpa dig att finna nycklar som kan öppna dörrar till ny förståelse och förändring.
 
 En av de metoder jag använder är IFS (Internal Family Systems), en terapeutisk metod som hjälper dig utforska och förstå olika delar av dig själv och hur de kan skapa inre konflikt. Med IFS kan vi läka de delar som bär på smärtsamma upplevelser och uppnå inre balans, vilket leder till ökat välmående och bättre fungerande i vardagen.
 
