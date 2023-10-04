@@ -13,8 +13,8 @@ En människa är mer än summan av sina delar och kan bara förstås mot bakgrun
 
 Alla människor har en inneboende potential att växa och utvecklas. Min uppgift som psykolog handlar mycket om att upptäcka och undanröja de hinder som ligger i vägen för förändring och utveckling. Målet är i första hand att du skall återfå kontroll och känna att du håller i rodret i ditt liv.
 
-Människor är berättande varelser. Det är genom våra berättelser om vandra som vi förstår oss själva och vårt förflutna. Hur vi framställer oss själva i våra berättelser -- aktiva, passiva, hjältar, hjälplösa, osynliga, och så vidare -- har ofta en direkt koppling till hur vi bemöter oss själva och andra här och nu. Därför lyssnar jag efter och arbetar mycket med klientens berättelser om sig själv och andra.
+Människor är berättande varelser. Det är genom våra berättelser om vandra som vi förstår oss själva och vårt förflutna. Hur vi framställer oss själva i våra berättelser -- aktiva, passiva, hjältar, hjälplösa, osynliga, och så vidare -- har ofta en direkt koppling till hur vi bemöter oss själva och andra här och nu. Därför lyssnar jag efter och arbetar mycket med dina berättelser om dig själv och andra.
 
 ## Hur jag arbetar
 
-Vi börjar med att du berättar om vad du vill ha hjälp med. Jag ställer nyfikna frågor om din aktuella livssituation och din bakgrund och tillsammans formulerar vi mål för vårt samarbete. Jag anpassar hur jag arbetar efter klientens behov men använder främst metoder från den psykodynamiska skolan, {% post_link relationell-psykoterapi relationell psykoterapi %} och {% post_link internal-family-systems IFS (Internal Famly Systems) %}. Jag är också skolad i KBT.
+Vi börjar med att du berättar om vad du vill ha hjälp med. Jag ställer nyfikna frågor om din aktuella livssituation och din bakgrund och tillsammans formulerar vi mål för vårt samarbete. Jag anpassar hur jag arbetar efter dina behov men använder främst metoder från den psykodynamiska skolan, {% post_link relationell-psykoterapi relationell psykoterapi %} och {% post_link internal-family-systems IFS (Internal Famly Systems) %}. Jag är också skolad i KBT.

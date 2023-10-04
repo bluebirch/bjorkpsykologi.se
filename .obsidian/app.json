@@ -6,5 +6,6 @@
     "themes/",
     "hexo-scripts/"
   ],
-  "attachmentFolderPath": "source/images"
+  "attachmentFolderPath": "source/images",
+  "alwaysUpdateLinks": true
 }
