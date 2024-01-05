@@ -1,3 +1,5 @@
 {
-  "accentColor": "#2c792a"
+  "accentColor": "#2c792a",
+  "theme": "system",
+  "cssTheme": "Minimal"
 }
