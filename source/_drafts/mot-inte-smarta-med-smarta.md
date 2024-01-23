@@ -4,7 +4,6 @@ tags:
   - TMO
   - problemskapande beteenden
   - skolpsykologi
-date: 2024-01-23 20:14:44
 ---
 
 I sin bok om traumamedveten omsorg nämner Howard Bath och John Seita att svåra känslor som rädsla och skam är ett slags _själslig smärta_. Precis som kroppslig smärta gör vi vad vi kan för att undvika själslig smärta. Ofta handlar barns problemskapande beteenden i skolan i själva verket om att undvika smärta. Det kan vara situationer som väcker så mycket rädsla eller skam att barnet gör nästan vad som helst för att undvika det. Barnet "vägrar", de vuxna tänker att det bara "inte vill" och bemöter det med tillrättavisningar, kritik, uteblivna belöningar eller regelrätta bestraffningar. Men det blir ju att bemöta smärta med mer smärta. _Det smärtbaserade beteendet bemöts med en smärtbaserad respons._ För barnet blir det bara en fråga om vilken smärta det skall välja.
