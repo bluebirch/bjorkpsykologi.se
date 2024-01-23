@@ -1,6 +1,8 @@
 [submodule "hexo-scripts"]
 	path = hexo-scripts
 	url = https://git.accum.se/skalman/hexo-scripts
+	branch = main
 [submodule "themes/icarus"]
 	path = themes/icarus
 	url = https://github.com/ppoffice/hexo-theme-icarus.git
+	branch = master
