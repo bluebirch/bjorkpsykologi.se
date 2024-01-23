@@ -1,17 +1,15 @@
 ---
-title: Välkommen!
+title: Stefan Björk, psykolog och psykologiforskare
 date: 2023-04-11T09:58:00
 updated: 2023-11-12T09:37:00
 cover: /img/index-cover.jpg
 ---
 
-Jag tror på människors förmåga att förändra sig själva och sina liv. När vi mår dåligt är det ofta för att vi hamnat i en stängd livssituation och inte ser några vägar framåt. Mitt arbete handlar därför om att hjälpa dig att finna nycklar som kan öppna dörrar till ny förståelse och förändring.
+Jag är legitimerad psykolog med doktorsexamen i psykologi. Jag har arbetat med vuxna, barn, grupper och organisationer i psykiatri, arbetslivsinriktad rehabilitering och företagshälsovård. För närvarande arbetar jag som skolpsykolog i Stockholm. 
 
-Jag är legitimerad psykolog med doktorsexamen i psykologi. Jag har arbetat med vuxna, barn, grupper och organisationer i psykiatri, skola, arbetslivsinriktad rehabilitering och företagshälsovård. Jag erbjuder nu också psykologsamtal för individer och par.
+Jag erbjuder konsultation, handledning och utredning inom skola och arbetslivsinriktad rehabilitering. <!-- erbjud föreläsningar också --> Inom kort erbjuder jag också psykologsamtal för indivder och par.
 
-En av de metoder jag använder är IFS (Internal Family Systems), en terapeutisk metod som hjälper dig utforska och förstå olika delar av dig själv och hur de kan skapa inre konflikt. Med IFS kan vi läka de delar som bär på smärtsamma upplevelser och uppnå inre balans, vilket leder till ökat välmående och bättre fungerande i vardagen.
-
-Det är alltid lika fantastiskt när jag kan bidra till att undanröja hinder inom eller mellan människor. Det är ett privilegium att få ta del av människors livsberättelser och jag känner ödmjukhet och tacksamhet när människor visar mig det förtroendet.
+Följ gärna min [blogg](/blogg).
 
 {% message color:dark icon:"fa-solid fa-handshake" title:"Kontakt" %}
 
