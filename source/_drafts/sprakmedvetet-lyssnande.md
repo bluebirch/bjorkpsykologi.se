@@ -1,8 +1,8 @@
 ---
 title: Språkmedvetet lyssnande
 tags:
-- psykiatri
-- språk
+  - psykiatri
+  - språk
 ---
 
 "Jag har haft kontakt med psykiatrin i tio år och du är den första som förstår mig", sade patienten till mig. Jag blev förvånad eftersom jag var helt ny som psykolog i vuxenpsykiatri. När patient efter patient sade liknande saker, förstod jag att jag måste göra någonting rätt. Vad var det jag gjorde annorlunda?
@@ -35,9 +35,9 @@ Markytor påverkas inte av om vi kallar dem "kalhyggen" eller "föryngringsytor"
 
 ## Det psykiatriska fackspråket medikaliserar
 
-Psykiatriska diagnoser är beskrivningar, inte förklaringar.[^a] En diagnos är en beskrivning av ett karaktäristiskt sätt att tänka, känna, uppleva och agera. Diagnosen i sig säger ingenting om _varför_ en person tänker, känner, upplever och agerar på det sättet. Den enda diagnos som uttryckligen anger en orsak är posttraumatiskt stressyndrom (PTSD).
+Psykiatriska diagnoser är beskrivningar, inte förklaringar.[^1] En diagnos är en beskrivning av ett karaktäristiskt sätt att tänka, känna, uppleva och agera. Diagnosen i sig säger ingenting om _varför_ en person tänker, känner, upplever och agerar på det sättet. Den enda diagnos som uttryckligen anger en orsak är posttraumatiskt stressyndrom (PTSD).
 
-[^a]: Detta skall jag skriva ett inlägg om och länka till.
+[^1]: Detta skall jag skriva ett inlägg om och länka till.
 
 ***
 
@@ -45,19 +45,19 @@ Psykiatriska diagnoser är beskrivningar, inte förklaringar.[^a] En diagnos är
 
 Psykiatriska diagnoser utger sig för att bara vara neutrala beskrivningar som inte anger någon orsak.[^2] I DSM-5 är det bara posttraumatiskt stressyndrom som har någon idé om orsak. Alla andra diagnoser är beskrivningar av karaktäristiska sätt att tänka, känna, uppleva och agera. När vi ställer en diagnos, borde vi således säga: "Det här som du berättar för mig, det är vad vi kallar depression". Diagnosen är bara en fackterm för det vi kan observera.
 
-[^2]: "... a diagnosis does not carry any necessary implications regarding the etiology or causes of the individual's mental disorder ..." 
+[^2]: "... a diagnosis does not carry any necessary implications regarding the etiology or causes of the individual's mental disorder ..."
 
-Om en patient har svårt med uppmärksamhet, hyperaktivitet och impulsivitet kan de svårigheterna benämnas ADHD om de uppfyller diagnoskriterierna. Men alltför ofta vänder vi på det och förmodar att ADHD är *orsaken* till att en person har svårt med uppmärksamhet, hyperaktivitet och impulsivitet. Även vi yrkesutövare gör det. Vi tror gärna att vi *förklarat* någonting när vi ställt diagnos, men det enda vi gjort är att vi *benämnt*. Det finns många teorier och förklaringar vad som ligger bakom det som olika diagnoser beskriver, men *diagnosen i sig är ingen förklaring*.
+Om en patient har svårt med uppmärksamhet, hyperaktivitet och impulsivitet kan de svårigheterna benämnas ADHD om de uppfyller diagnoskriterierna. Men alltför ofta vänder vi på det och förmodar att ADHD är _orsaken_ till att en person har svårt med uppmärksamhet, hyperaktivitet och impulsivitet. Även vi yrkesutövare gör det. Vi tror gärna att vi _förklarat_ någonting när vi ställt diagnos, men det enda vi gjort är att vi _benämnt_. Det finns många teorier och förklaringar vad som ligger bakom det som olika diagnoser beskriver, men _diagnosen i sig är ingen förklaring_.
 
 ## Diagnoser medikaliserar
 
-Majoriteten av alla teorier bakom psykiatriska diagnoser är biomedicinska. De förmodar att det diagnosen beskriver, alltså det vi kan observera, är ett uttryck för någonting inuti individen. Ord som "hjärna" och prefix som "neuro" är i dag mycket populära vilket implicerar att förklaringen bakom diagnosen är medicinsk. Andra förklaringar till patientens mående, till exempel dennes livshistoria och livssituation, riskerar att döljas av de medicinska förklaringarna. Detta är *medikalisering*, det vill säga att problem som har andra orsaker ändå uppfattas som *medicinska* problem.
+Majoriteten av alla teorier bakom psykiatriska diagnoser är biomedicinska. De förmodar att det diagnosen beskriver, alltså det vi kan observera, är ett uttryck för någonting inuti individen. Ord som "hjärna" och prefix som "neuro" är i dag mycket populära vilket implicerar att förklaringen bakom diagnosen är medicinsk. Andra förklaringar till patientens mående, till exempel dennes livshistoria och livssituation, riskerar att döljas av de medicinska förklaringarna. Detta är _medikalisering_, det vill säga att problem som har andra orsaker ändå uppfattas som _medicinska_ problem.
 
 ## Det psykiatriska fackspråket exkluderar
 
 Det psykiatriska fackspråket är ofta det naturliga och självklara språket för yrkesutövaren. De psykologiska begreppen och de diagnostiska kategorierna är ofta självklara kategorier som yrkesutövaren också använder för att förstå sitt eget mående och psykologiska fungerande.
 
-Patienten kan ha ett helt annat språk för att tala om sina upplevelser och sitt mående. Yrkesutövarens uppgift är, som jag nämnt, att översätta patientens berättelse till det psykiatriska fackspråket. Om yrkesutövaren gör det i mötet med patienten kommer hen inte bara att erbjuda patienten nya sätt att benämna och kategorisera sitt eget mående, utan också nya sätt att *förklara* måendet. Eftersom maktförhållandet mellan patient och yrkesutövare är asymmetriskt, är det som regel yrkesutövarens språk som gäller. Det kan vara det svårt för patienten att värja sig för det medikaliserande språket. Patientens egen berättelse riskerar att osynliggöras.
+Patienten kan ha ett helt annat språk för att tala om sina upplevelser och sitt mående. Yrkesutövarens uppgift är, som jag nämnt, att översätta patientens berättelse till det psykiatriska fackspråket. Om yrkesutövaren gör det i mötet med patienten kommer hen inte bara att erbjuda patienten nya sätt att benämna och kategorisera sitt eget mående, utan också nya sätt att _förklara_ måendet. Eftersom maktförhållandet mellan patient och yrkesutövare är asymmetriskt, är det som regel yrkesutövarens språk som gäller. Det kan vara det svårt för patienten att värja sig för det medikaliserande språket. Patientens egen berättelse riskerar att osynliggöras.
 
 Detta blir en exkluderande praktik. Ju längre bort från det psykiatriska fackspråket patienten befinner sig, desto större risk att patientens berättelse osynliggörs och det psykiatriska språket liksom invaderar dennes värld och blir det "rätta" sättet att förstå det egna måendet.
 
@@ -65,9 +65,7 @@ Om det psykiatriska fackspråket för yrkesutövaren är det naturliga eller kor
 
 Många patienter är bekanta med det psykiatriska fackspråket eftersom de googlat och läst populärpsykologisk litteratur, men de saknar som regel yrkesutövarens akademiska skolning och djupare förståelse av teorier och begrepp. Detta gör att förståelseglappet kan bli osynligt även för patienten: de använder samma benämningar och kategorier, men talar egentligen inte samma språk.
 
-
 ***
-
 
 "Jag har haft kontakt med psykiatrin i tio år och du är den första som förstår mig", sade patienten till mig. Jag blev förvånad eftersom jag var ny som psykolog i vuxenpsykiatri. Jag tyckte inte att jag hade gjort något särskilt. Jag hade ju bara lyssnat på patientens berättelse. När patient efter patient sade liknande saker till mig, började jag undra. Vad var det jag gjorde annorlunda?
 
@@ -79,23 +77,19 @@ Jag kommer också att prata om det problem jag fick syn på i och med att jag up
 
 Mitt forskningsintresse är mellanmänskliga möten, särskilt maktasymmetriska möten där vi har olika roller och positioner, som när en patient möter en yrkesutövare inom psykiatrin. Min doktorsavhandling handlar om blivande pappors möten med yrkesutövare i mödrahälsovård, förlossningsvård och BB-vård (se Björk, 2016).
 
-I nybesöket eller utredningsbesöket är en av yrkesutövarens uppgifter att översätta patientens berättelse till ett psykiatriskt fackspråk. Det psykiatriska fackspråket består av psykologiska och medicinska termer och psykiatriska diagnoser. En av mina poänger är att om yrkesutövaren inte anpassar sitt språk i mötet med patienten, kommer patienten bli tvungen att anpassa sig till yrkesutövarens språk, vilket i praktiken innebär att *patienten* får axla om inte hela så i alla fall delar av ansvaret för den översättningen. Samtidigt riskerar patientens berättelse att så att säga invaderas av det psykiatriska fackspråket, vilket får till följd att patienten osynliggörs. Eftersom det psykiatriska fackspråket ofta är yrkesutövarens självklara och naturliga språk, kan detta osynliggörande ske utan att yrkesutövaren själv märker det.
+I nybesöket eller utredningsbesöket är en av yrkesutövarens uppgifter att översätta patientens berättelse till ett psykiatriskt fackspråk. Det psykiatriska fackspråket består av psykologiska och medicinska termer och psykiatriska diagnoser. En av mina poänger är att om yrkesutövaren inte anpassar sitt språk i mötet med patienten, kommer patienten bli tvungen att anpassa sig till yrkesutövarens språk, vilket i praktiken innebär att _patienten_ får axla om inte hela så i alla fall delar av ansvaret för den översättningen. Samtidigt riskerar patientens berättelse att så att säga invaderas av det psykiatriska fackspråket, vilket får till följd att patienten osynliggörs. Eftersom det psykiatriska fackspråket ofta är yrkesutövarens självklara och naturliga språk, kan detta osynliggörande ske utan att yrkesutövaren själv märker det.
 
-# Problemformulering
+## Problemformulering
 
-## Maktasymmetri
+### Maktasymmetri
 
 Mötet mellan patient och yrkesutövare är asymmetriskt när det gäller makt. Yrkesutövarens handlingsutrymme är större än patientens. Det är yrkesutövaren som ställer frågor, patienten som svarar. Yrkesutövaren har större möjligheter att avgöra vad man pratar om och hur man pratar om det än vad patienten har. Det blir således yrkesutövaren som avgör vilket språk som används: det psykiatriska fackspråket eller patientens språk.
 
-## Språk definierar verkligheten
+### Språk definierar verkligheten
 
+### Diagnoser är beskrivningar, inte förklaringar
 
-
-
-## Diagnoser är beskrivningar, inte förklaringar
-
-
-## Exempel
+### Exempel
 
 Låt mig ta ett exempel.
 
@@ -105,45 +99,45 @@ Hans resonemang och förklaringar skavde. En del av mig tyckte att alltihop verk
 
 Jag medger att det här är ett ganska extremt exempel, men det illustrerar min poäng väldigt tydligt: det fanns bara utrymme för ett slags språk och ett slags förklaringar, nämligen det psykiatriska fackspråket och de medikaliserande förklaringarna.
 
-# Frågeställning
+## Frågeställning
 
 Vad kan vi då göra för att förhindra detta?
 
-# Lösning
+## Lösning
 
-## Språkmedvetet lyssnande
+### Språkmedvetet lyssnande
 
 Mitt svar är det jag kallar för "språkmedvetet lyssnande". Det språkmedvetna lyssnandet är framför allt ett lyssnande som är medvetet om att det finns olika språk att tala om upplevelser; att mitt eget språk och inte heller psykiatrins fackspråk är det enda möjliga språket; att jag som yrkesutövare oavsiktligt kan påverka patientens förståelse av sig själv genom att benämna med diagnostiska kategorier; att själva diagnosticeringen är en handling i en maktasymmetrisk relation.
 
-### Hemvärld -- främmandevärld
+#### Hemvärld -- främmandevärld
 
-Men det det här lyssnandet är också inspirerat av två tankegångar från den europeiska tanketradition som brukar benämnas "fenomenologi". Det första är "livsvärlden", den konkret, sinnligt och intuitivt givna värld vi möter i vardagslivet; den värld vi lever i innan vi formulerar några vetenskapliga teorier om den. Livsvärlden kan sägas vara de *meningsstrukturer* som strukturerar världen i objekt. Livsvärlden är inte en enskild individs personliga perspektiv, utan en intersubjektiv, delad värld som redan finns på plats när jag föds och som finns kvar när jag dör.
+Men det det här lyssnandet är också inspirerat av två tankegångar från den europeiska tanketradition som brukar benämnas "fenomenologi". Det första är "livsvärlden", den konkret, sinnligt och intuitivt givna värld vi möter i vardagslivet; den värld vi lever i innan vi formulerar några vetenskapliga teorier om den. Livsvärlden kan sägas vara de _meningsstrukturer_ som strukturerar världen i objekt. Livsvärlden är inte en enskild individs personliga perspektiv, utan en intersubjektiv, delad värld som redan finns på plats när jag föds och som finns kvar när jag dör.
 
-Den värld där vi obesvärat känner oss hemma, den "naturliga" världen som är så bekant att vi inte lägger märke till den, kallas för *hemvärld*. Hemvärlden är allt som framstår som normalt och bekant. Det som ligger bortom hemvärlden, det som framstår som främmande, obegripligt eller konstigt, hör till en *främmandevärld* (Björk, 2016, s. 74--75).
+Den värld där vi obesvärat känner oss hemma, den "naturliga" världen som är så bekant att vi inte lägger märke till den, kallas för _hemvärld_. Hemvärlden är allt som framstår som normalt och bekant. Det som ligger bortom hemvärlden, det som framstår som främmande, obegripligt eller konstigt, hör till en _främmandevärld_ (Björk, 2016, s. 74--75).
 
-När jag möter patienter tänker jag att jag möter en främmandevärld. För mig är patientens värld ett främmande universum som riskerar att splittras av mina förutfattade meningar och förhastade slutsatser om jag inte är på min vakt. Jag är upptäcktsresande i ett främmande land i en främmande kultur. *Vad som helst kan när som helst visa sig vara något annat än det jag tror att det är*.
+När jag möter patienter tänker jag att jag möter en främmandevärld. För mig är patientens värld ett främmande universum som riskerar att splittras av mina förutfattade meningar och förhastade slutsatser om jag inte är på min vakt. Jag är upptäcktsresande i ett främmande land i en främmande kultur. _Vad som helst kan när som helst visa sig vara något annat än det jag tror att det är_.
 
-### Epoché
+#### Epoché
 
-Den andra tankegången är *epoché*, de antika skeptikernas ord för "att hålla tillbaka ett omdöme", att avstå från att avgöra om någonting är sant eller falskt. Begreppet *epoché* togs upp av fenomenologin i betydelsen att hålla tillbaka ett omdöme *vad* någonting är. Syftet var att blottlägga medvetandets eget meningsgivande av verkligheten genom att så att säga sätta själva verkligheten inom parentes.
+Den andra tankegången är _epoché_, de antika skeptikernas ord för "att hålla tillbaka ett omdöme", att avstå från att avgöra om någonting är sant eller falskt. Begreppet _epoché_ togs upp av fenomenologin i betydelsen att hålla tillbaka ett omdöme _vad_ någonting är. Syftet var att blottlägga medvetandets eget meningsgivande av verkligheten genom att så att säga sätta själva verkligheten inom parentes.
 
-I besöksrummet har jag med mig *epoché* som ett sätt att avstå från att fälla omdömen om det patienten berättar. Jag avstår från att klassificera och benämna. När jag går in i besöksrummet lämnar jag de psykologiska teorierna och de diagnostiska kategorierna utanför. I besöksrummet är jag en upptäcksresande i en främmandevärld. Det är först när jag lämnar besöksrummet -- eller i slutet av besöket -- som jag tar fram de psykologiska teorierna och de diagnostiska kategorierna. Det är först då jag gör översättningen från patientens berättelse till det psykiatriska fackspråket. Fram till dess är det patientens språk som gäller.
+I besöksrummet har jag med mig _epoché_ som ett sätt att avstå från att fälla omdömen om det patienten berättar. Jag avstår från att klassificera och benämna. När jag går in i besöksrummet lämnar jag de psykologiska teorierna och de diagnostiska kategorierna utanför. I besöksrummet är jag en upptäcksresande i en främmandevärld. Det är först när jag lämnar besöksrummet -- eller i slutet av besöket -- som jag tar fram de psykologiska teorierna och de diagnostiska kategorierna. Det är först då jag gör översättningen från patientens berättelse till det psykiatriska fackspråket. Fram till dess är det patientens språk som gäller.
 
-## Exempel
+### Exempel
 
 Ett exempel på det jag kallar språkmedvetet lyssnande är en patient som hade genomgått flera psykologutredningar och fått lite varierande diagnoser. Ingen av dem stämde. Patienten själv var inte skolad i det psykiatrisk fackspråket och kunde själv inte avgöra. Det enda patienten visste var att hen efter en tupplur för flera år sedan aldrig riktigt vaknade. Efter det gick hen gick runt med en känsla av overklighet, som om hen var konstant sömndrucken. Jag blev nyfiken och bad hen berätta om den händelsen, från början till slut. Jag bad hen berätta hur det varit sedan dess och hur det var nu. Jag lyssnade och ställde nyfikna frågor, som om jag var på besök i en främmande värld där allt var obekant. Vilket också var alldeles sant: det här var något jag aldrig tidigare mött. Patienten hade gått igenom ett stort antal psykologiska och medicinska utredningar. Ändå sade han efter våra 45 minuter att "såhär långt har jag aldrig kommit tidigare".
 
 Efteråt kunde jag översätta klientens berättelse till psykiatriskt fackspråk och resonera tillsammans med mina kollegor. Vi lyckades inte lösa problemet, inte heller översätta det till en psykiatrisk diagnos. Strax därefter slutade jag arbeta inom vuxenpsykiatri, så jag vet inte hur det gick. Men poängen här är att jag genom ett språkmedvetet lyssnande tog ansvar för översättningen från patientens eget språk till det psykiatriska fackspråket. Det var inte patienten själv som behövde ta det ansvaret genom att försöka anpassa sig till yrkesutövarens språk -- något som tydligen inte fungerat så bra tidigare eftersom journalen var full av förvirrade spekulationer och patienten själv aldrig fått berätta sin historia från början till slut.
 
-# Konklusion
+## Konklusion
 
-## Sammanfattning
+### Sammanfattning
 
-För att sammanfatta: För att förmedla hur vi mår måste vi använda språket. Vilka kategorier vi använder avgör hur vi förstår oss själva och vårt eget mående. Det psykologiska och framför allt det diagnostiska språket förstår människors mående och svårigheter på ett sätt som förankrar det inuti individen, inte individens hela livssammanhang. Om det diagnostiska språket är det enda språk som finns tillgängligt i mötet mellan patient och yrkesutövare kommer patientens berättelse att *medikaliseras*, det vill säga ett problem som i grunden inte är medicinskt kommer likväl att förstås som ett medicinskt problem. Det jag kallar *språkmedvetet lyssnande* innebär att anpassa sig till patientens språk och därmed också ta patientens egna förståelse för och förklaringar till sitt mående på allvar. Det innebär också att jag som yrkesutövare tar ansvar för den översättning som behöver göras från patientens livsvärld och det psykiatriska fackspråket. Det språkmedvetna lyssnandet återför ansvaret till yrkesutövaren och minskar risken för att patienten och dennes berättelse osynliggörs och exkluderas.
+För att sammanfatta: För att förmedla hur vi mår måste vi använda språket. Vilka kategorier vi använder avgör hur vi förstår oss själva och vårt eget mående. Det psykologiska och framför allt det diagnostiska språket förstår människors mående och svårigheter på ett sätt som förankrar det inuti individen, inte individens hela livssammanhang. Om det diagnostiska språket är det enda språk som finns tillgängligt i mötet mellan patient och yrkesutövare kommer patientens berättelse att _medikaliseras_, det vill säga ett problem som i grunden inte är medicinskt kommer likväl att förstås som ett medicinskt problem. Det jag kallar _språkmedvetet lyssnande_ innebär att anpassa sig till patientens språk och därmed också ta patientens egna förståelse för och förklaringar till sitt mående på allvar. Det innebär också att jag som yrkesutövare tar ansvar för den översättning som behöver göras från patientens livsvärld och det psykiatriska fackspråket. Det språkmedvetna lyssnandet återför ansvaret till yrkesutövaren och minskar risken för att patienten och dennes berättelse osynliggörs och exkluderas.
 
-## Organisatorisk nivå
+### Organisatorisk nivå
 
-Jag lovade att också säga någonting om hur ett språkmedvetet lyssnande skulle kunna förvaltas på en organisatorisk nivå. Som jag nämnt flera gånger är poängen med det språkmedvetna lyssnandet att lyfta tillbaka ansvaret för översättningen från patientens berättelse till psykiatrins fackspråk till yrkesutövaren. Problemet är bara att jag fann att det här i slutänden inte spelade någon större roll. Jag lyssnade på patienten. Patienten upplevde sig förstådd och tagen på allvar. Jag kunde bekräfta att det inte var konstigt att patienten mådde som hen gjorde givet livsomständigheterna, vilket i sig är en terapeutisk intervention som flyttar fokus från en defekt *inuti* patienten till det större sammanhanget *runt omkring* patienten. Mötet mellan patient och yrkesutövare blev bra. Men när jag sedan skulle översätta till det psykiatriska fackspråket blev det svårt, för det psykiatriska fackspråket har inga benämningar eller kategorier för att tala om patientens livsomständigheter. Det finns bara individualpsykologiska och medicinska kategorier att välja på. Dessutom var diagnoskoden det enda som förmedlades vidare till mina kollegor, för de hade ändå inte tid att läsa en psykologbedömning, även om den var kort. Inom psykiatrin är diagnosen den viktigaste kategorin och den används framför allt till att sortera patienter. Vidare är journalsystemet utformat för att framhäva diagnoser, inte berättelser.
+Jag lovade att också säga någonting om hur ett språkmedvetet lyssnande skulle kunna förvaltas på en organisatorisk nivå. Som jag nämnt flera gånger är poängen med det språkmedvetna lyssnandet att lyfta tillbaka ansvaret för översättningen från patientens berättelse till psykiatrins fackspråk till yrkesutövaren. Problemet är bara att jag fann att det här i slutänden inte spelade någon större roll. Jag lyssnade på patienten. Patienten upplevde sig förstådd och tagen på allvar. Jag kunde bekräfta att det inte var konstigt att patienten mådde som hen gjorde givet livsomständigheterna, vilket i sig är en terapeutisk intervention som flyttar fokus från en defekt _inuti_ patienten till det större sammanhanget _runt omkring_ patienten. Mötet mellan patient och yrkesutövare blev bra. Men när jag sedan skulle översätta till det psykiatriska fackspråket blev det svårt, för det psykiatriska fackspråket har inga benämningar eller kategorier för att tala om patientens livsomständigheter. Det finns bara individualpsykologiska och medicinska kategorier att välja på. Dessutom var diagnoskoden det enda som förmedlades vidare till mina kollegor, för de hade ändå inte tid att läsa en psykologbedömning, även om den var kort. Inom psykiatrin är diagnosen den viktigaste kategorin och den används framför allt till att sortera patienter. Vidare är journalsystemet utformat för att framhäva diagnoser, inte berättelser.
 
 Allt detta döljer patientens livsomständigheter och omöjliggör en förståelse där patienten blir begriplig med utgångspunkt i dennes livssammanhang och livshistoria. Det främjar bara en förståelse av individen som inkapslad, individ där alla svårigheter kommer inifrån.
 
@@ -151,12 +145,10 @@ Det skulle naturligtvis underlätta om organisationen kunde förvalta berättels
 
 Så mitt slutord får väl bli: Bort med det medikaliserande, diagnostiska språket!
 
-## Referenser
+### Referenser
 
-Björk, S. (2016). *Män möter mödravård: om betydelsen av "vi" i mötet med mödrahälsovård, förlossningsvård och BB-vård* [doktorsavhandling]. Umeå universitet, Institutionen för psykologi.
+Björk, S. (2016). _Män möter mödravård: om betydelsen av "vi" i mötet med mödrahälsovård, förlossningsvård och BB-vård_ [doktorsavhandling]. Umeå universitet, Institutionen för psykologi.
 
-> Presentation vid *CKVO[^1] konferens: Jämlik hälsa i en osäker värld*, Stockholms universitet, 11--12 maj 2023.
+> Presentation vid _CKVO[^3] konferens: Jämlik hälsa i en osäker värld_, Stockholms universitet, 11--12 maj 2023.
 
-
-
-[^1]: Centrum för kompetensutveckling inom vård och omsorg.
+[^3]: Centrum för kompetensutveckling inom vård och omsorg.

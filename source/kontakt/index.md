@@ -11,4 +11,3 @@ Stefan Björk
 <i class="fa-regular fa-envelope"></i> <stefan@bjorkpsykologi.se>
 
 <img style="height: 6em" src="/img/logo.png">
-

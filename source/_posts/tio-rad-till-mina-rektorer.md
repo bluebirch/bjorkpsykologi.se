@@ -10,7 +10,7 @@ tags:
 En bekant postade tio råd ur en bok om ledarskap i skola och universitet. Jag tillägnar råden alla rektorer jag arbetat tillsammans med som skolpsykolog.
 
 > ## Tio råd till prefekter och alla andra som leder kunskapsarbete
-> 
+>
 > 1. Du är inte gud -- du varken kan eller hinner rätta till allt.
 > 2. Ta dig inte på alltför stort allvar -- det vinner ingen på, allra minst du själv.
 > 3. Det du gör och som är tillräckligt bra -- är ofta enastående i längden.
@@ -21,5 +21,5 @@ En bekant postade tio råd ur en bok om ledarskap i skola och universitet. Jag t
 > 8. Påminn dig själv och dina kollegor om att det alltid är lätt att vara efterklok men först kommer modet att våga handla.
 > 9. Att hålla medarbetarna ansvariga är att få medarbetarna agera vuxet.
 > 10. Ibland är det bäst att inte göra någonting alls och i stället förlita sig på processen.
-> 
+>
 > **Anders Risling** och **Mats Edenius**, _Prefekt: framtidens ledarskap för forskning och utveckling_ (Stockholm: Sanoma utbildning, 2019).

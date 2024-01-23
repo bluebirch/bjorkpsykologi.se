@@ -5,7 +5,7 @@ updated: 2024-01-23T16:42:00
 cover: /img/index-cover.jpg
 ---
 
-Jag är legitimerad psykolog med doktorsexamen i psykologi. Jag har arbetat med vuxna, barn, grupper och organisationer i psykiatri, arbetslivsinriktad rehabilitering och företagshälsovård. För närvarande arbetar jag som skolpsykolog i Stockholm. 
+Jag är legitimerad psykolog med doktorsexamen i psykologi. Jag har arbetat med vuxna, barn, grupper och organisationer i psykiatri, arbetslivsinriktad rehabilitering och företagshälsovård. För närvarande arbetar jag som skolpsykolog i Stockholm.
 
 Jag erbjuder konsultation, handledning och utredning inom skola och arbetslivsinriktad rehabilitering. <!-- erbjud föreläsningar också --> Inom kort kommer jag också att kunna erbjuda psykologsamtal för indivder och par.
 
