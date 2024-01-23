@@ -1,7 +1,7 @@
 ---
 title: Psykologutredning
 date: 2023-08-29 13:58:00
-updated: 2023-10-02T11:04:00
+updated: 2024-01-23T16:42:00
 cover: /psykologutredning/ben-mullins-oXV3bzR7jxI-unsplash.jpg
 ---
 
@@ -36,3 +36,11 @@ Finn, S. E., Fischer, C. T., & Handler, L. (red:er). (2012). _Collaborative/ther
 Fischer, C. T. (1985). _Individualizing psychological assessment_. Brooks/Cole.
 
 Selander, U.-B., Bergquist, G., Kvist, A. V., & Jönsson, Å. (2014). _Arbetspsykologisk utredning: inför yrkesval_. Studentlitteratur.
+
+{% message color:primary icon:"fa-solid fa-handshake" title:"Kontakt" %}
+
+Varmt välkommen att kontakta mig om du vill hyra in mig för psykologutredning. Jag gör inte psykologutredningar privat.
+
+<i class="fa-solid fa-phone"></i> 070-622 24 37 &nbsp;&nbsp; <i class="fa-regular fa-envelope"></i> <stefan@bjorkpsykologi.se>
+
+{% endmessage %}

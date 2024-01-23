@@ -1,7 +1,7 @@
 ---
 title: Psykologsamtal
 date: 2023-03-18 20:26:56
-updated: 2023-10-02T11:05:00
+updated: 2024-01-23T16:42:00
 cover: /psykologsamtal/orbtal-media-Esq0ovRY-Zs-unsplash.jpg
 ---
 
@@ -17,4 +17,12 @@ Människor är berättande varelser. Det är genom våra berättelser om vandra 
 
 ## Hur jag arbetar
 
-Vi börjar med att du berättar om vad du vill ha hjälp med. Jag ställer nyfikna frågor om din aktuella livssituation och din bakgrund och tillsammans formulerar vi mål för vårt samarbete. Jag anpassar hur jag arbetar efter dina behov men använder främst metoder från den psykodynamiska skolan, {% post_link relationell-psykoterapi relationell psykoterapi %} och {% post_link internal-family-systems IFS (Internal Famly Systems) %}. Jag är också skolad i KBT.
+Vi börjar med att du berättar om vad du vill ha hjälp med. Jag ställer nyfikna frågor om din aktuella livssituation och din bakgrund och tillsammans formulerar vi mål för vårt samarbete. Jag anpassar hur jag arbetar efter dina behov men använder främst metoder från den psykodynamiska skolan, {% post_link relationell-psykoterapi relationell psykoterapi %} och {% post_link internal-family-systems IFS (Internal Famly Systems) %}.
+
+{% message color:dark icon:"fa-solid fa-handshake" title:"Kontakt" %}
+
+Varmt välkommen att kontakta mig om du vill prata med en psykolog. För närvarande kan jag bara ta emot besök digitalt.
+
+<i class="fa-solid fa-phone"></i> 070-622 24 37 &nbsp;&nbsp; <i class="fa-regular fa-envelope"></i> <stefan@bjorkpsykologi.se>
+
+{% endmessage %}
