@@ -5,6 +5,7 @@ tags:
   - problemskapande beteenden
   - skolan
 date: 2024-01-24 13:22:28
+cover: /img/grayscale-photo-of-boy-in-collared-shirt-IXfZPpnsFXo.jpg
 ---
 
 Svåra känslor som ensamhet, rädsla och skam är en form _själslig smärta_. Vi reagerar likadant på smärtsamma känslor som på kroppslig smärta: vi gör vad vi kan för att undvika det som gör ont.
