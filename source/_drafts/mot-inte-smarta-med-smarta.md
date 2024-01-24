@@ -6,7 +6,7 @@ tags:
   - skolpsykologi
 ---
 
-Svåra känslor som ensamhet, rädsla och skam är en form *själslig smärta*. Vi reagerar likadant på smärtsamma känslor som på kroppslig smärta: vi gör vad vi kan för att undvika det som gör ont.
+Svåra känslor som ensamhet, rädsla och skam är en form _själslig smärta_. Vi reagerar likadant på smärtsamma känslor som på kroppslig smärta: vi gör vad vi kan för att undvika det som gör ont.
 
 Ofta handlar barns problemskapande beteenden i skolan i själva verket om att undvika smärtsamma känslor. För en del elever kan det vara outhärdligt skamfyllt att visa sina klasskamrater att man inte förstår eller kan. Bättre då att spela pajas i klassrummet eller fly ut i korridoren. För andra kan rädslan för att bli övergiven vara så smärtsam att det är bättre att starta bråk och räknas för att man är fruktad än att inte räknas alls. Jag har mött elever som hellre utlöste brandlarmet på skolan än utsatte sig för en undervisningssituation i övertygelsen att det bara skulle bli det slutliga beviset på att de var hopplösa fall.
 
