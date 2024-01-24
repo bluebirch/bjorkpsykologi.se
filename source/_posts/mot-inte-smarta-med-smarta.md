@@ -3,7 +3,7 @@ title: Möt inte smärta med smärta
 tags:
   - TMO
   - problemskapande beteenden
-  - skolpsykologi
+  - skolan
 date: 2024-01-24 13:22:28
 ---
 

@@ -113,9 +113,9 @@ navbar:
         Psykologsamtal: /psykologsamtal
         Psykologutredning: /psykologutredning
         Elevhälsa: /skola
-        AR: /ar
-        Om mig: /om
+        #AR: /ar
         Blogg: /blogg
+        Om mig: /om
         Kontakt: /kontakt
     # Links to be shown on the right of the navigation bar
     # links:
@@ -334,17 +334,17 @@ plugins:
         web_id: 
     # Alerting users about the use of cookies
     # https://www.osano.com/cookieconsent/
-    cookie_consent:
+    #cookie_consent:
         # The compliance type. Can be "info", "opt-in", or "opt-out"
-        type: info
+        #type: info
         # Theme of the popup. Can be "block", "edgeless", or "classic"
-        theme: edgeless
+        #theme: edgeless
         # Whether the popup should stay static regardless of the page scrolls
-        static: false
+        #static: false
         # Where on the screen the consent popup should display
-        position: bottom-left
+        #position: bottom-left
         # URL to your site's cookie policy
-        policyLink: https://www.cookiesandyou.com/
+        #policyLink: https://www.cookiesandyou.com/
     # Enable the lightGallery and Justified Gallery plugins
     gallery: true
     # Google Analytics plugin settings

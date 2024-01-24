@@ -3,7 +3,7 @@ title: Tio råd till mina rektorer
 date: 2023-03-25 21:39:10
 updated: 2023-10-03T19:34:00
 tags:
-  - skolpsykologi
+  - skolan
   - citat
 ---
 
