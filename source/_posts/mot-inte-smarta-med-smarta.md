@@ -1,7 +1,7 @@
 ---
 title: Möt inte smärta med smärta
 date: 2024-01-24 13:22:28
-updated: 2024-01-25T07:57:00
+updated: 2024-01-25T08:08:08
 tags:
   - TMO
   - problemskapande beteenden
@@ -15,7 +15,7 @@ Ofta handlar barns problemskapande beteenden i skolan i själva verket om att un
 
 Vuxenvärlden ser inte att barnet försöker undvika smärta, bara det problemskapande beteendet. De tänker att barnet "inte vill", att det springer i korridoren för att det är "roligt" eller att det startar bråk för att det "vill ha det på sitt sätt". Barnet bemöts med tillrättavisningar, kritik, uteblivna belöningar eller regelrätta bestraffningar. Men det blir ju att bemöta smärta med mer smärta. För barnet blir det bara en fråga om vilken smärta det skall välja.
 
-Tillrättavisningar, bestraffningar och andra disciplinära åtgärder tillfogar inte kroppslig smärta, men väl själslig smärta i form av rädsla och skam. Det är själva poängen med sådana metoder. Vilket barn väljer inte att göra som vi vill när alternativet innebär smärta? Jag är ingen vän av sådana uppfostrningsmetoder, men när det gäller barn som redan bär på mycket själslig smärta är det rent kontraproduktivt. Om vi bemöter barnets undvikande av smärta (ensamhet, rädsla, skam) med mera smärta (rädsla, skam), är risken stor att vi bara får mer undvikande och problemskapande beteenden.
+Tillrättavisningar, bestraffningar och andra disciplinära åtgärder tillfogar inte kroppslig smärta, men väl själslig smärta i form av rädsla och skam. Det är själva poängen med sådana metoder. Vilket barn väljer inte att göra som vi vill när alternativet innebär smärta? Jag är ingen vän av sådana uppfostrningsmetoder, men när det gäller barn som redan bär på mycket själslig smärta är det rent kontraproduktivt. Om vi bemöter barnets undvikande av smärta (ensamhet, rädsla eller skam) med mera smärta (rädsla och skam), är risken stor att vi bara får mer undvikande och problemskapande beteenden.
 
 De vuxna i skolan behöver få syn på den _primära smärta_ som döljer sig bakom det problemskapande beteendet. Får man syn på barnets smärta, blir det en självklarhet att bemöta med förståelse och omsorg i stället för bestraffning och disciplinära åtgärder (sekundär smärta). Vuxna som inte bestraffar utan försöker förstå lägger grunden för den trygghet och de goda relationer som barn som upplevt traumatiserande händelser eller relationer behöver för att läka.
 
