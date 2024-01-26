@@ -7,5 +7,6 @@
     "hexo-scripts/"
   ],
   "attachmentFolderPath": "source/images",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false
 }
