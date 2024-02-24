@@ -7,10 +7,14 @@ På den här sidan har jag samlat lite arbetsmaterial kring IFS hämtat från _N
 
 ## Övningar
 
-_No bad parts:_
+### No bad parts
 
 1. [Lära känna en beskyddare](no-bad-parts-01).
-2. [Kartlägga dina delar](no-bad-parts-02)
+2. [Kartlägg dina delar](no-bad-parts-02)
+3. ["Unblending and embodying"](no-bad-parts-03)
+4. [Meditation över dilemma](no-bad-parts-04)
+5. [Arbeta med en utmanande beskyddare](no-bad-parts-05)
+6. [Daglig IFS-meditation](no-bad-parts-06)
 
 
 ## Referenser
