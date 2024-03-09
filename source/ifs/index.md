@@ -5,6 +5,10 @@ date: 2024-02-24 07:54:41
 
 På den här sidan har jag samlat lite arbetsmaterial kring IFS hämtat från _No bad parts_ (Schwartz, 2021) _Self-therapy_ (Early, 2009).
 
+## Arbetsblad
+
+- [Hjälpblad](self-therapy-appendix-a)
+
 ## Övningar
 
 ### No bad parts
