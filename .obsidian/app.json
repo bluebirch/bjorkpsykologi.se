@@ -1,5 +1,5 @@
 {
-  "livePreview": false,
+  "livePreview": true,
   "userIgnoreFilters": [
     "node_modules/",
     "public/",
@@ -8,5 +8,6 @@
   ],
   "attachmentFolderPath": "source/images",
   "alwaysUpdateLinks": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "showLineNumber": true
 }
