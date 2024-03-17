@@ -23,6 +23,6 @@ På den här sidan har jag samlat lite arbetsmaterial kring IFS hämtat från _N
 
 ## Referenser
 
-Early, J. (2009). *Self-therapy* (2:a utgåvan). Pattern System Books.
+Earley, J. (2009). *Self-therapy* (2:a utgåvan). Pattern System Books.
 
 Schwartz, R. C. (2021). *No bad parts: Healing trauma and restoring wholeness with the internal family systems model*. Sounds True.
