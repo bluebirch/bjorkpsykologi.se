@@ -1,6 +1,7 @@
 ---
 title: Boka
 date: 2024-03-17T15:53:00
+thumbnail: /img/logo.png
 ---
 
 {% raw %}
