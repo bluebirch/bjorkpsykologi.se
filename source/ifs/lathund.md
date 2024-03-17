@@ -1,6 +1,7 @@
 ---
 title: Lathund för IFS-processen
 date: 2024-03-17T11:25:00
+cover: /ifs/self-therapy.jpg
 ---
 
 <!-- This is a summary of all the steps of the IFS procedure. It is meant to guide your steps while you are working on yourself or partnering with someone. -->
