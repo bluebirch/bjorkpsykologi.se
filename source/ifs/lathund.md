@@ -143,7 +143,7 @@ Be om beskyddarens tillåtelse att lära känna exildelen.
 
 <!-- If it won't give permission, ask what it is afraid would happen if you accessed the exile. Possibilities are: -->
 
-Om beskyddaren inte ger sin tillåtelse, fråga vad den befarar skulle hända om du fick kontakt med exildelen. Möjliga svar:
+Om beskyddaren inte ger sin tillåtelse, fråga vad den befarar skulle hända om du fick kontakt med exildelen. Möjliga svar (se s. 182--189):
 
 <!--
 - The exile has too much pain. Explain that you will stay in Self and get to know the exile, not dive into its pain.
@@ -151,9 +151,15 @@ Om beskyddaren inte ger sin tillåtelse, fråga vad den befarar skulle hända om
 - The protector will have no role and therefore be eliminated. Explain that the protector can choose a new role in your psyche.
 -->
 
-- Exildelen bär på för mycket smärta. Förklara att du kommer att fortsätta vara i Själv och bara lära känna exildelen, inte dyka in i dess smärta.
-- Det finns ingen poäng med att ge sig in i det smärtsamma. Förklara att det finns en poäng, nämligen att du kan läka exildelen.
-- Beskyddaren kommer bli utan uppgift och därmed upphöra att existera. Förklara att beskyddaren kan välja en ny roll efter att exildelen läkts.
+1. Exildelen bär på för mycket smärta. Förklara att du kommer att fortsätta vara i Själv och bara lära känna exildelen, inte dyka in i dess smärta.
+2. Det finns ingen poäng eftersom exildelen inte kan helas, det förflutna är det förflutna. Förklara att det finns en poäng, nämligen att du kan läka exildelen.
+3. Beskyddaren kommer bli utan uppgift och därmed upphöra att existera. Förklara att beskyddaren kommer att kunna välja en ny roll efter att exildelen läkts.
+4. Exildelen kommer att skadas av dig, din IFS-partner eller någon annan. <!-- FORTSÄTT HÄR, DET ÄR FRÅN BOKEN, INTE APPENDIXET -->
+5. Beskyddaren litar inte på din kompetens.
+6. En hemlighet kommer att avslöjas.
+7. En farlig beskyddare kommer att triggas.
+8. Exildelen kommer att återuppleva den ursprungliga smärtan.
+
 
 <!-- ## 3. Getting to Know an Exile -->
 
