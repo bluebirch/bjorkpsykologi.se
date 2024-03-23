@@ -6,7 +6,10 @@ cover: /ifs/self-therapy.jpg
 
 <!-- This is a summary of all the steps of the IFS procedure. It is meant to guide your steps while you are working on yourself or partnering with someone. -->
 
-Det här är en sammanfattning av alla steg i IFS-processen, hämtad från Jay Earleys bok _Self Therapy_ (2009, appendix A). Den är tänkt att användas som vägledning när du arbetar på egen hand eller tillsammans med en IFS-partner (se Earley, 2009, kapitel 16).
+Det här är en sammanfattning av alla steg i IFS-processen, hämtad från Jay Earleys bok _Self Therapy_.[^311-314] Den är tänkt att användas som vägledning när du arbetar på egen hand eller tillsammans med en IFS-partner.[^kap16]
+
+[^311-314]: Jay Earley, _Self Therapy_ (Larkspur: Pattern System Books, 2009), 311--314.
+[^kap16]: Ibid., 281--298.
 
 <!-- ## 1. Getting to Know a Protector -->
 
@@ -14,7 +17,9 @@ Det här är en sammanfattning av alla steg i IFS-processen, hämtad från Jay E
 
 <!-- ### P1. Accessing a Part -->
 
-### B1. Få kontakt med en del
+### B1. Få kontakt med en del[^kap4]
+
+[^kap4]: Ibid., 53--72.
 
 <!-- If the part is not activated, imagine yourself in a recent situation when the part was activated. Sense the part in your body or evoke an image of the part. -->
 
@@ -24,7 +29,9 @@ Känn efter var i kroppen du kan känna delen eller försök se den framför dig
 
 <!-- ### P2. Unblending Target Part -->
 
-### B2. Separera från måldelen
+### B2. Separera från måldelen[^kap5]
+
+[^kap5]: Ibid., 73--91.
 
 <!-- Check to see if you are charged up with the part’s emotions or caught up in its beliefs right now. If so, you are blended. -->
 
@@ -58,7 +65,9 @@ Om måldelen inte separerar, fråga vad den befarar skulle hända om den gjorde 
 
 <!-- ### P3. Unblending Concerned Part -->
 
-### B3. Separera från bekymrade delar
+### B3. Separera från bekymrade delar[^kap6]
+
+[^kap6]: Ibid., 92--111.
 
 <!-- Check to see how you feel toward the target part right now. If you feel compassionate, curious, and so on, you are in Self, so you can move on to P4. -->
 
@@ -143,7 +152,9 @@ Be om beskyddarens tillåtelse att lära känna exildelen.
 
 <!-- If it won't give permission, ask what it is afraid would happen if you accessed the exile. Possibilities are: -->
 
-Om beskyddaren inte ger sin tillåtelse, fråga vad den befarar skulle hända om du fick kontakt med exildelen. Möjliga svar (se s. 182--189):
+Om beskyddaren inte ger sin tillåtelse, fråga vad den befarar skulle hända om du fick kontakt med exildelen. Möjliga svar:[^182-189]
+
+[^182-189]: Ibid., 182--189.
 
 <!--
 - The exile has too much pain. Explain that you will stay in Self and get to know the exile, not dive into its pain.
