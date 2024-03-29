@@ -19,10 +19,16 @@ Människor är berättande varelser. Det är genom våra berättelser om vandra 
 
 Vi börjar med att du berättar om vad du vill ha hjälp med. Jag ställer nyfikna frågor om din aktuella livssituation och din bakgrund och tillsammans formulerar vi mål för vårt samarbete. Jag anpassar hur jag arbetar efter dina behov men använder främst metoder från den psykodynamiska skolan, {% post_link relationell-psykoterapi relationell psykoterapi %} och {% post_link internal-family-systems IFS (Internal Famly Systems) %}.
 
-{% message color:dark icon:"fa-solid fa-handshake" title:"Kontakt" %}
+## Kontakt
 
-Varmt välkommen att kontakta mig om du vill prata med en psykolog. För närvarande kan jag bara ta emot besök digitalt.
+Ta kontakt med mig genom att fylla i formuläret nedan.
 
-<i class="fa-solid fa-phone"></i> 070-622 24 37 &nbsp;&nbsp; <i class="fa-regular fa-envelope"></i> <stefan@bjorkpsykologi.se>
+{% raw %}
+<div id="reset-all" style="all: initial">
+    <div style="text-align: center;">
+        <iframe src="https://bjorkpsykologi.kaddio.com/iframe/contact-us" width="500" height="700"></iframe>
+    </div>
+</div>
+{% endraw %}
 
-{% endmessage %}
+
