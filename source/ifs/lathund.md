@@ -57,7 +57,9 @@ Om du är blandad/förenad med måldelen kan du försöka separera från den på
 - "Backa" <!-- backa --> in i Själv för att separera från delen.
 - Visualisera delen en bit ifrån dig eller rita en teckning av den.
 - Föreställ dig delen innesluten i ett rum.
-- Gör en centrerande eller grundande meditationsövning.
+- Gör en centrerande eller grundande meditationsövning.[^85-86]
+
+[^85-86]: Ibid., 85--86.
 
 <!-- If the part doesn’t separate, ask what it is afraid would happen if it did. Explain to it the value of separating and reassure it about its fears. -->
 
@@ -201,7 +203,7 @@ Om du är blandad/förenad med exildelen:
 - Be exildelen härbärgera sina känslor så att du kan finnas där för den.
 - Separera medvetet från exildelen och återvänd till Själv.
 - Visualisera exildelen en bit ifrån dig.
-- Gör en centrerande eller jordande induktionsövning (?).
+- Gör en centrerande eller jordande induktionsövning (?).[^85-86]
 
 <!--
 If the exile won't contain its feelings:
