@@ -26,10 +26,7 @@ För när varande kan jag erbjuda digitala samtal via video. Det finns både fö
 Varmt välkommen att kontakta mig! I meddelandet kan du skriva något kort om dig själv och vad du vill ha hjälp med.
 
 {% raw %}
-
 <div id="reset-all" style="all: initial">
-    <div style="text-align: center;">
-        <iframe src="https://bjorkpsykologi.kaddio.com/iframe/contact-us" width="500" height="700"></iframe>
-    </div>
+<iframe src="https://bjorkpsykologi.kaddio.com/iframe/contact-us" width="100%" height="700"></iframe>
 </div>
 {% endraw %}

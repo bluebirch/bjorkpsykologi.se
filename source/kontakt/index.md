@@ -11,8 +11,6 @@ Privatpersoner kan också använda kontaktformuläret nedan.
 
 {% raw %}
 <div id="reset-all" style="all: initial">
-    <div style="text-align: center;">
-        <iframe src="https://bjorkpsykologi.kaddio.com/iframe/contact-us" width="500" height="700"></iframe>
-    </div>
+<iframe src="https://bjorkpsykologi.kaddio.com/iframe/contact-us" width="100%" height="700"></iframe>
 </div>
 {% endraw %}
