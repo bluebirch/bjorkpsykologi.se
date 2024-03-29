@@ -2,7 +2,7 @@
 title: Psykologutredning
 date: 2023-08-29 13:58:00
 updated: 2024-01-23T16:42:00
-cover: /psykologutredning/ben-mullins-oXV3bzR7jxI-unsplash.jpg
+cover: /img/ben-mullins-oXV3bzR7jxI-unsplash.jpg
 ---
 
 Jag har erfarenhet av psykologutredning i skolan, i arbetslivsinriktad rehabilitering och i psykiatri. Som forskare har jag också erfarenhet av systematiskt analys- och utredningsarbete och att skriva sakliga och tydliga utlåtanden.
