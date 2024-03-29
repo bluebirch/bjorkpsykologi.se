@@ -37,16 +37,16 @@
       "enabled": true,
       "yaml-key-priority-sort-order": "title\ndate\nupdated\ncategories\ntags",
       "priority-keys-at-start-of-yaml": true,
-      "yaml-sort-order-for-other-keys": "None"
+      "yaml-sort-order-for-other-keys": "Ascending Alphabetical"
     },
     "yaml-timestamp": {
-      "enabled": false,
-      "date-created": true,
+      "enabled": true,
+      "date-created": false,
       "date-created-key": "date created",
       "force-retention-of-create-value": false,
       "date-modified": true,
-      "date-modified-key": "date modified",
-      "format": "dddd, MMMM Do YYYY, h:mm:ss a"
+      "date-modified-key": "updated",
+      "format": "YYYY-MM-DD HH:mm"
     },
     "yaml-title": {
       "enabled": false,
@@ -234,6 +234,13 @@
     },
     "remove-multiple-blank-lines-on-paste": {
       "enabled": false
+    },
+    "add-blank-line-after-yaml": {
+      "enabled": true
+    },
+    "default-language-for-code-fences": {
+      "enabled": false,
+      "default-language": ""
     }
   },
   "lintOnSave": false,
@@ -247,10 +254,9 @@
     "hexo-scripts",
     "scaffolds",
     "themes",
-    "public/2008",
-    ""
+    "public"
   ],
-  "linterLocale": "system-default",
+  "linterLocale": "sv",
   "logLevel": "ERROR",
   "lintCommands": [],
   "customRegexes": [],
