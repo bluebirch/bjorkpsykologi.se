@@ -17,11 +17,11 @@ Människor är berättande varelser. Det är genom våra berättelser om varandr
 
 ## Hur jag arbetar
 
-Vi börjar med att du berättar om vad du vill ha hjälp med. Jag ställer frågor om din aktuella livssituation och din bakgrund och tillsammans formulerar vi mål för vårt samarbete. Jag anpassar hur jag arbetar efter dina behov men använder främst metoder från den psykodynamiska skolan, {% post_link relationell-psykoterapi relationell psykoterapi %} och {% post_link internal-family-systems IFS (Internal Famly Systems) %}.
+Vi börjar med att du berättar om vad du vill ha hjälp med. Jag ställer frågor om din aktuella livssituation och din bakgrund och tillsammans formulerar vi mål för vårt samarbete. Jag anpassar hur jag arbetar efter dina behov men använder främst metoder från den psykodynamiska skolan, {% post_link relationell-psykoterapi relationell psykoterapi %} och {% post_link internal-family-systems IFS (Internal Family Systems) %}.
 
 ## Digitala samtal
 
-För när varande kan jag erbjuda digitala samtal via video. Det finns både för och nackdelar med det. En fördel är att det är enkelt: du behöver inte ta dig någonstans, utan kan sitta hemma i en bekant miljö. Allt du behöver är en dator eller en telefon. En nackdel kan vara att det kan vara svårare att läsa av kroppsspråk och vad som händer i rummet, men det kompenseras till viss del att mitt arbetssätt har stort fokus på din _berättelse_.
+För närvarande kan jag erbjuda digitala samtal via video. Det finns både för- och nackdelar med det. En fördel är att det är enkelt: du behöver inte ta dig någonstans, utan kan sitta hemma i en bekant miljö. Allt du behöver är en dator eller en telefon. En nackdel kan vara att det kan vara svårare att läsa av kroppsspråk och vad som händer i rummet, men det kompenseras till viss del att mitt arbetssätt har stort fokus på din _berättelse_.
 
 Varmt välkommen att kontakta mig! I meddelandet kan du skriva något kort om dig själv och vad du vill ha hjälp med.
 
