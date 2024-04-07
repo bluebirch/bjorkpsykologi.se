@@ -1,7 +1,7 @@
 ---
 title: Internal Family Systems (IFS)
 date: 2024-02-24 07:54:41
-cover: /img/timon-studler-BIk2ANMmNz4-unsplash.jpg
+cover: /bilder/timon-studler-BIk2ANMmNz4-unsplash.jpg
 ---
 
 På den här sidan har jag börjat samla och översätta lite arbetsmaterial kring IFS.

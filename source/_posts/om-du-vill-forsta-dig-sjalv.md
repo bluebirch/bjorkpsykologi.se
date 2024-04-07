@@ -3,7 +3,7 @@ title: Om du vill förstå dig själv måste du lära känna din egen berättels
 tags:
   - psykoterapi
   - citat
-cover: /img/carl-jorgensen-FBMF6cd3E7A-unsplash-cropped.jpg
+cover: /bilder/carl-jorgensen-FBMF6cd3E7A-unsplash-cropped.jpg
 date: 2024-04-05 14:02:54
 ---
 

@@ -6,7 +6,7 @@ tags:
   - TMO
   - problemskapande beteenden
   - skolan
-cover: /img/grayscale-photo-of-boy-in-collared-shirt-IXfZPpnsFXo.jpg
+cover: /bilder/grayscale-photo-of-boy-in-collared-shirt-IXfZPpnsFXo.jpg
 ---
 
 Svåra känslor som ensamhet, rädsla och skam är en form _själslig smärta_. Vi reagerar likadant på smärtsamma känslor som på kroppslig smärta: vi gör vad vi kan för att undvika det som gör ont.

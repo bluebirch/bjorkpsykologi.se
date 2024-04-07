@@ -2,7 +2,7 @@
 title: Psykologsamtal
 date: 2023-03-18 20:26:56
 updated: 2024-03-29 15:38
-cover: /img/orbtal-media-Esq0ovRY-Zs-unsplash.jpg
+cover: /bilder/orbtal-media-Esq0ovRY-Zs-unsplash.jpg
 ---
 
 Varför skall man prata med en psykolog? Det kan finnas många anledningar. Kanske förföljs du av nedstämdhet, ångest eller stress? Kanske fungerar inte relationerna till dem som står dig närmast? Kanske upplever du att du kommit till vägs ände i en ohållbar livssituation och inte vet hur du kan komma vidare? Kanske vill du utvecklas, lära känna sig själv och bli bättre på relationer?
