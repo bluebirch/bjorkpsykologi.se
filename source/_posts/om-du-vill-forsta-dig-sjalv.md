@@ -1,16 +1,15 @@
 ---
 title: Om du vill förstå dig själv måste du lära känna din egen berättelse
-tags:
-  - psykoterapi
-  - citat
-cover: /bilder/carl-jorgensen-FBMF6cd3E7A-unsplash-cropped.jpg
 date: 2024-04-05 14:02:54
+tags:
+  - citat
+  - psykoterapi
+cover: /bilder/carl-jorgensen-FBMF6cd3E7A-unsplash-cropped.jpg
 ---
-
 
 > If you want to know me, then you must know my story, for my story defines who I am. And if I want to know myself, to gain insight into the meaning of my own life, then I too must come to know my own story.
 >
->  **Dan P. McAdams**, _The Stories We Live by: Personal Myths and the Making of Self_, 1993.
+>  **Dan P. McAdams**, *The Stories We Live by: Personal Myths and the Making of Self*, 1993.
 
 Vi människor förstår oss själva och varandra genom våra berättelser. Precis som i alla berättelser finns där olika karaktärer med olika motiv: hjältar, offer, mentorer, statister och så vidare. När jag lyssnar på människor lägger jag särskilt märke till vilka roller de har sina egna berättelser. Det kan ge många ledtrådar till hur de förstår sig själva. Ofta är det ett eko av hur de infogades i andras berättelser när de var barn.
 

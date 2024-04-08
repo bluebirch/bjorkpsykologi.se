@@ -1,15 +1,15 @@
 ---
 title: Lathund för IFS-processen
-date: 2024-03-17T11:25:00
+date: 2024-03-17 11:25:00
 cover: /ifs/self-therapy.jpg
 ---
 
 <!-- This is a summary of all the steps of the IFS procedure. It is meant to guide your steps while you are working on yourself or partnering with someone. -->
 
-Det här är en sammanfattning av alla steg i IFS-processen, hämtad från Jay Earleys bok _Self Therapy_.[^311-314] Den är tänkt att användas som vägledning när du arbetar på egen hand eller tillsammans med en IFS-partner.[^kap16]
+Det här är en sammanfattning av alla steg i IFS-processen, hämtad från Jay Earleys bok *Self Therapy*.[^1] Den är tänkt att användas som vägledning när du arbetar på egen hand eller tillsammans med en IFS-partner.[^2]
 
-[^311-314]: Jay Earley, _Self Therapy_ (Larkspur: Pattern System Books, 2009), 311--314.
-[^kap16]: Ibid., 281--298.
+[^1]: Jay Earley, *Self Therapy* (Larkspur: Pattern System Books, 2009), 311--314.
+[^2]: Ibid., 281--298.
 
 <!-- ## 1. Getting to Know a Protector -->
 
@@ -17,9 +17,9 @@ Det här är en sammanfattning av alla steg i IFS-processen, hämtad från Jay E
 
 <!-- ### P1. Accessing a Part -->
 
-### B1. Få kontakt med en del[^kap4]
+### B1. Få kontakt med en del[^3]
 
-[^kap4]: Ibid., 53--72.
+[^3]: Ibid., 53--72.
 
 <!-- If the part is not activated, imagine yourself in a recent situation when the part was activated. Sense the part in your body or evoke an image of the part. -->
 
@@ -29,9 +29,9 @@ Känn efter var i kroppen du kan känna delen eller försök se den framför dig
 
 <!-- ### P2. Unblending Target Part -->
 
-### B2. Separera från måldelen[^kap5]
+### B2. Separera från måldelen[^4]
 
-[^kap5]: Ibid., 73--91.
+[^4]: Ibid., 73--91.
 
 <!-- Check to see if you are charged up with the part’s emotions or caught up in its beliefs right now. If so, you are blended. -->
 
@@ -57,9 +57,9 @@ Om du är blandad/förenad med måldelen kan du försöka separera från den på
 - "Backa" <!-- backa --> in i Själv för att separera från delen.
 - Visualisera delen en bit ifrån dig eller rita en teckning av den.
 - Föreställ dig delen innesluten i ett rum.
-- Gör en centrerande eller grundande meditationsövning.[^85-86]
+- Gör en centrerande eller grundande meditationsövning.[^5]
 
-[^85-86]: Ibid., 85--86.
+[^5]: Ibid., 85--86.
 
 <!-- If the part doesn’t separate, ask what it is afraid would happen if it did. Explain to it the value of separating and reassure it about its fears. -->
 
@@ -67,9 +67,9 @@ Om måldelen inte separerar, fråga vad den befarar skulle hända om den gjorde 
 
 <!-- ### P3. Unblending Concerned Part -->
 
-### B3. Separera från bekymrade delar[^kap6]
+### B3. Separera från bekymrade delar[^6]
 
-[^kap6]: Ibid., 92--111.
+[^6]: Ibid., 92--111.
 
 <!-- Check to see how you feel toward the target part right now. If you feel compassionate, curious, and so on, you are in Self, so you can move on to P4. -->
 
@@ -154,9 +154,9 @@ Be om beskyddarens tillåtelse att lära känna exildelen.
 
 <!-- If it won't give permission, ask what it is afraid would happen if you accessed the exile. Possibilities are: -->
 
-Om beskyddaren inte ger sin tillåtelse, fråga vad den befarar skulle hända om du fick kontakt med exildelen. Möjliga svar:[^182-189]
+Om beskyddaren inte ger sin tillåtelse, fråga vad den befarar skulle hända om du fick kontakt med exildelen. Möjliga svar:[^7]
 
-[^182-189]: Ibid., 182--189.
+[^7]: Ibid., 182--189.
 
 <!--
 - The exile has too much pain. Explain that you will stay in Self and get to know the exile, not dive into its pain.
@@ -172,7 +172,6 @@ Om beskyddaren inte ger sin tillåtelse, fråga vad den befarar skulle hända om
 6. En hemlighet kommer att avslöjas.
 7. En farlig beskyddare kommer att triggas.
 8. Exildelen kommer att återuppleva den ursprungliga smärtan.
-
 
 <!-- ## 3. Getting to Know an Exile -->
 
@@ -331,4 +330,4 @@ Beskyddaren kan nu välja en ny uppgift.
 
 ## Referenser
 
-Earley, J. (2009). _Self-therapy_ (2:a utgåvan). Pattern System Books.
+Earley, J. (2009). *Self-therapy* (2:a utgåvan). Pattern System Books.

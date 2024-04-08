@@ -1,7 +1,7 @@
 ---
 title: Internal Family Systems (IFS)
 date: 2023-08-05 10:57:52
-updated: 2023-10-02T17:06:00
+updated: 2023-10-02 17:06:00
 tags:
   - IFS
   - psykoterapi
@@ -15,11 +15,11 @@ Internal family systems (IFS) är en psykoterapi där utgångspunkten är att vi
 
 -->
 
-Internal Family Systems (IFS) är en form av psykoterapi som fokuserar på klientens inre "delar" och "själv". Utgångspunkten i IFS är att människans psyke är ett system av olika delar eller _delpersonligheter_. Delpersonligheterna har olika roller eller funktioner. En del kan vara den jag är på jobbet, en annan den jag är hemma. Andra delar kan vara den inre kritikern eller det inre barnet.
+Internal Family Systems (IFS) är en form av psykoterapi som fokuserar på klientens inre "delar" och "själv". Utgångspunkten i IFS är att människans psyke är ett system av olika delar eller *delpersonligheter*. Delpersonligheterna har olika roller eller funktioner. En del kan vara den jag är på jobbet, en annan den jag är hemma. Andra delar kan vara den inre kritikern eller det inre barnet.
 
 <!--more-->
 
-Det centrala i IFS är _samspelet_ mellan delpersonligheterna i den "inre familjen". Vissa delar är tyngda av bördor: smärtsamma upplevelser och svåra känslor som ilska, rädsla eller skam. Eftersom bördorna riskerar att överväldiga oss, hålls de borta från resten av familjesystemet. De har fått gå i exil. Andra delar agerar som beskyddare. De försöker se till att de delar som förpassats i exil inte väcks så att deras bördor av smärtsamma upplevelser och känslor överväldigar oss. Problemet är att våra inre beskyddare ofta hamnat i dysfunktionella roller och använder sig av förlegade skyddsstrategier som kanske var funktionella när vi var barn eller när vi var med om den smärtsamma upplevelse som exildelen bär på, men som nu ställer till problem för oss och våra relationer.
+Det centrala i IFS är *samspelet* mellan delpersonligheterna i den "inre familjen". Vissa delar är tyngda av bördor: smärtsamma upplevelser och svåra känslor som ilska, rädsla eller skam. Eftersom bördorna riskerar att överväldiga oss, hålls de borta från resten av familjesystemet. De har fått gå i exil. Andra delar agerar som beskyddare. De försöker se till att de delar som förpassats i exil inte väcks så att deras bördor av smärtsamma upplevelser och känslor överväldigar oss. Problemet är att våra inre beskyddare ofta hamnat i dysfunktionella roller och använder sig av förlegade skyddsstrategier som kanske var funktionella när vi var barn eller när vi var med om den smärtsamma upplevelse som exildelen bär på, men som nu ställer till problem för oss och våra relationer.
 
 Målet med terapin är att få tillgång till det som inom IFS kallas Självet. Självet är det accepterande och självobserverande medvetandetillstånd som man når med mindfulness, en teknik som används i flera andra psykoterapier (t. ex. ACT och DBT). Inom IFS stannar man inte vid passiv observation och acceptans, utan går vidare och för samtal med sina delar. På sätt kan Självet hjälpa de delar som fått gå i exil, befria dem från deras bördor och ge de beskyddande delarna mer funktionella uppgifter. Tanken är också att man skall bli mer Själv-ledd i vardagen, alltså att handla i dialog med sina inre delar i stället för att låta en del ta över och köra sitt eget race -- vilket kan bli problematiskt om det exempelvis är en beskyddare som försöker lugna en upprörd exildel genom att dricka alkohol eller självskada.
 
@@ -31,8 +31,8 @@ IFS används för att behandla exempelvis ångest, depression, ätstörningar oc
 
 <!-- Haragutchi, H. (2020). Internal family systems therapy: How it works and what to expect. _Choosing therapy_. <https://www.choosingtherapy.com/internal-family-systems-therapy/> -->
 
-Schwartz, R. C. (1995). _Internal family systems therapy_. Guilford.
+Schwartz, R. C. (1995). *Internal family systems therapy*. Guilford.
 
-Schwartz, R. C. (2001). _Introduction to the internal family systems model_. Trailheads Publications.
+Schwartz, R. C. (2001). *Introduction to the internal family systems model*. Trailheads Publications.
 
-Schwartz, R. C. (2021). _No bad parts: Healing trauma and restoring wholeness with the internal family systems model_. Sounds True.
+Schwartz, R. C. (2021). *No bad parts: Healing trauma and restoring wholeness with the internal family systems model*. Sounds True.

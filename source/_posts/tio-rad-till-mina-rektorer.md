@@ -1,10 +1,10 @@
 ---
 title: Tio råd till mina rektorer
 date: 2023-03-25 21:39:10
-updated: 2023-10-03T19:34:00
+updated: 2023-10-03 19:34:00
 tags:
-  - skolan
   - citat
+  - skolan
 ---
 
 En bekant postade tio råd ur en bok om ledarskap i skola och universitet. Jag tillägnar råden alla rektorer jag arbetat tillsammans med som skolpsykolog.
@@ -22,4 +22,4 @@ En bekant postade tio råd ur en bok om ledarskap i skola och universitet. Jag t
 > 9. Att hålla medarbetarna ansvariga är att få medarbetarna agera vuxet.
 > 10. Ibland är det bäst att inte göra någonting alls och i stället förlita sig på processen.
 >
-> **Anders Risling** och **Mats Edenius**, _Prefekt: framtidens ledarskap för forskning och utveckling_ (Stockholm: Sanoma utbildning, 2019).
+> **Anders Risling** och **Mats Edenius**, *Prefekt: framtidens ledarskap för forskning och utveckling* (Stockholm: Sanoma utbildning, 2019).

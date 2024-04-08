@@ -12,11 +12,11 @@ Skamkompassen hjälper oss att förstå hur vi reagerar på skam. Ofta reagerar 
 
 För att förstå skamkompassen behöver vi först förstå skam, ilska och rädsla.
 
-Inom affektteori betraktas skam som en av 7--9 biologiska grundkänslor eller _affekter_ tillsammans med glädje, intresse, förvåning, avsky, avsmak, ledsnad, ilska och rädsla.[^1] Varje affekt har en _funktion_ som har med överlevnad och anpassning att göra. Avsmak, till exempel, skyddar oss från otjänlig mat eller giftiga växter och djur. Affekter är också sociala: när jag känner avsmak visar jag det i ansiktsuttryck och kroppshållning och signalerar till andra att det där som jag just stoppade i munnen, det går inte att äta.
+Inom affektteori betraktas skam som en av 7--9 biologiska grundkänslor eller *affekter* tillsammans med glädje, intresse, förvåning, avsky, avsmak, ledsnad, ilska och rädsla.[^1] Varje affekt har en *funktion* som har med överlevnad och anpassning att göra. Avsmak, till exempel, skyddar oss från otjänlig mat eller giftiga växter och djur. Affekter är också sociala: när jag känner avsmak visar jag det i ansiktsuttryck och kroppshållning och signalerar till andra att det där som jag just stoppade i munnen, det går inte att äta.
 
-_Ilska_ är vad som väcks i oss när våra gränser eller intressen är hotade och vi behöver försvara oss. Ögonbrynen förvandlas till ett "V" och mungiporna åker ner. Händer, armar och axlar spänner sig och kroppen bereder sig på kamp. _Rädsla_ väcks när vi behöver fly från ett hot. Ögonbrynen höjs och dras ihop, ögonen spärras upp och mungiporna dras bakåt. Vi blir spända, pulsen ökar och vi söker efter faror i omgivningen. Ilska och rädsla hänger ihop med kamp--flykt-reaktionen: kroppen mobiliseras för att försvara sig eller fly från det vi uppfattar som ett hot.
+*Ilska* är vad som väcks i oss när våra gränser eller intressen är hotade och vi behöver försvara oss. Ögonbrynen förvandlas till ett "V" och mungiporna åker ner. Händer, armar och axlar spänner sig och kroppen bereder sig på kamp. *Rädsla* väcks när vi behöver fly från ett hot. Ögonbrynen höjs och dras ihop, ögonen spärras upp och mungiporna dras bakåt. Vi blir spända, pulsen ökar och vi söker efter faror i omgivningen. Ilska och rädsla hänger ihop med kamp--flykt-reaktionen: kroppen mobiliseras för att försvara sig eller fly från det vi uppfattar som ett hot.
 
-_Skam_ är vad som väcks i oss när vi blir eller riskerar att bli uteslutna ur gemenskapen. Huvudet sänks, vi tittar bort och rodnar. Vi ser plötsligt oss själva med andras ögon och vi tycker inte om det vi ser.
+*Skam* är vad som väcks i oss när vi blir eller riskerar att bli uteslutna ur gemenskapen. Huvudet sänks, vi tittar bort och rodnar. Vi ser plötsligt oss själva med andras ögon och vi tycker inte om det vi ser.
 
 Människan är en social varelse och det finns få saker vi fruktar mer än att bli övergivna. När vi känner skam är det alltså en signal om att vi behöver göra någonting för att komma tillbaka till gemenskapen som riskerar att utesluta oss. Det är samtidigt ett stort hot. Om man tänker evolutionärt, är hotet om att bli utesluten ur gemenskapen detsamma som ett hot om att dö eftersom en ensam individ inte klarar sig inte utan sin flock. Därför reagerar vi ofta på själva skamkänslan som om den vore ett hot, som om vi behövde kämpa eller fly för vår överlevnad.
 
@@ -42,8 +42,8 @@ Skam är den affekt som är svårast att uthärda. Vi gör som regel vad som hel
 
 ## Referenser
 
-Nathanson, D. L. (1994). _Shame and pride: Affect, sex, and the birth of the self_. W. W. Norton.
+Nathanson, D. L. (1994). *Shame and pride: Affect, sex, and the birth of the self*. W. W. Norton.
 
-Richards, G. (2010). _Putting psychology in its place: Critical historical perspectives_. Routledge.
+Richards, G. (2010). *Putting psychology in its place: Critical historical perspectives*. Routledge.
 
 [^1]: Det råder ganska stor oenighet om vilka och hur många dessa universella grundkänslor är (se t. ex. Richards, 2010), men skam, ilska och rädsla finns såvitt jag vet med i dem alla.

@@ -1,7 +1,7 @@
 ---
 title: Elevhälsa
 date: 2023-04-10 16:16:47
-updated: 2023-10-02T10:34:00
+updated: 2023-10-02 10:34:00
 cover: /skola/cover.jpg
 ---
 
@@ -9,7 +9,7 @@ När jag började arbeta som skolpsykolog var det som att hitta hem. Alla erfare
 
 Min huvuduppgift som skolpsykolog är att hjälpa lärare förstå och bemöta elever som det inte fungerar kring i klassrummet eller i samspel med övriga elever och vuxna. Hemligheten är att skifta perspektiv och försöka se den pedagogiska situationen med elevens ögon och hur den situationen ter sig om man har svårigheter med uppmärksamhet, koncentration, sammanhangsförståelse eller vad det nu kan vara. Att hjälpa till med det här perspektivskiftet är min styrka som skolpsykolog. Metodmässigt lånar jag mycket från samarbetsbaserad problemlösning (CPS; Greene, 2014; Greene & Ablon, 2006).
 
-Med tiden har jag upptäckt att det är många elever som har svårt att fungera i skolmiljön för att de varit med om svåra händelser, bevittnat våld, försummats eller utsatts för övergrepp. Barn som har svåra händelser bakom sig behöver bemötas med förståelse för vilka spår sådana erfarenheter lämnar i själ och kropp. I nästan all handledning jag gör kring problemskapande beteenden utgår jag numera från _traumamedveten omsorg_ (TMO; Bath & Seita, 2019). Jag håller också utbildningar för skolpersonal i traumamedvetet förhållningssätt.
+Med tiden har jag upptäckt att det är många elever som har svårt att fungera i skolmiljön för att de varit med om svåra händelser, bevittnat våld, försummats eller utsatts för övergrepp. Barn som har svåra händelser bakom sig behöver bemötas med förståelse för vilka spår sådana erfarenheter lämnar i själ och kropp. I nästan all handledning jag gör kring problemskapande beteenden utgår jag numera från *traumamedveten omsorg* (TMO; Bath & Seita, 2019). Jag håller också utbildningar för skolpersonal i traumamedvetet förhållningssätt.
 
 Min utgångspunkt är det tvärprofessionella samarbetet i elevhälsoteamet. Jag tycker att jag kommer bäst till min rätt ju mer involverad jag är i elevhälsoarbetet och ju tidigare jag kan bidra med nya perspektiv, råd och handledning. Jag samverkar också mycket med socialtjänst, primärvård, BUP och habilitering.
 
@@ -25,10 +25,10 @@ En särskild talang jag har är att hantera de där situationerna när läraren 
 
 ## Referenser
 
-Barth, H. & Seita, J. (2019). _De tre pelarna i traumamedveten omsorg: att skapa en läkande miljö "de övriga 23 timmarna"_. Studentlitteratur.
+Barth, H. & Seita, J. (2019). *De tre pelarna i traumamedveten omsorg: att skapa en läkande miljö "de övriga 23 timmarna"*. Studentlitteratur.
 
-Greene, R. W. (2014). _Lost at school: Why our kids with behavioral challenges are falling through the cracks and how we can help them_. Scribner.
+Greene, R. W. (2014). *Lost at school: Why our kids with behavioral challenges are falling through the cracks and how we can help them*. Scribner.
 
-Greene, R. W., & Ablon, J. S. (2006). _Treating explosive kids: The collaborative problem-solving approach_. Guilford.
+Greene, R. W., & Ablon, J. S. (2006). *Treating explosive kids: The collaborative problem-solving approach*. Guilford.
 
-Socialstyrelsen & Skolverket. (2016). _Vägledning för elevhälsan_.
+Socialstyrelsen & Skolverket. (2016). *Vägledning för elevhälsan*.

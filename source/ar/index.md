@@ -1,7 +1,7 @@
 ---
 title: Arbetslivsinriktad rehabilitering (AR)
 date: 2023-04-10 00:00:00
-updated: 2023-10-02T11:05:00
+updated: 2023-10-02 11:05:00
 cover: /ar/tiler-2554768_1920.jpg
 ---
 

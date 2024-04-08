@@ -1,6 +1,6 @@
 ---
-title: "Övning 4: Meditation över dilemma"
-date: 2024-02-24T15:40:00
+title: 'Övning 4: Meditation över dilemma'
+date: 2024-02-24 15:40:00
 ---
 
 Från Schwartz (2021), kapitel 3. Skall översättas till svenska.
@@ -15,7 +15,7 @@ Från Schwartz (2021), kapitel 3. Skall översättas till svenska.
 >
 > Our parts long for connection to our Self---just as much as we long to connect to SELF. in the waiting room (or any of its allies who are making themselves known) needs to pull its energy out of you. You can reassure it (that is, the one in the waiting room) that it'll have a time with you, too, so maybe that will help it be a little more patient.
 >
-> If you _can_ get to a point of at least being curious about the one who's not in the waiting room, go ahead and follow your curiosity and ask it what it wants you to know about its position. Why does it take such a strong position on this issue? What is it afraid would happen if the other one took over and won the battle? As you listen to it, you don't have to agree or disagree---just let the part know that you respect it, you care about it, you're there with it, and you hear it. See how it reacts.
+> If you *can* get to a point of at least being curious about the one who's not in the waiting room, go ahead and follow your curiosity and ask it what it wants you to know about its position. Why does it take such a strong position on this issue? What is it afraid would happen if the other one took over and won the battle? As you listen to it, you don't have to agree or disagree---just let the part know that you respect it, you care about it, you're there with it, and you hear it. See how it reacts.
 >
 > In the next minute or so, I want you to ask the part you've been speaking with to go into a separate waiting room. Then let the other one out so you can get to know it in the same way. And again, you're trying to have an open heart and open mind as you listen to its side. You don't have to agree. You just kind of want to get where it's coming from, why it's so charged up about this, what it's afraid would happen if the other side won, and so on.
 >
@@ -29,4 +29,4 @@ Från Schwartz (2021), kapitel 3. Skall översättas till svenska.
 
 ## Referenser
 
-Schwartz, R. C. (2021). _No bad parts: Healing trauma and restoring wholeness with the internal family systems model_. Sounds True.
+Schwartz, R. C. (2021). *No bad parts: Healing trauma and restoring wholeness with the internal family systems model*. Sounds True.

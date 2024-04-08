@@ -1,6 +1,6 @@
 ---
 title: Relationell psykoterapi
-date: 2023-10-02T17:11:00
+date: 2023-10-02 17:11:00
 tags:
   - psykoterapi
 ---

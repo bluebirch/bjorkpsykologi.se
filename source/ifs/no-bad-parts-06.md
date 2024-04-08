@@ -1,6 +1,6 @@
 ---
-title: "Övning 6: Daglig IFS-meditation"
-date: 2024-02-24T15:49:00
+title: 'Övning 6: Daglig IFS-meditation'
+date: 2024-02-24 15:49:00
 ---
 
 Från Schwartz (2021), kapitel 4. Skall översättas till svenska.
@@ -27,4 +27,4 @@ Från Schwartz (2021), kapitel 4. Skall översättas till svenska.
 
 ## Referenser
 
-Schwartz, R. C. (2021). _No bad parts: Healing trauma and restoring wholeness with the internal family systems model_. Sounds True.
+Schwartz, R. C. (2021). *No bad parts: Healing trauma and restoring wholeness with the internal family systems model*. Sounds True.

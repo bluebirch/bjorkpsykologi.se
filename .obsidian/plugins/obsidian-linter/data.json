@@ -44,7 +44,7 @@
       "date-created": false,
       "date-created-key": "date created",
       "force-retention-of-create-value": false,
-      "date-modified": true,
+      "date-modified": false,
       "date-modified-key": "updated",
       "format": "YYYY-MM-DD HH:mm"
     },
@@ -102,7 +102,7 @@
     },
     "emphasis-style": {
       "enabled": true,
-      "style": "underscore"
+      "style": "asterisk"
     },
     "no-bare-urls": {
       "enabled": true,
@@ -241,6 +241,21 @@
     "default-language-for-code-fences": {
       "enabled": false,
       "default-language": ""
+    },
+    "dedupe-yaml-array-values": {
+      "enabled": false,
+      "dedupe-alias-key": true,
+      "dedupe-tag-key": true,
+      "dedupe-array-keys": true,
+      "ignore-keys": ""
+    },
+    "sort-yaml-array-values": {
+      "enabled": false,
+      "sort-alias-key": true,
+      "sort-tag-key": true,
+      "sort-array-keys": true,
+      "ignore-keys": "",
+      "sort-order": "Ascending Alphabetical"
     }
   },
   "lintOnSave": false,

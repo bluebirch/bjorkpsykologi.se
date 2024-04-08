@@ -21,15 +21,15 @@ Jag samtalar kort med skola och vårdnadshavare för att bilda mig en uppfattnin
 
 Den första fasen i psykologutredningen handlar om att samla in information för att besvara den ställda frågan. Det följande ingår i nästan alla utredningar:
 
-- _Intervju_ med vårdnadshavare. Jag kommer att fråga om barnets tidiga utveckling och hur det fungerar med hem, skola och fritid. Intervjun brukar ta 1-1½ timme.
-- _Observation_ i skolmiljön. Jag följer med klassen under några lektioner och ser hur det fungerar och hur pedagogerna bemöter barnet.
-- _Testning_ med begåvningstest. Jag träffar barnet och vi gör några uppgifter tillsammans. Oftast vill barnet att någon vårdnadshavare skall vara med under testningen, åtminstone i början. Testning kan totalt ta 2--3 timmar och vid behov delar jag upp det på flera tillfällen.
-- Pedagoger och vårdnadshavare får fylla i ett antal _frågeformulär_.
-- Jag kommer att fråga efter _tidigare utredningar_ som eventuellt har gjorts på skolan eller inom hälso- och sjukvården.
+- *Intervju* med vårdnadshavare. Jag kommer att fråga om barnets tidiga utveckling och hur det fungerar med hem, skola och fritid. Intervjun brukar ta 1-1½ timme.
+- *Observation* i skolmiljön. Jag följer med klassen under några lektioner och ser hur det fungerar och hur pedagogerna bemöter barnet.
+- *Testning* med begåvningstest. Jag träffar barnet och vi gör några uppgifter tillsammans. Oftast vill barnet att någon vårdnadshavare skall vara med under testningen, åtminstone i början. Testning kan totalt ta 2--3 timmar och vid behov delar jag upp det på flera tillfällen.
+- Pedagoger och vårdnadshavare får fylla i ett antal *frågeformulär*.
+- Jag kommer att fråga efter *tidigare utredningar* som eventuellt har gjorts på skolan eller inom hälso- och sjukvården.
 
 ### Bedömning
 
-När jag fått allt jag behöver sammanfattar jag alla resultat och skriver en bedömning i ett _psykologutlåtande_. Ibland behöver jag komplettera med mer information eller resonera tillsammans med pedagoger, vårdnadshavare eller andra vårdgivare. Jag lämnar alltid _rekommendationer_ till skolan om hur man bör bemöta barnet och eventuella andra åtgärder jag tänker att man bör vidta.
+När jag fått allt jag behöver sammanfattar jag alla resultat och skriver en bedömning i ett *psykologutlåtande*. Ibland behöver jag komplettera med mer information eller resonera tillsammans med pedagoger, vårdnadshavare eller andra vårdgivare. Jag lämnar alltid *rekommendationer* till skolan om hur man bör bemöta barnet och eventuella andra åtgärder jag tänker att man bör vidta.
 
 ### Återgivning
 
@@ -39,7 +39,7 @@ När allt är klart är det dags för återgivning till vårdnadshavare, skolper
 
 En utredning skall leda till ökad förståelse för barnets styrkor och utmaningar så att man kan ställa rimliga krav, anpassa och ge stöd.
 
-Om utredningen leder till att diagnosen _intellektuell funktionsnedsättning_ fastställs, kan vårdnadshavare ansöka om inskrivning i anpassad grundskola och söka stöd från barn- och ungdomshabiliteringen.
+Om utredningen leder till att diagnosen *intellektuell funktionsnedsättning* fastställs, kan vårdnadshavare ansöka om inskrivning i anpassad grundskola och söka stöd från barn- och ungdomshabiliteringen.
 
 Om det finns ytterligare frågeställningar kring exempelvis neuropsykiatriska funktionsvariationer (ADHD och/eller autism) hjälper jag till med remiss till hälso- och sjukvården.
 

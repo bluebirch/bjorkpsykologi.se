@@ -1,15 +1,15 @@
 ---
 title: Möt inte smärta med smärta
 date: 2024-01-24 13:22:28
-updated: 2024-01-25T08:08:08
+updated: 2024-01-25 08:08:08
 tags:
-  - TMO
   - problemskapande beteenden
   - skolan
+  - TMO
 cover: /bilder/grayscale-photo-of-boy-in-collared-shirt-IXfZPpnsFXo.jpg
 ---
 
-Svåra känslor som ensamhet, rädsla och skam är en form _själslig smärta_. Vi reagerar likadant på smärtsamma känslor som på kroppslig smärta: vi gör vad vi kan för att undvika det som gör ont.
+Svåra känslor som ensamhet, rädsla och skam är en form *själslig smärta*. Vi reagerar likadant på smärtsamma känslor som på kroppslig smärta: vi gör vad vi kan för att undvika det som gör ont.
 
 Ofta handlar barns problemskapande beteenden i skolan i själva verket om att undvika smärtsamma känslor. För en del elever kan det vara outhärdligt skamfyllt att visa sina klasskamrater att man inte förstår eller kan. Bättre då att spela pajas i klassrummet eller fly ut i korridoren. För andra kan rädslan för att bli övergiven vara så smärtsam att det är bättre att starta bråk och räknas för att man är fruktad än att inte räknas alls. Jag har mött elever som hellre utlöste brandlarmet på skolan än utsatte sig för en undervisningssituation i övertygelsen att det bara skulle bli det slutliga beviset på att de var hopplösa fall.
 
@@ -17,11 +17,11 @@ Vuxenvärlden ser inte att barnet försöker undvika smärta, bara det problemsk
 
 Tillrättavisningar, bestraffningar och andra disciplinära åtgärder tillfogar inte kroppslig smärta, men väl själslig smärta i form av rädsla och skam. Det är själva poängen med sådana metoder. Vilket barn väljer inte att göra som vi vill när alternativet innebär smärta? Jag är ingen vän av sådana uppfostrningsmetoder, men när det gäller barn som redan bär på mycket själslig smärta är det rent kontraproduktivt. Om vi bemöter barnets undvikande av smärta (ensamhet, rädsla eller skam) med mera smärta (rädsla och skam), är risken stor att vi bara får mer undvikande och problemskapande beteenden.
 
-De vuxna i skolan behöver få syn på den _primära smärta_ som döljer sig bakom det problemskapande beteendet. Får man syn på barnets smärta, blir det en självklarhet att bemöta med förståelse och omsorg i stället för bestraffning och disciplinära åtgärder (sekundär smärta). Vuxna som inte bestraffar utan försöker förstå lägger grunden för den trygghet och de goda relationer som barn som upplevt traumatiserande händelser eller relationer behöver för att läka.
+De vuxna i skolan behöver få syn på den *primära smärta* som döljer sig bakom det problemskapande beteendet. Får man syn på barnets smärta, blir det en självklarhet att bemöta med förståelse och omsorg i stället för bestraffning och disciplinära åtgärder (sekundär smärta). Vuxna som inte bestraffar utan försöker förstå lägger grunden för den trygghet och de goda relationer som barn som upplevt traumatiserande händelser eller relationer behöver för att läka.
 
 ## Referenser
 
-Bath, H., & Seita, J. (2019). _De tre pelarna i traumamedveten omsorg: att skapa en läkande miljö \"de övriga 23 timmarna\"_. Studentlitteratur.
+Bath, H., & Seita, J. (2019). *De tre pelarna i traumamedveten omsorg: att skapa en läkande miljö \"de övriga 23 timmarna\"*. Studentlitteratur.
 
 {% message size:small %}
 

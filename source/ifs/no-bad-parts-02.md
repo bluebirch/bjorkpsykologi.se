@@ -1,5 +1,5 @@
 ---
-title: "Övning 2: Kartlägg dina delar"
+title: 'Övning 2: Kartlägg dina delar'
 date: 2024-02-24 07:54:41
 ---
 
@@ -17,7 +17,7 @@ Från Schwartz (2021), kapitel 1. Skall översättas till svenska.
 >
 > You can repeat this process until you have a sense that you have mapped out one complete system inside you. When you feel you've done that, shift your focus back outside to your surroundings.
 >
-> It's likely that what you found is one _clove of the garlic_, as we call it in IFS. You might be familiar with the onion analogy used in psychotherapy—you peel your layers off and you get to this core and then you heal that and you're done. Well, in IFS it's more like a garlic bulb. You have all these different cloves, each of which has a handful of different parts inside that are related to each other, and maybe are all stuck in one place in the past. As you work with one clove, you'll feel relief from the burdens it contained, but you may not have touched other cloves that revolved around other traumas. So this mapping exercise is designed to bring forth one of your cloves—one subsystem within you. Feel free to continue and map out other cloves.
+> It's likely that what you found is one *clove of the garlic*, as we call it in IFS. You might be familiar with the onion analogy used in psychotherapy—you peel your layers off and you get to this core and then you heal that and you're done. Well, in IFS it's more like a garlic bulb. You have all these different cloves, each of which has a handful of different parts inside that are related to each other, and maybe are all stuck in one place in the past. As you work with one clove, you'll feel relief from the burdens it contained, but you may not have touched other cloves that revolved around other traumas. So this mapping exercise is designed to bring forth one of your cloves—one subsystem within you. Feel free to continue and map out other cloves.
 >
 > Now I'd like you to hold your page a little bit away from you, so extend your arms with your pad of paper all the way out and look at these four or five parts you've represented with a little perspective. How do the parts relate to each other? Do some protect others? Do some fight with each other? Is there some kind of alliance in there? As you start to form some answers, make a note on your drawing to represent them.
 >
@@ -25,4 +25,4 @@ Från Schwartz (2021), kapitel 1. Skall översättas till svenska.
 
 ## Referenser
 
-Schwartz, R. C. (2021). _No bad parts: Healing trauma and restoring wholeness with the internal family systems model_. Sounds True.
+Schwartz, R. C. (2021). *No bad parts: Healing trauma and restoring wholeness with the internal family systems model*. Sounds True.

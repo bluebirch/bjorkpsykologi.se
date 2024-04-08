@@ -1,7 +1,7 @@
 ---
 title: Psykologsamtal
 date: 2023-03-18 20:26:56
-updated: 2024-03-29 15:38
+updated: 2024-03-29 15:38:00
 cover: /bilder/orbtal-media-Esq0ovRY-Zs-unsplash.jpg
 ---
 
@@ -9,7 +9,7 @@ Varför skall man prata med en psykolog? Det kan finnas många anledningar. Kans
 
 ## Mitt förhållningssätt
 
-En människa är mer än summan av sina delar och kan bara förstås mot bakgrund av sina relationer och sin livsberättelse. Mänskligt lidande kan sällan reduceras till välavgränsade problem eller psykiatriska diagnoser. Därför är min utgångspunkt alltid _hela människan i sitt livssammanhang_.
+En människa är mer än summan av sina delar och kan bara förstås mot bakgrund av sina relationer och sin livsberättelse. Mänskligt lidande kan sällan reduceras till välavgränsade problem eller psykiatriska diagnoser. Därför är min utgångspunkt alltid *hela människan i sitt livssammanhang*.
 
 Alla människor har en inneboende potential att växa och utvecklas. Min uppgift som psykolog handlar mycket om att upptäcka och undanröja de hinder som ligger i vägen för förändring och utveckling. Målet är i första hand att du skall återfå kontroll och känna att du håller i rodret i ditt liv.
 
@@ -21,11 +21,12 @@ Vi börjar med att du berättar om vad du vill ha hjälp med. Jag ställer fråg
 
 ## Digitala samtal
 
-För närvarande kan jag erbjuda digitala samtal via video. Det finns både för- och nackdelar med det. En fördel är att det är enkelt: du behöver inte ta dig någonstans, utan kan sitta hemma i en bekant miljö. Allt du behöver är en dator eller en telefon. En nackdel kan vara att det kan vara svårare att läsa av kroppsspråk och vad som händer i rummet, men det kompenseras till viss del att mitt arbetssätt har stort fokus på din _berättelse_.
+För närvarande kan jag erbjuda digitala samtal via video. Det finns både för- och nackdelar med det. En fördel är att det är enkelt: du behöver inte ta dig någonstans, utan kan sitta hemma i en bekant miljö. Allt du behöver är en dator eller en telefon. En nackdel kan vara att det kan vara svårare att läsa av kroppsspråk och vad som händer i rummet, men det kompenseras till viss del att mitt arbetssätt har stort fokus på din *berättelse*.
 
 Varmt välkommen att kontakta mig! I meddelandet kan du skriva något kort om dig själv och vad du vill ha hjälp med.
 
 {% raw %}
+
 <div id="reset-all" style="all: initial">
 <iframe src="https://bjorkpsykologi.kaddio.com/iframe/contact-us" width="100%" height="700"></iframe>
 </div>

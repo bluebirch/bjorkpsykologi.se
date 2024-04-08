@@ -4,12 +4,11 @@ tags:
   - trauma
 ---
 
-
-Trauma är ursprungligen ett grekiskt ord (τραῦμα) som betyder "sår" eller "skada".  Ett trauma är inte en händelse, utan den skada i själ och kropp som en svår händelse lämnar efter sig.
+Trauma är ursprungligen ett grekiskt ord (τραῦμα) som betyder "sår" eller "skada". Ett trauma är inte en händelse, utan den skada i själ och kropp som en svår händelse lämnar efter sig.
 
 <!-- https://konselingindonesia.com/read/296/what-is-psychological-trauma.html -->
 
-Kärnan i ett trauma är att våra erfarenheter och resurser inte var tillräckliga för att hantera en svår händelse. Svåra händelser kan vara våld, krig, tortyr, olyckor, omsorgssvikt och psykisk misshandel. 
+Kärnan i ett trauma är att våra erfarenheter och resurser inte var tillräckliga för att hantera en svår händelse. Svåra händelser kan vara våld, krig, tortyr, olyckor, omsorgssvikt och psykisk misshandel.
 
 <!-- jag behöver hitta en definition av trauma; det finns flera, det borde jag skriva -->
 
@@ -49,4 +48,3 @@ Vad jag också skulle behöva skriva om är att man skiljer mellan olika typer a
 4. Stora T och lilla t. PTSD och komplex traumatisering.
 5. Min narrativa förståelse av trauma.
 6. (Nu lämnar vi egentligen trauma, men) anknytning, anknytningstrauma och det här sista om att lägga skulden på sig själv.
-

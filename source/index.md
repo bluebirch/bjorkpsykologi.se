@@ -1,7 +1,7 @@
 ---
 title: Stefan Björk, psykolog
-date: 2023-04-11 09:58
-updated: 2024-03-29 15:40
+date: 2023-04-11 09:58:00
+updated: 2024-03-29 15:40:00
 cover: /bilder/index-cover.jpg
 ---
 
