@@ -4,7 +4,7 @@ tags:
   - trauma
 ---
 
-Ordet "trauma" är ursprungligen ett grekiskt ord (τραῦμα) som betyder "sår" eller "skada". Ofta pratar vi om trauma som om det vore en händelse, men traumat är inte händelsen i sig, utan det spår eller avtryck som kan finnas kvar i oss efteråt. Ett psykiskt trauma är *inre skada*, en *bestående spricka eller splittring inuti personen till följd av svåra eller smärtsamma händelser*.
+Ordet "trauma" är ursprungligen ett grekiskt ord (τραῦμα) som betyder "sår" eller "skada". Ofta pratar vi om trauma som om det vore en händelse, men traumat är inte händelsen i sig, utan det spår eller avtryck som kan finnas kvar i oss efteråt. Ett psykiskt trauma är en *inre skada*, en *bestående spricka eller splittring inuti personen till följd av svåra eller smärtsamma händelser*.
 
 Det är inte alla svåra händelser som leder trauma. När vi hamnar i situationer som vi uppfattar som farliga och hotfulla, reagerar kroppen med stresspåslag och vi känner rädsla. Vi försöker hitta ett sätt att hantera hotet. Ofta faller vi tillbaka på någon av fyra överlevnadsstrategier som förekommer hos alla däggdjur: kamp, flykt, spela död eller underkastelse (fight, flight, freeze or fawn).
 

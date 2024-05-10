@@ -48,3 +48,46 @@ Vad jag också skulle behöva skriva om är att man skiljer mellan olika typer a
 4. Stora T och lilla t. PTSD och komplex traumatisering.
 5. Min narrativa förståelse av trauma.
 6. (Nu lämnar vi egentligen trauma, men) anknytning, anknytningstrauma och det här sista om att lägga skulden på sig själv.
+
+***
+
+Charlottas frågor:
+
+Vad är trauma?
+
+Vad kan orsaka trauman?
+
+Hur kan man påverkas av trauma?
+
+Vad kan man göra åt det/hur hjälper terapi?
+
+***
+
+Vad är trauma? Trauma betyder skada. Med trauma menade man tidigare svåra händelser och upplevelser som krig och olyckor och våldtäkt och sådant. Det lämnade karaktäristiska spår. Återupplevande och undvikande. Återupplevandet väljer man inte. Men för att slippa återupplevandet försöker man undvika det som triggar återupplevandet. Återupplevandet kan se ut på olika sätt. Det kan var flashbacks. Kroppsförnimmelser. Lite allt möjligt faktiskt.
+
+Men grejen är att man upptäckte att det inte bara är svåra händelser som krig och elände som kan ge liknande skador som trauma. Också försummelse och annat ger det.
+
+Så då tänkte man väl vad som orskar trauma. Och det var riktigt hemska saker som man inte kunde processa. Sådant som vi inte hade kapacitet att hantera eller processa. Och så kan det vara. Men det är också andra situationer som ger liknande skador. Om jag lever under hot eller liknande så att det är bättre att splitta av en del för att kunna hantera tillvaron.
+
+Det är det som karaktäriserar trauma. Nämligen fragmentering och dissociation. Det var någon som skrev det. Dissociation innebär att att en del av en upplevelse hålls borta från medvetandet. 
+
+Som Janina Fischer skriver, det handlar om att den del av mig som är med om det hemska inte kan accepteras av olika anledningar. Det var "inte jag" som var med om det där hemska. Det var alldeles för överväldigande eller för hemskt eller helt enkelt bara oacceptabelt att jag var den där som blev utsatt för det som jag blev utsatt för. Nu vill jag kolla vad Janina Fischer skriver.
+
+> In the face of abuse and neglect, especially at the hands of those they love, children need enough psychological distance from what is happening to avoid being overwhelmed and survive psychologically intact. Preserving some modicum of self-esteem, attachment to family, and hope for the future requires vitims to disconnect form what has happened, doubt or disremember their experience, and disown the "bad [victim] child" to whom it happened as "not me". (s 19)
+
+Vad säger det här då? Att för att överleva psykologiskt, för att inte bli helt överväldigad, för att skapa något slags distans till vad som händer, måste jag förneka att det var mig det hände. Det dåliga barnet, offret, som blev utsatt, var "inte jag".
+
+Det är väl det här som karaktärsierar allt trauma? Det var inte jag! Det går av en eller annan anledning inte att acceptera eller förstå eller inse att *det var jag* som var med om det där. Eller inse vad det var jag var med om. Antingen för att upplevelsen var alldeles för skrämmande och överväldigande, eller för att det av en eller annan anledning inte var säkert att inse det. Det kanske skulle äventyra min relationen till den förälder som utövad övergrepp på mig eller försummade mig.
+
+Så jag förnekar att det händer. Inte medvetet. Men den som blev utsatt, den som blev offer, det var inte jag. Det var någon annan.
+
+Det splittas av till en del i mig.
+
+Hur skall jag skriva fram det här?
+
+Det är för rörigt!
+
+Trauma betyder skada och är något som drabba en person efter svåra händelser av olika slag. Trauma är inte själva händelsen, utan det sår som finns kvar efteråt.
+
+Traumat uppstår för att händelsen är så överväldigande eller skrämmande att den inte går att hantera eller bearbeta. Det är av... fan.
+
