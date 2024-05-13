@@ -1,12 +1,11 @@
 ---
 title: Psykoterapi är att undanröja hinder
+date: 2024-05-10 17:10:50
 tags:
   - psykoterapi
   - humanistisk psykologi
 cover: /bilder/john-mccann-dOx3W_53aOI-unsplash.jpg
-date: 2024-05-10 17:10:50
 ---
-
 
 Det naturliga för människor är att växa och utvecklas. Precis som ett ekollon växer upp till en ståtlig ek bara det får en chans, kommer en mänsklig individ att utvecklas och förverkliga sin unikt mänskliga potential så länge inget hindrar henne. Till det unikt mänskliga hör klarhet och djup i ens egna känslor, tankar, önskningar och intressen; tillgång till sina egna resurser och sin egen vilja; att fritt kunna uttrycka sig själv och relatera till andra; med tiden också finna mål och mening med sitt eget liv. Detta är vad Karen Horney och andra inom den humanistiska psykologin kallar för *självförverkligande*.
 
@@ -15,8 +14,6 @@ Livet är kraftfullt och även i de mest karga och ogynnsamma miljöer kan ett t
 Som barn kanske det var en fungerande och rentav nödvändig strategi att förneka sina egna behov och ta ansvar för sina föräldrar när alkoholen gjorde att de inte kunde ta ansvar för sig själva, men idag är det ett hinder för att fritt uttrycka sina behov och ha hälsosamma gränser i nära relationer. Som barn kanske raseriutbrotten vi hade var enda sättet att bryta igenom en förälders upptagenhet eller ointresse, men idag är det ett hinder för närhet och intimitet för alla partners blir skrämda, backar och överger.
 
 De flesta av oss behöver inte läsa några instruktionsböcker för att bli hyfsat fungerande och lyckliga människor. Allt vi behöver är en chans att få växa fritt i relation till våra medmänniskor. *Psykoterapi handlar först och främst om att få syn på de hindren och undanröja dem så att vår inneboende livskraft släpps fri och vi kan växa fritt.*
-
-
 
 ## Referenser
 
