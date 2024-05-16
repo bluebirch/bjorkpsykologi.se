@@ -19,14 +19,21 @@ Människor är berättande varelser. Det är genom våra berättelser om varandr
 
 Vi börjar med att du berättar om vad du vill ha hjälp med. Jag ställer frågor om din aktuella livssituation och din bakgrund och tillsammans formulerar vi mål för vårt samarbete. Jag anpassar hur jag arbetar efter dina behov men använder främst metoder från den psykodynamiska skolan, {% post_link relationell-psykoterapi relationell psykoterapi %} och {% post_link internal-family-systems IFS (Internal Family Systems) %}.
 
+## Mottagning i Stockholm
+
+Jag tar emot klienter i Gamla stan (Stortorget 3). Du kan kontakta mig genom formuläret nedan eller [boka en tid direkt](https://bjorkpsykologi.kaddio.com/booking/cal).
+
+<!-- foton från mottagningen -->
+
 ## Digitala samtal
 
-För närvarande kan jag erbjuda digitala samtal via video. Det finns både för- och nackdelar med det. En fördel är att det är enkelt: du behöver inte ta dig någonstans, utan kan sitta hemma i en bekant miljö. Allt du behöver är en dator eller en telefon. En nackdel kan vara att det kan vara svårare att läsa av kroppsspråk och vad som händer i rummet, men det kompenseras till viss del att mitt arbetssätt har stort fokus på din *berättelse*.
+Det finns både för- och nackdelar med digitala samtal. En fördel är att det är enkelt: du behöver inte ta dig någonstans, utan kan sitta hemma i en bekant miljö. Allt du behöver är en dator eller en telefon. En nackdel kan vara att det kan vara svårare att läsa av kroppsspråk och vad som händer i rummet, men det kompenseras till viss del att mitt arbetssätt har stort fokus på din *berättelse*.
+
+## Kontakt
 
 Varmt välkommen att kontakta mig! I meddelandet kan du skriva något kort om dig själv och vad du vill ha hjälp med.
 
 {% raw %}
-
 <div id="reset-all" style="all: initial">
 <iframe src="https://bjorkpsykologi.kaddio.com/iframe/contact-us" width="100%" height="700"></iframe>
 </div>
