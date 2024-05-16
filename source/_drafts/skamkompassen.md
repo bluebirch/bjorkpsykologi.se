@@ -4,9 +4,25 @@ tags:
   - skam
 ---
 
-Skamkompassen hjälper oss att förstå hur vi reagerar på skam. Ofta reagerar vi så paradoxalt på skam att vi inte själva förstår att det faktiskt är skam som ligger bakom. Skamkompassen är ett ovärderligt verktyg när jag arbetar som skolpsykolog. Det hjälper mig förstå att en elevs problematiska beteenden i grunden ofta handlar om skam.
+
+Skamkompassen hjälper oss att förstå hur vi reagerar på skam. Ofta reagerar vi så paradoxalt på skam att vi inte själva förstår att det faktiskt är skam som ligger bakom. Skamkompassen är ett ovärderligt verktyg när jag arbetar som skolpsykolog. Elevers problemskapande beteenden är nästan alltid reaktioner på skam.
 
 <!--more-->
+
+Skam är den känsla vi har svårast att uthärda. Skam är vad vi känner när vi är utstötta ur den sociala gemenskapen. Samtidigt fyller skammen en viktig funktion: den får oss att korrigera vårt beteende så att vi följer gruppens normer.
+
+En funktionell reaktion på skam är att först avgöra om den är befogad, och därefter, om den är befogad, göra något åt orsaken, till exempel be om ursäkt. Skamkompassen beskriver fyra sätt att *undvika* skam och *inte* göra någonting åt orsaken.
+
+Det är viktigt att förstå att skamkompassen beskriver fyra *skamreaktioner*. Det är inte säkert att man *känner* skamkänslan. Tvärtom handlar skamkompassens fyra poler om att *slippa känna skam*. Därför är det ofta också svårt för omgivningen att förstå att personens märkliga beteende handlar om skam.
+
+{% asset_img compass-of-shame.png '"Skamkompassen" "Skamkompassen (från Nathanson, 1994, s. 312)."' %}
+
+*Tillbakadragande* eller *undvika andra* innebär att dra sig undan den skamfyllda situationen, att gömma sig. Syftet är att slippa exponeras för skam -- inte lösa problemet. Man blir plågsamt medveten om andras blickar och sina egna fel och brister. Man känner ledsenhet, rädsla och ångest. Ofta känner man också skam, men inte nödvändigtvis.
+
+*Attackera själv* innebär oftast att klandra eller förlöjliga sig själv. Syftet är att ta kontroll över situationen. Det kan ske på ganska uppenbara sätt ("om jag kritiserar mig själv först kan inte du göra det") men också mer subtila. Om jag gör bort mig och andra skrattar åt mig kan jag fortsätta spela pajas så att de skrattar ännu mer och inbilla mig att de skrattar åt att jag spelar pajas -- inte att jag gjorde bort mig. Det här är ofta skälet till att barn omedelbart gör det du just sagt åt dem att inte göra: de vill inte nödvändigtvis driva dig till vansinne, de försöker bara undvika skam. Det är inte säkert man känner skam, men man känner ofta självförakt, ilska mot sig själv eller rentav självhat.
+
+
+***
 
 ## Skam, ilska och rädsla
 
@@ -24,11 +40,10 @@ Människan är en social varelse och det finns få saker vi fruktar mer än att 
 
 Skam är den affekt som är svårast att uthärda. Vi gör som regel vad som helst för att slippa känna skam. Oftast är det lindrigare att känna ilska eller rädsla än att känna skam. Många av oss reagerar med ilska eller rädsla på skam och det är här som skamkompassen kommer in.
 
-{% asset_img compass-of-shame.png '"Skamkompassen" "Skamkompassen (från Nathanson, 1994, s. 312)."' %}
 
 > The experience of shame is central to Nathanson's (1992) Compass of Shame model; coping scripts are triggered in reaction to a shaming event. Nathanson, following Tomkins, uses a very broad definition of shame, that is, shame is the negative affect felt in response to any impediment to the ongoing experience of interest or joy (Tomkins, 1963). Nathanson presents his Compass of Shame model within the framework of Tomkins's script theory (1991). Scripts, much like schemas, are recursively defined and nested; they are "sets of ordering rules for the interpretation, evaluation, prediction, production, or control of scenes" (Tomkins, 1991, p. 84). A constructive script for shame management is to attend to its source and evaluate whether or not one cares to address it; few people consistently achieve this ideal. The four poles of the Compass of Shame characterize the many scripts by which shame is reduced, ignored, or magnified, without addressing its source (Nathanson, 1992).
 >
-> At the Withdrawal pole, the person acknowledges the experience as negative, accepts shame's message as valid, and tries to withdraw or hide from the situation. For example, a shamed student might decide not to participate in class discussions or in the extreme case may even drop out of school. The phenomenological experience is negative; emotions include shame, sadness, fear, and anxiety. Cognitions include awareness of one's discomfort with others, and possibly awareness of shameful actions, faults, or characteristics. Nevertheless, negative feelings and cognitions may not be identified explicitly as shame. The motivation is to limit shameful exposure via the action tendency of withdrawing.
+> 
 >
 > At the Attack Self pole, the person acknowledges the experience as negative, accepts shame's message as valid, and turns anger inward. For example, a shamed student might feel self-directed rage for being "stupid." The phenomenological experience is negative; emotions include self-directed anger, contempt, or disgust, which magnify the impact of shame. Cognitions include awareness of one's shameful actions, faults, or characteristics. As in Withdrawal, negative feelings and cognitions may be acknowledged, but may not be identified explicitly as shame. The motivation is to take control of shame with the ultimate goal being to win acceptance by others. The action tendency is to criticize the self, prevent reoccurrence of the shameful situation through change, conform, show deference to others, or engage in self-deprecating remarks.
 >
@@ -41,6 +56,8 @@ Skam är den affekt som är svårast att uthärda. Vi gör som regel vad som hel
 > Thus, the poles of the compass can be ordered according to the degree to which they involve consciousness and internalization of shame: Withdrawal and Attack Self are equal, both being greater than Attack Other, which is in turn greater than Avoidance. This observation underlies many hypotheses involving differential relationships between these shame-coping styles and other variables of interest, including the frequent lack of discrimination between Withdrawal and Attack Self.
 
 ## Referenser
+
+Elison, J., Lennon, R., & Pulos, S. (2006). Investigating the compass of shame: Development of the compass of shame scale. *Social Behavior and Personality*, *34*(3), 221--238. 
 
 Nathanson, D. L. (1994). *Shame and pride: Affect, sex, and the birth of the self*. W. W. Norton.
 
