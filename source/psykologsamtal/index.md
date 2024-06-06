@@ -1,7 +1,7 @@
 ---
 title: Psykologsamtal
 date: 2023-03-18 20:26:56
-updated: 2024-03-29 15:38:00
+updated: 2024-05-16T18:45:00
 cover: /bilder/orbtal-media-Esq0ovRY-Zs-unsplash.jpg
 ---
 
