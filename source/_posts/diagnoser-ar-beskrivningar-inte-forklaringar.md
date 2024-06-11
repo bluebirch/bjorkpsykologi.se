@@ -1,12 +1,11 @@
 ---
 title: Psykiatriska diagnoser är beskrivningar, inte förklaringar
+date: 2024-06-11 09:55:52
 tags:
   - psykiatri
   - diagnoser
 cover: /bilder/DSM-V.jpg
-date: 2024-06-11 09:55:52
 ---
-
 
 Det är ett utbrett missförstånd att psykiatriska diagnoser är förklaringar. Att diagnosen på något sätt förklarar varför jag tänker, känner och handlar som jag gör. Det stämmer inte. En psykiatrisk diagnos är bara en *beskrivning av ett karaktäristiskt sätt att tänka, känna och handla*. Diagnosen är bara ett annat ord, en fackterm. Det är enklare att säga att Lisa "har depression" än att säga att hon är konstant nedstämd, inte kan känna glädje, inte kan sova, inte har någon ork och känner sig helt värdelös. Men det förklarar inte *varför* hon är nedstämd, orkeslös och känner sig värdelös.
 
@@ -19,3 +18,5 @@ På den punkten skiljer sig psykiatriska diagnoser från de flesta medicinska di
 Det finns förstås olika teorier bakom varje psykiatrisk diagnos. Teorierna försöker förklara varför en person tänker, känner och handlar på det sätt som diagnosen beskriver. Men diagnosen i sig utgör ingen förklaring.
 
 Många upplever att de får en förklaring när de får en diagnos, särskilt neuropsykiatriska diagnoser. "Jag är sådan här för att jag har ADHD! Äntligen förstår jag mig själv!" För många är det förstås en stor lättnad när saker och ting får ett namn. När saker får ett namn gå det att prata om dem. Lidandet kan externaliseras ("det är inte jag, det är min ADHD") och det lindrar skam. För den som hela livet fått höra att det bara är att "skärpa sig" kan det vara en befriande lättnad. Men det är inte en förklaring i strikt mening.
+
+Det är inte bara lekmän som gör det här tankefelet. Jag möter det ofta inom psykiatri och ibland också hos mina psykologkollegor. Tyvärr är det ett tankefel som går hand i hand med det individualiserande och biomedicinska synsättet på psykiskt lidande: när vi fastställt diagnos "vet" vi vad som är "fel" inuti individen och så kan vi justera det med psykofarmaka. Detta riskerar att dölja andra förklaringar, till exempel att personens mående och fungerande är en fullt begriplig reaktion på en ohållbar livssituation och vad personen varit med om.
