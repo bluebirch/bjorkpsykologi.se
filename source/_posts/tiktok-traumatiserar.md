@@ -1,18 +1,11 @@
 ---
 title: TikTok traumatiserar
+date: 2024-06-16 20:57:03
 tags:
   - trauma
 cover: /bilder/iStock-1367260745.jpg
-excerpt: >-
-  Dagens Nyheter har intervjuat barn om vad de sett på TikTok, YouTube och
-  Instagram: dödligt våld, män som får sina halsar avskurna, lemlästade kroppar,
-  trafikolyckor, katter och hundar som sparkas och stryps, människor som begår
-  självmord eller pratar om att skada sig själva. Allt detta är förstås
-  upprörande och oacceptabelt. Men det som verkligen fastnar hos mig är att de
-  reaktioner barnen beskriver är i linje med psykiskt trauma.
-date: 2024-06-16 20:57:03
+excerpt: "Dagens Nyheter har intervjuat barn om vad de sett på TikTok, YouTube och Instagram: dödligt våld, män som får sina halsar avskurna, lemlästade kroppar, trafikolyckor, katter och hundar som sparkas och stryps, människor som begår självmord eller pratar om att skada sig själva. Allt detta är förstås upprörande och oacceptabelt. Men det som verkligen fastnar hos mig är att de reaktioner barnen beskriver är i linje med psykiskt trauma."
 ---
-
 
 Dagens Nyheter har idag ett [reportage om vad barn möter på TikTok, YouTube och Instagram](https://www.dn.se/sverige/barnen-berattar-lemlastade-kroppar-vikthets-och-sjalvmord/). De prövade att göra fiktiva användare på tjänsterna, alla 13 år gamla. Det visar sig att det inte krävs mycket innan algoritmerna spårar in på barnets intressen och presenterar videoklipp med gråtande barn som berättar att de inte vill leva. De har också intervjuat barn om vad de sett.
 

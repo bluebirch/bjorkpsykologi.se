@@ -2,7 +2,7 @@
 title: Elevhälsa
 date: 2023-04-10 16:16:47
 updated: 2023-10-02 10:34:00
-cover: /skola/cover.jpg
+cover: /bilder/barn-i-skola.jpg
 ---
 
 När jag började arbeta som skolpsykolog var det som att hitta hem. Alla erfarenheter och allt kunnande jag samlat på mig som psykolog, akademiker och konsult föll på plats. Efter två veckor kändes det som om jag jobbat i minst ett halvår. Jag förstod intuitivt vad verksamheten behövde av mig som skolpsykolog.
