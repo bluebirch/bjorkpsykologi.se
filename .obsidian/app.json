@@ -1,10 +1,10 @@
 {
   "livePreview": true,
   "userIgnoreFilters": [
-    "node_modules/",
     "public/",
     "themes/",
-    "hexo-scripts/"
+    "hexo-scripts/",
+    "node_modules/"
   ],
   "attachmentFolderPath": "source/images",
   "alwaysUpdateLinks": true,
