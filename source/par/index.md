@@ -26,7 +26,9 @@ Samtal för par (90 minuter) kostar **2 100** kr. [Klicka här för att boka](
 
 Om ni vill inleda med två gemensamma samtal och två enskilda samtal erbjuder jag detta i ett paket för **5 500** kr (ordinarie pris 6 600 kr).
 
-Om ni därefter vill satsa långsiktigt på parterapi erbjuder jag 6 samtal (ca 3 månader) för **11 000** kr (ordinarie pris 12 600 kr) och 12 samtal (6--12 månader beroende på upplägg) för **20 000** kr (ordinarie pris 25 200 kr).  
+Om ni därefter vill satsa långsiktigt på parterapi erbjuder jag 6 samtal (ca 3 månader) för **11 000** kr (ordinarie pris 12 600 kr) och 12 samtal (6--12 månader beroende på upplägg) för **20 000** kr (ordinarie pris 25 200 kr).
+
+Jag erbjuder alltid [20 minuters kostnadsfri konsultation](/kostnadsfri-konsultation). Det kan vara bra om ni är osäkra på om parterapi är rätt för er.
 
 <!-- endtab -->
 <!-- tab id:online "title:Priser online" -->
@@ -37,7 +39,8 @@ Om ni vill inleda med två gemensamma samtal och två enskilda samtal erbjuder j
 
 Om ni därefter vill satsa långsiktigt på parterapi erbjuder jag 6 samtal (ca 3 månader) för **8 400** kr (ordinarie pris 9 600 kr) och 12 samtal (6--12 månader beroende på upplägg) för **15 300** kr (ordinarie pris 19 200 kr).  
 
+Jag erbjuder alltid [20 minuters kostnadsfri konsultation](/kostnadsfri-konsultation). Det kan vara bra om ni är osäkra på om parterapi är rätt för er.
+
 <!-- endtab -->
 
 {% endtabs %}
-

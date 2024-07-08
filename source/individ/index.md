@@ -6,34 +6,49 @@ cover: /bilder/orbtal-media-Esq0ovRY-Zs-unsplash.jpg
 
 Varför skall man prata med en psykolog? Det kan finnas många anledningar. Kanske förföljs du av nedstämdhet, ångest eller stress? Kanske fungerar inte relationerna till dem som står dig närmast? Kanske upplever du att du kommit till vägs ände i en ohållbar livssituation och inte vet hur du kan komma vidare? Kanske vill du utvecklas, lära känna sig själv och bli bättre på relationer?
 
-## Mitt förhållningssätt
+Min utgångspunkt är *hela människan i sitt livssammanhang*. Mänskligt lidande kan sällan reduceras till välavgränsade problem eller psykiatriska diagnoser. Eftersom varje människa har en inneboende potential att växa och utvecklas, är min uppgift som psykolog att {% post_link psykoterapi-ar-att-undanroja-hinder undanröja de hinder som ligger i vägen %}. Målet är i första hand att du skall återfå kontroll och känna att du håller i rodret i ditt liv.
 
-En människa är mer än summan av sina delar och kan bara förstås mot bakgrund av sina relationer och sin livsberättelse. Mänskligt lidande kan sällan reduceras till välavgränsade problem eller psykiatriska diagnoser. Därför är min utgångspunkt alltid *hela människan i sitt livssammanhang*.
+Jag anpassar hur jag arbetar efter dina behov men använder främst metoder från den psykodynamiska skolan, {% post_link relationell-psykoterapi relationell psykoterapi %} och {% post_link internal-family-systems Internal Family Systems (IFS) %}.
 
-Alla människor har en inneboende potential att växa och utvecklas. Min uppgift som psykolog handlar mycket om att upptäcka och undanröja de hinder som ligger i vägen för förändring och utveckling. Målet är i första hand att du skall återfå kontroll och känna att du håller i rodret i ditt liv.
+{% tabs size:medium style:boxed %}
 
-Människor är berättande varelser. Det är genom våra berättelser om varandra som vi förstår oss själva och vårt förflutna. Hur vi framställer oss själva i våra berättelser -- aktiva, passiva, hjältar, hjälplösa, osynliga, och så vidare -- har ofta en direkt koppling till hur vi bemöter oss själva och andra här och nu. Därför lyssnar jag efter och arbetar mycket med dina berättelser om dig själv och andra.
+<!-- tab id:irl "title:Priser Stockholm" active -->
 
-## Hur jag arbetar
+Min mottagning ligger i Gamla stan (Stortorget 3).
 
-Vi börjar med att du berättar om vad du vill ha hjälp med. Jag ställer frågor om din aktuella livssituation och din bakgrund och tillsammans formulerar vi mål för vårt samarbete. Jag anpassar hur jag arbetar efter dina behov men använder främst metoder från den psykodynamiska skolan, {% post_link relationell-psykoterapi relationell psykoterapi %} och {% post_link internal-family-systems IFS (Internal Family Systems) %}.
+Samtal (45--50 minuter) kostar **1 200** kr. [Klicka här för att boka](https://bjorkpsykologi.kaddio.com/booking/cal/samtal)!
 
-## Mottagning i Stockholm
+Efter tre samtal har jag oftast en god förståelse för din livssituation och dina svårigheter och kan ge utförliga råd om hur du kan komma vidare. Många upplever att de fått tillräckligt med hjälp. Därför erbjuder jag ett paket om 3 samtal för **3 000** kr (ordinarie pris 3 600 kr).
 
-Jag tar emot klienter i Gamla stan (Stortorget 3). Du kan kontakta mig genom formuläret nedan eller [boka en tid direkt](https://bjorkpsykologi.kaddio.com/booking/cal).
+Om du därefter vill satsa långsiktigt på psykoterapi har jag följande paket:
 
-<!-- foton från mottagningen -->
+- Kort terapi, 6 samtal, **6 600** kr (ordinarie pris 7 200 kr).
+- Medellång terapi, 12 samtal, **13 000** kr (ordinarie pris 14 400 kr).
+- Lång terapi, 20 samtal, **20 000** kr (ordinarie pris 24 000 kr).
 
-## Digitala samtal
+Som jämförelse brukar en KBT-behandling i primärvården kring en specifik diagnos omfatta 6--12 samtal.
 
-Det finns både för- och nackdelar med digitala samtal. En fördel är att det är enkelt: du behöver inte ta dig någonstans, utan kan sitta hemma i en bekant miljö. Allt du behöver är en dator eller en telefon. En nackdel kan vara att det kan vara svårare att läsa av kroppsspråk och vad som händer i rummet, men det kompenseras till viss del att mitt arbetssätt har stort fokus på din *berättelse*.
+Jag erbjuder alltid [20 minuters kostnadsfri konsultation](/kostnadsfri-konsultation). Det kan vara bra om du är osäker på om psykologsamtal är rätt för dig.
 
-## Kontakt
+<!-- endtab -->
+<!-- tab id:online "title:Priser online" -->
 
-Varmt välkommen att kontakta mig! I meddelandet kan du skriva något kort om dig själv och vad du vill ha hjälp med.
+Vi träffas via video med systemet Kaddio.
 
-{% raw %}
-<div id="reset-all" style="all: initial">
-<iframe src="https://bjorkpsykologi.kaddio.com/iframe/contact-us" width="100%" height="700"></iframe>
-</div>
-{% endraw %}
+Samtal (45--50 minuter) kostar **900** kr. [Klicka här för att boka](https://bjorkpsykologi.kaddio.com/booking/cal/samtal-video)!
+
+Efter tre samtal har jag oftast en god förståelse för din livssituation och dina svårigheter och kan ge utförliga råd om hur du kan komma vidare. Många upplever att de fått tillräckligt med hjälp. Därför erbjuder jag ett paket om 3 samtal för **2 300** kr (ordinarie pris 2 700 kr).
+
+Om du därefter vill satsa långsiktigt på psykoterapi har jag följande paket:
+
+- Kort terapi, 6 samtal, **5 000** kr (ordinarie pris 5 400 kr).
+- Medellång terapi, 12 samtal, **9 800** kr (ordinarie pris 10 800 kr).
+- Lång terapi, 20 samtal, **15 000** kr (ordinarie pris 18 000 kr).
+
+Som jämförelse brukar en KBT-behandling i primärvården kring en specifik diagnos omfatta 6--12 samtal.
+
+Jag erbjuder alltid [20 minuters kostnadsfri konsultation](/kostnadsfri-konsultation). Det kan vara bra om du är osäker på om psykologsamtal är rätt för dig.
+
+<!-- endtab -->
+
+{% endtabs %}
