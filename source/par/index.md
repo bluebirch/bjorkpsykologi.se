@@ -22,7 +22,7 @@ Självklart välkomnar jag par i regnbågens alla färger. Jag kan också arbeta
 
 <!-- tab id:irl "title:Priser på plats" active -->
 
-Samtal för par (90 minuter) kostar **2 100** kr.
+Samtal för par (90 minuter) kostar **2 100** kr. [Klicka här för att boka](https://bjorkpsykologi.kaddio.com/booking/cal/samtal-for-par-och-familjer)!
 
 Om ni vill inleda med två gemensamma samtal och två enskilda samtal erbjuder jag detta i ett paket för **5 500** kr (ordinarie pris 6 600 kr).
 
@@ -31,7 +31,7 @@ Om ni därefter vill satsa långsiktigt på parterapi erbjuder jag 6 samtal (ca 
 <!-- endtab -->
 <!-- tab id:online "title:Priser online" -->
 
-Samtal för par via video (90 minuter) kostar **1 600** kr.
+Samtal för par via video (90 minuter) kostar **1 600** kr. [Klicka här för att boka](https://bjorkpsykologi.kaddio.com/booking/cal/samtal-for-par-och-familjer-video)!
 
 Om ni vill inleda med två gemensamma samtal och två enskilda samtal erbjuder jag detta i ett paket för **4 200** kr (ordinarie pris 5 000 kr).
 
@@ -40,3 +40,4 @@ Om ni därefter vill satsa långsiktigt på parterapi erbjuder jag 6 samtal (ca 
 <!-- endtab -->
 
 {% endtabs %}
+
