@@ -110,9 +110,11 @@ navbar:
     menu:
         # Start: /
         # Bakgrund: /bakgrund
-        Psykologsamtal: /psykologsamtal
-        Psykologutredning: /psykologutredning
-        Elevhälsa: /skola
+        # Psykologsamtal: /psykologsamtal
+        Individer: /individ
+        Par: /par
+        # Psykologutredning: /psykologutredning
+        # Elevhälsa: /skola
         #AR: /ar
         Blogg: /blogg
         #Om mig: /om
