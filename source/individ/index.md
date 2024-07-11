@@ -10,15 +10,12 @@ Min utgångspunkt är *hela människan i sitt livssammanhang*. Mänskligt lidand
 
 Jag anpassar hur jag arbetar efter dina behov men använder främst metoder från den psykodynamiska skolan, {% post_link relationell-psykoterapi relationell psykoterapi %} och {% post_link internal-family-systems Internal Family Systems (IFS) %}.
 
-{% message %}
 
 Jag erbjuder alltid 20 minuters gratis konsultation online. Det kan vara bra om du är osäker på om psykologsamtal är rätt för dig.
 
-<div align="center"><a href="https://bjorkpsykologi.kaddio.com/booking/cal/kostnadsfri-konsultation-video"><button class="button">Boka kostnadsfri konsultation</button></a></div>
 
-{% endmessage %}
 
-{% tabs style:boxed align:fullwidth class:card %}
+{% tabs style:toggle align:centered %}
 
 <!-- tab id:irl "title:Priser Stockholm" active -->
 
@@ -32,7 +29,7 @@ Min mottagning ligger i Gamla stan (Stortorget 3). Om du bokar flera samtal på 
 | Medellång terapi, 12 samtal            |         14 400 | **13 000** |
 | Lång terapi, 20 samtal                 |         24 000 | **20 000** |
 
-<div align="center"><a href="https://bjorkpsykologi.kaddio.com/booking/cal/samtal"><button class="button">Boka samtal</button></a> <a href="https://bjorkpsykologi.kaddio.com/contact-us"><button class="button">Kontakta mig</button></a>
+<div align="center"><a href="https://bjorkpsykologi.kaddio.com/booking/cal/kostnadsfri-konsultation-video"><button class="button">Boka kostnadsfri konsultation</button></a> <a href="https://bjorkpsykologi.kaddio.com/booking/cal/samtal"><button class="button">Boka samtal</button></a> <a href="https://bjorkpsykologi.kaddio.com/contact-us"><button class="button">Kontakta mig</button></a>
 </div>
 
 <!-- endtab -->
@@ -48,7 +45,7 @@ Vi träffas via video med systemet Kaddio. Om du bokar flera samtal på en gång
 | Medellång terapi, 12 samtal            |         10 800 |  **9 800** |
 | Lång terapi, 20 samtal                 |         18 000 | **15 000** |
 
-<div align="center"><a href="https://bjorkpsykologi.kaddio.com/booking/cal/samtal-video"><button class="button">Boka samtal</button></a> <a href="https://bjorkpsykologi.kaddio.com/contact-us"><button class="button">Kontakta mig</button></a>
+<div align="center"><a href="https://bjorkpsykologi.kaddio.com/booking/cal/kostnadsfri-konsultation-video"><button class="button">Boka kostnadsfri konsultation</button></a> <a href="https://bjorkpsykologi.kaddio.com/booking/cal/samtal-video"><button class="button">Boka samtal</button></a> <a href="https://bjorkpsykologi.kaddio.com/contact-us"><button class="button">Kontakta mig</button></a>
 </div>
 
 <!-- endtab -->

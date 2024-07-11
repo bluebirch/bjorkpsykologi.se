@@ -144,4 +144,5 @@ markdown:
     - markdown-it-footnote
     - markdown-it-deflist
   render:
-    quotes: '»«›‹'
+    quotes: '””’’'
+#    quotes: '»«›‹'
