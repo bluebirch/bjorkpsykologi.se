@@ -22,12 +22,6 @@ Detta är som sagt bara exempel. Jag utgår från barnets och er föräldrars be
 
 Eftersom varje fall är unikt och det här är en skräddarsydd tjänst kommer vi överens om kostnad. Utgångspunkten är en timtaxa på **650** kr.
 
-Varmt välkommen att kontakta mig för att få reda på hur jag kan hjälpa just er.
+Varmt välkommen att kontakta mig. Jag erbjuder alltid 20 minuters kostnadsfri konsultation där vi kan prata om hur jag kan hjälpa just dig.
 
-{% message "title:Kostnadsfri konsultation" color:primary %}
-
-Jag erbjuder 20 minuters kostnadsfri konsultation. Du får berätta vad det är för problem du står inför och jag ger dig råd om ur du kan gå vidare.
-
-<a href="/kostnadsfri-konsultation" class="button">Boka</a>
-
-{% endmessage %}
+<div align="center"><a href="https://bjorkpsykologi.kaddio.com/booking/cal/kostnadsfri-konsultation-video"><button class="button">Boka kostnadsfri konsultation</button></a></div>
