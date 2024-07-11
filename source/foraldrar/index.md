@@ -4,7 +4,7 @@ date: 2024-07-09 17:53:15
 cover: /bilder/wikimedia-commons-barn-pa-skolagard-i-Kattarp.jpg
 ---
 
-Som psykolog i bland annat skolan har jag många gånger mött föräldrar som kämpar med och för barn med "utmaningar", alltså barn som har svårt att anpassa sig till omgivningens krav och förväntningar i hem, skola eller andra sammanhang. Inte sällan är de frustrerade, upprörda och uppgivna över skola, socialtjänst, habilitering, BUP och andra som de uppfattar saknar har förståelse för dem och deras barn.
+Som psykolog i bland annat skolan har jag många gånger mött föräldrar som kämpar med och för barn med "utmaningar", alltså barn som har svårt att anpassa sig till omgivningens krav och förväntningar i hem, skola eller andra sammanhang. Inte sällan är föräldrarna frustrerade, upprörda och uppgivna över skola, socialtjänst, habilitering, BUP och andra som de tycker saknar förståelse för dem och deras barn.
 
 I de situationerna har jag agerat som barnets språkrör gentemot en oförstående vuxenvärld. Jag har hjälpt lärare, personal och ibland också föräldrarna själva att förstå barnet och bemöta det på ett hjälpsamt sätt.
 
