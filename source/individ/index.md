@@ -10,44 +10,46 @@ Min utgångspunkt är *hela människan i sitt livssammanhang*. Mänskligt lidand
 
 Jag anpassar hur jag arbetar efter dina behov men använder främst metoder från den psykodynamiska skolan, {% post_link relationell-psykoterapi relationell psykoterapi %} och {% post_link internal-family-systems Internal Family Systems (IFS) %}.
 
-{% tabs size:medium style:boxed %}
+{% message %}
+
+Jag erbjuder alltid 20 minuters gratis konsultation online. Det kan vara bra om du är osäker på om psykologsamtal är rätt för dig.
+
+<div align="center"><a href="https://bjorkpsykologi.kaddio.com/booking/cal/kostnadsfri-konsultation-video"><button class="button">Boka kostnadsfri konsultation</button></a></div>
+
+{% endmessage %}
+
+{% tabs style:boxed align:fullwidth class:card %}
 
 <!-- tab id:irl "title:Priser Stockholm" active -->
 
-Min mottagning ligger i Gamla stan (Stortorget 3).
+Min mottagning ligger i Gamla stan (Stortorget 3). Om du bokar flera samtal på en gång blir det lägre pris per samtal. Kontakta mig om du är intresserad av ett paket.
 
-Samtal (45--50 minuter) kostar **1 200** kr. [Klicka här för att boka](https://bjorkpsykologi.kaddio.com/booking/cal/samtal)!
+| Paket                                  | Ordinarie pris |       Pris |
+| :------------------------------------- | -------------: | ---------: |
+| Enskilt samtal (50 minuter)            |                |  **1 200** |
+| Inledande bedömning/uppstart, 3 samtal |          3 600 |  **3 000** |
+| Kort terapi, 6 samtal                  |          7 200 |  **6 600** |
+| Medellång terapi, 12 samtal            |         14 400 | **13 000** |
+| Lång terapi, 20 samtal                 |         24 000 | **20 000** |
 
-Efter tre samtal har jag oftast en god förståelse för din livssituation och dina svårigheter och kan ge utförliga råd om hur du kan komma vidare. Många upplever att de fått tillräckligt med hjälp. Därför erbjuder jag ett paket om 3 samtal för **3 000** kr (ordinarie pris 3 600 kr).
-
-Om du därefter vill satsa långsiktigt på psykoterapi har jag följande paket:
-
-- Kort terapi, 6 samtal, **6 600** kr (ordinarie pris 7 200 kr).
-- Medellång terapi, 12 samtal, **13 000** kr (ordinarie pris 14 400 kr).
-- Lång terapi, 20 samtal, **20 000** kr (ordinarie pris 24 000 kr).
-
-Som jämförelse brukar en KBT-behandling i primärvården kring en specifik diagnos omfatta 6--12 samtal.
-
-Jag erbjuder alltid [20 minuters kostnadsfri konsultation](/kostnadsfri-konsultation). Det kan vara bra om du är osäker på om psykologsamtal är rätt för dig.
+<div align="center"><a href="https://bjorkpsykologi.kaddio.com/booking/cal/samtal"><button class="button">Boka samtal</button></a> <a href="https://bjorkpsykologi.kaddio.com/contact-us"><button class="button">Kontakta mig</button></a>
+</div>
 
 <!-- endtab -->
 <!-- tab id:online "title:Priser online" -->
 
-Vi träffas via video med systemet Kaddio.
+Vi träffas via video med systemet Kaddio. Om du bokar flera samtal på en gång blir det lägre pris per samtal. Kontakta mig om du är intresserad av ett paket.
 
-Samtal (45--50 minuter) kostar **900** kr. [Klicka här för att boka](https://bjorkpsykologi.kaddio.com/booking/cal/samtal-video)!
+| Paket                                  | Ordinarie pris |       Pris |
+| :------------------------------------- | -------------: | ---------: |
+| Enskilt samtal (50 minuter)            |                |    **900** |
+| Inledande bedömning/uppstart, 3 samtal |          2 700 |  **2 300** |
+| Kort terapi, 6 samtal                  |          5 400 |  **5 000** |
+| Medellång terapi, 12 samtal            |         10 800 |  **9 800** |
+| Lång terapi, 20 samtal                 |         18 000 | **15 000** |
 
-Efter tre samtal har jag oftast en god förståelse för din livssituation och dina svårigheter och kan ge utförliga råd om hur du kan komma vidare. Många upplever att de fått tillräckligt med hjälp. Därför erbjuder jag ett paket om 3 samtal för **2 300** kr (ordinarie pris 2 700 kr).
-
-Om du därefter vill satsa långsiktigt på psykoterapi har jag följande paket:
-
-- Kort terapi, 6 samtal, **5 000** kr (ordinarie pris 5 400 kr).
-- Medellång terapi, 12 samtal, **9 800** kr (ordinarie pris 10 800 kr).
-- Lång terapi, 20 samtal, **15 000** kr (ordinarie pris 18 000 kr).
-
-Som jämförelse brukar en KBT-behandling i primärvården kring en specifik diagnos omfatta 6--12 samtal.
-
-Jag erbjuder alltid [20 minuters kostnadsfri konsultation](/kostnadsfri-konsultation). Det kan vara bra om du är osäker på om psykologsamtal är rätt för dig.
+<div align="center"><a href="https://bjorkpsykologi.kaddio.com/booking/cal/samtal-video"><button class="button">Boka samtal</button></a> <a href="https://bjorkpsykologi.kaddio.com/contact-us"><button class="button">Kontakta mig</button></a>
+</div>
 
 <!-- endtab -->
 
