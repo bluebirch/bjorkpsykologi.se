@@ -11,7 +11,7 @@ Det naturliga för människor är att växa och utvecklas. När vi inte mår bra
 
 En av de metoder jag använder är {% post_link internal-family-systems Internal Family Systems (IFS) %}, en terapeutisk metod som hjälper dig utforska och förstå olika delar av dig själv och hur de kan skapa inre konflikt. Med IFS kan vi läka de delar som bär på smärtsamma bördor. Det leder till balans mellan delarna i det "inre familjesystemet" och att du både mår och fungerar bättre.
 
-Jag är legitimerad psykolog med doktorsexamen i psykologi. Jag har arbetat med vuxna, barn, grupper och organisationer i psykiatri, arbetslivsinriktad rehabilitering och företagshälsovård. Utöver min mottagning arbetar jag som skolpsykolog.
+Jag är legitimerad psykolog med doktorsexamen i psykologi. Jag har arbetat med vuxna, barn, grupper och organisationer i psykiatri, arbetslivsinriktad rehabilitering och företagshälsovård. Vid sidan om min mottagning arbetar jag nu som skolpsykolog.
 
 <!--
 Det är alltid lika fantastiskt när jag kan bidra till att undanröja hinder inom eller mellan människor. Det är ett privilegium att få ta del av människors livsberättelser och jag känner ödmjukhet och tacksamhet när människor visar mig det förtroendet.

@@ -2,6 +2,7 @@
 title: Psykologstöd till föräldrar
 date: 2024-07-09 17:53:15
 cover: /bilder/wikimedia-commons-barn-pa-skolagard-i-Kattarp.jpg
+updated: 2024-07-12T16:12:00
 ---
 
 Som psykolog i bland annat skolan har jag många gånger mött föräldrar som kämpar med och för barn med "utmaningar", alltså barn som har svårt att anpassa sig till omgivningens krav och förväntningar i hem, skola eller andra sammanhang. Inte sällan är föräldrarna frustrerade, upprörda och uppgivna över skola, socialtjänst, habilitering, BUP och andra som de tycker saknar förståelse för dem och deras barn.
