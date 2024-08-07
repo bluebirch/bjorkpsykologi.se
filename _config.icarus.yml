@@ -114,7 +114,7 @@ navbar:
         Individer: /individ
         Par: /par
         Föräldrar: /foraldrar
-        Elevhälsa/AR: /elevhalsa-ar
+        #Elevhälsa/AR: /elevhalsa-ar
         # Psykologutredning: /psykologutredning
         # Elevhälsa: /skola
         #AR: /ar
@@ -122,16 +122,8 @@ navbar:
         #Om mig: /om
         Kontakt: /kontakt
     # Links to be shown on the right of the navigation bar
-    # links:
-    #     Facebook:
-    #         icon: fab fa-facebook
-    #         url: https://facebook.com/bjorkpsykologi
-    #     Instagram:
-    #         icon: fab fa-instagram
-    #         url: https://instagram.com/bjorkpsykologi
-    #     Telegram:
-    #         icon: fab fa-telegram
-    #         url: https://t.me/drbjork
+    links:
+        Boka kostnadsfri konsultation: https://bjorkpsykologi.kaddio.com/booking/cal/kostnadsfri-konsultation-video
 # Page footer configurations
 footer:
     # Copyright text
