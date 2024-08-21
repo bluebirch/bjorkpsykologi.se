@@ -4,9 +4,14 @@ tags:
   - IFS
 ---
 
-En utgångspunkt i Internal Family Systems (IFS) är att vi består av delpersonligheter eller *delar*. Det här ett tankesätt som är intuitivt och lätt att ta till sig. Ofta pratar vi spontant om delar när vi har motstridiga tankar eller känslor. "En del av mig litar på det du säger", kan vi säga, "men en annan del vill bara skrika rakt ut att du ljuger!" Eller "jag är glad för din skull, men den del av mig blir besviken".
+Det är ofta vi pratar om oss själva som om vi bestod av olika delar. "En del av mig vill, en annan del vågar inte", kan vi säga. Vi säger att vi har olika "sidor", starka och svaga, goda och dåliga. Vi är en person på jobbet, en annan när vi är med våra vänner, en tredje med vår familj. Ibland pratar vi om "det inre barnet" som vi alla bär med oss.
 
-Inom IFS tar man det här på fullaste allvar och betraktar de inre, motstridiga rösterna som delar med egna upplevelser och agendor. En del av oss kan till exempel bära på minnen av tidigare svek och besvikelser och ha svårt att lita på andra. En annan del av oss kan samtidigt längta efter närhet och kontakt och tycka att den första delen ställer till problem.
+I Internal Family Systems (IFS) tar man det här på fullaste allvar och betraktar de inre, motstridiga rösterna som delpersonligheter eller delar med egna upplevelser och agendor. Unikt för IFS är synsättet att delarna hänger ihop och påverkar varandra i ett komplext *inre familhesystem*. En del kan, till exempel, bära på smärtsamma minnen av tidigare svek och besvikelser. En annan del kan vara misstänksam mot andra människor för den vill inte att den första delen skall bli sårad igen. En tredje del kan tycka att de två första ställer till problem för den försöker värna en fjärde del som längtar efter närhet och kontakt. Resultatet kan bli en inre konflikt där 
+
+*** JAG HATAR ATT SKRIVA ***
+
+
+En del kan vara en professionell och kompetent jobb-del s En del av oss kan till exempel bära på minnen av tidigare svek och besvikelser och ha svårt att lita på andra. En annan del av oss kan samtidigt längta efter närhet och kontakt och tycka att den första delen ställer till problem.
 
 En viktig aspekt av IFS är att våra inre delar inte är isolerade från varandra, utan hänger ihop och påverkar varandra i ett komplext *inre familjesystem*. Vissa delar bär på smärtsamma bördor. Det kan vara känslor vi inte vill känna för att vi är rädda för dem eller tror att de är förbjudna, som ilska, skam och sorg. Bördor kan också vara minnen av upplevelser där vi blivit svikna eller sårade. Eftersom de smärtsamma bördorna uppfattas som ett hot mot systemet hålls de borta från medvetandet så att vi inte behöver påminnas om dem. De delar som bär på bördorna förpassas i exil. Inom IFS kallas den här typen av delar för *exildelar* (eg. *exiles*).
 
@@ -36,3 +41,10 @@ De delar som ställer till problem för oss är som regel delar som försöker s
 - komplexa inre system av delar
 - inre system med bördor respektive system utan bördor
 - vad är delar egentligen? finns de på riktigt?
+
+***
+
+Det är svårt att skriva om delar.
+
+
+Vi pratar om "det inre barnet". Ibland pratar vi om olika "sidor" hos oss själva
