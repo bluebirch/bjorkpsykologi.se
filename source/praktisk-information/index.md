@@ -1,5 +1,5 @@
 ---
-title: Praktisk information -- samtal i Stockholm
+title: Praktisk information inför samtal i Stockholm
 date: 2024-06-05 20:43:06
 cover: /bilder/mottagningsrum.jpg
 ---

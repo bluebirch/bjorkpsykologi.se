@@ -1,5 +1,5 @@
 ---
-title: Praktisk information -- videosamtal
+title: Praktisk information inför videosamtal
 date: 2024-08-23 15:34:23
 ---
 
