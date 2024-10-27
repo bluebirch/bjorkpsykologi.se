@@ -1,8 +1,10 @@
 ---
-title: Praktisk information
+title: Praktisk information inför samtal i Stockholm
 date: 2024-06-05 20:43:06
 cover: /bilder/mottagningsrum.jpg
 ---
+
+Du har förmodligen dirigerats till den här sidan efter att du bokat ett samtal med psykolog Stefan Björk. Här följer lite praktisk information och regler för avbokning.
 
 ## Tystnadsplikt och journalföring
 
@@ -10,7 +12,7 @@ Som legitimerad psykolog arbetar jag under Hälso- och sjukvårdslagen. Det bety
 
 ## Tidsbokning
 
-Boka tid genom att logga in med BankID på [min sida på Kaddio](https://bjorkpsykologi.kaddio.com). Du behöver logga in med BankID så att jag får rätt personuppgifter. Kom ihåg att fylla i kontaktuppgifter! Vid par- och familjesamtal behöver båda logga in med BankID.
+Boka tid genom att [logga in på Kaddio med BankID](https://bjorkpsykologi.kaddio.com). BankID behövs så att jag får rätt personuppgifter. Kom ihåg att fylla i kontaktuppgifter! Vid par- och familjesamtal behöver båda logga in med BankID.
 
 ## Hitta hit
 
@@ -23,16 +25,6 @@ Min mottagning finns på Stortorget 3 i Gamla stan. Vid första besöket kan jag
 5. Den mittersta dörren märkt bland annat *Watersheds* är min (mitt företagsnamn finns inte på dörren än).
 
 Mottagningen är tyvärr inte funktionshinderanpassad över huvud taget. Hör av dig om du har någon form av funktionshinder så löser vi det på något sätt.
-
-## Videosamtal
-
-Videosamtal sker med [Kaddio](https://bjorkpsykologi.kaddio.com). Vid besöket loggar du in på Kaddio och väntar på att jag startar videosamtalet. Det går att ha flerpartssamtal. Då måste varje person logga in i Kaddio.
-
-Kaddio fungerar bäst på dator. Snabb uppkoppling och bra ljud är viktigt. Använd helst headset eller extern mikrofon.
-
-Det går att bekanta sig med systemet på [Kaddios demoversion](https://demo.kaddio.com). På Kaddios hjälpsida finns också [tips vid tekniska problem](https://help.kaddio.com/help/videosamtal-tips-vid-tekniska-problem).
-
-Det är ditt ansvar att tekniken fungerar på din sida. Uteblivet besök på grund teknikstrul på din sida räknas som uteblivet besök.
 
 ## Ombokning och avbokning
 
