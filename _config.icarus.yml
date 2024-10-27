@@ -113,7 +113,8 @@ navbar:
         # Psykologsamtal: /psykologsamtal
         Individer: /individ
         Par: /par
-        Föräldrar: /foraldrar
+        IFS: /ifs
+        #Föräldrar: /foraldrar
         #Elevhälsa/AR: /elevhalsa-ar
         # Psykologutredning: /psykologutredning
         # Elevhälsa: /skola

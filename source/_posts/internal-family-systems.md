@@ -1,7 +1,7 @@
 ---
 title: Internal Family Systems (IFS)
 date: 2023-08-05 10:57:52
-updated: 2024-06-20T11:49:00
+updated: 2024-10-27T18:21:00
 tags:
   - IFS
   - psykoterapi
@@ -18,6 +18,12 @@ Målet med terapin är att få tillgång till det som inom IFS kallas Självet. 
 Under en terapisession med IFS är det klienten som för ett samtal med sina delar med hjälp av terapeuten. Det terapeuten gör är att hjälpa klienten aktivera Självet genom att skapa ett samtalsavstånd, att gå från, till exempel, "jag känner" till "en del av mig känner". <!-- jag behöver ett bättre exempel --> Därifrån kan man lära känna delen, vad den har för uppgift och vad den tror skulle hända om den släppte taget om sin uppgift. Som regel är det beskyddande delar man möter i början av terapin och den stor del av tiden går ut på att få delen att lita på Självet så att den kan backa tillbaka lite och lämna plats för den exildel som den skyddar. Då kan exildelen befrias genom att klienten, i Själv, lyssnar på delens berättelse tills den känner sig förstådd, accepterad och älskad -- allt det där som en gång i tiden fattades den och som var skälet till att den fick gå i exil. Därefter frågar klienten vad exildelen hade behövt och ger den det genom att, i fantasin, ge det en ny berättelse och därigenom befria den från sina bördor.
 
 IFS används för att behandla exempelvis ångest, depression, ätstörningar och posttraumatiskt stressyndrom, men används också för icke-psykiatriska problem och personlig utveckling.
+
+{% message color:info "title:IFS-samtal" %}
+
+Eftersom IFS har sitt eget inre flöde erbjuder jag [särskilda IFS-sessioner](/ifs) som är 60--75 minuter i stället för sedvanliga 45--50 minuter.
+
+	{% endmessage %}
 
 ## Referenser
 

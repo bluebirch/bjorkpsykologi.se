@@ -4,25 +4,24 @@ date: 2024-02-24 07:54:41
 cover: /bilder/timon-studler-BIk2ANMmNz4-unsplash.jpg
 ---
 
-På den här sidan har jag börjat samla och översätta lite arbetsmaterial kring IFS.
+Internal Family Systems (IFS) är en form av psykoterapi som fokuserar på klientens inre "delar", "själv" och inneboende förmåga att självläka.
 
-## Guider och arbetsblad
+En utgångspunkt är att människans psyke är ett system av olika delar eller *delpersonligheter*, till exempel den inre kritikern eller det inre barnet. Efter en separation kan till exempel en del av oss sörja relationen, medan en annan del känner lättnad och frihet.
 
-- [Latund för IFS-processen](lathund) (Earley, 2009, appendix A).
+De olika delarna samspelar och påverkar varandra i en "inre familj". En del delar bär dock på bördor -- extrema föreställningar ("jag är oälskbar"), smärtsamma minnen eller svåra känslor -- och andra delar är inriktade på att beskydda oss. Även om alla delar har goda intentioner, har de ofta fastnat i dysfunktionella roller och använder sig av förlegade strategier som kanske fungerade när vi var barn, men nu ställer till problem för oss och våra relationer.
 
-## Övningar
+Målet med terapin är att få tillgång till det som inom IFS kallas Självet. Självet är det accepterande och självobserverande medvetandetillstånd som man når med bland annat mindfulness. Självet kan läka de delar som bär på sår och hjälpa rigida beskyddande delar att finna mer flexibla roller. Målet är också att bli mer Själv-ledd i vardagen, alltså att handla i dialog med sina inre delar i stället för att låta en del ta över och köra sitt eget race.
 
-### No bad parts
+Under en terapisession med IFS är det klienten som utforskar och lär känna sin inre värld. Terapeuten hjälper framför allt klienten att vara "i Själv" och odla tillitsfulla och läkande relationer till sina delar. Som regel är det beskyddande delar man möter i början av terapin. Sedermera når man de sårbara delar som döljer sig bakom de beskyddande delarna. Det är när man lyssnar på vad de sårade delarnar har att berätta och hjälper dem bli fria från sina bördor som läkningen börjar på allvar. Det sker genom ett slag ritual som alltid är mycket vacker och känslosam.
 
-1. [Lära känna en beskyddare](no-bad-parts-01).
-2. [Kartlägg dina delar](no-bad-parts-02)
-3. ["Unblending and embodying"](no-bad-parts-03)
-4. [Meditation över dilemma](no-bad-parts-04)
-5. [Arbeta med en utmanande beskyddare](no-bad-parts-05)
-6. [Daglig IFS-meditation](no-bad-parts-06)
+IFS har sitt eget inneboende flöde och sessionerna tenderar att bli längre än sedvanliga 45--50 minuter. Därför erbjuder jag särskilda IFS-sessioner på 60--75 minuter.
 
-## Referenser
+Jag är utbildad IFS-terapeut (nivå 1). Min mottagning ligger Gamla stan (Stortorget 3). Online träffas vi via systemet Kaddio.
 
-Earley, J. (2009). *Self-therapy* (2:a utgåvan). Pattern System Books.
+| Priser                                                               |       |                                                                                                            |
+| :------------------------------------------------------------------- | ----: | :--------------------------------------------------------------------------------------------------------- |
+| Internal Family Systems (IFS), på plats i Stockholm (60--75 minuter) | 1 800 | <a href="https://bjorkpsykologi.kaddio.com/booking/cal/ifs"><button class="button">Boka</button></a>       |
+| Internal Family Systems (IFS), online(60--75 minuter)                | 1 800 | <a href="https://bjorkpsykologi.kaddio.com/booking/cal/ifs-video"><button class="button">Boka</button></a> |
 
-Schwartz, R. C. (2021). *No bad parts: Healing trauma and restoring wholeness with the internal family systems model*. Sounds True.
+<div align="center"><a href="https://bjorkpsykologi.kaddio.com/booking/cal/kostnadsfri-konsultation-video"><button class="button">Boka kostnadsfri konsultation</button></a> <a href="https://bjorkpsykologi.kaddio.com/contact-us"><button class="button">Kontakta mig</button></a>
+</div>
