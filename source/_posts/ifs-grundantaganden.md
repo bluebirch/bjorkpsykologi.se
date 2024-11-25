@@ -1,7 +1,9 @@
 ---
 title: "Introduktion till IFS: grundantaganden"
 date: 2024-10-27 18:44:25
-tags: []
+tags:
+  - IFS
+excerpt: 'Internal Family Systems (IFS) bygger på sex grundantaganen: (1) Vi består av ett obestämt antal delpersonligheter eller delar. (2) Alla har ett Själv som kan ta hand om och läka delar som bär på bördor. (3) Delar tvingas in i roller de inte vill ha till följd av trauma och anknytningsskador. (4) Alla delar har goda intentioner, det finns inga "dåliga delar". (5) Våra delar utgör ett komplext inre system. (6) Förändringar i det inre systemet får konsekvenser i det omgivande systemet, och omvänt.'
 ---
 
 Internal Family Systems (IFS) bygger på sex grundantaganden.

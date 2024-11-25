@@ -16,15 +16,7 @@ Boka tid genom att [logga in på Kaddio med BankID](https://bjorkpsykologi.kaddi
 
 ## Hitta hit
 
-Min mottagning finns på Stortorget 3 i Gamla stan. Vid första besöket kan jag möta upp vid porten till Grillska huset för det är lite av en labyrint att hitta rätt:
-
-1. Gå in genom porten på Grillska huset, ta trappan upp till höger och gå in genom dörren till trapphuset.
-2. Gå upp 2½ trappa eller ta hissen upp till 3:e våningen och gå *ner* ½ trappa.
-3. Ta halvtrappan upp till avsatsen och gå ut genom dörren. Portkoden får du direkt av mig.
-4. Gå tvärs över takterrassen, in genom dörren på andra sidan och ta trappan till vänster upp mot vinden.
-5. Den mittersta dörren märkt bland annat *Watersheds* är min (mitt företagsnamn finns inte på dörren än).
-
-Mottagningen är tyvärr inte funktionshinderanpassad över huvud taget. Hör av dig om du har någon form av funktionshinder så löser vi det på något sätt.
+Min mottagning finns på Järntorgsgatan 6 i Gamla stan. Ring på "Psykoterapi Järntorget" i porttelefonen.
 
 ## Ombokning och avbokning
 
