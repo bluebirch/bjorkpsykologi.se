@@ -21,7 +21,7 @@ Vi börjar med att du berättar om vad du vill ha hjälp med. Jag ställer fråg
 
 ## Mottagning i Stockholm
 
-Jag tar emot klienter i Gamla stan (Stortorget 3). Du kan kontakta mig genom formuläret nedan eller [boka en tid direkt](https://bjorkpsykologi.kaddio.com/booking/cal).
+Jag tar emot klienter i Gamla stan (Järntorgsgatan 6). Du kan kontakta mig genom formuläret nedan eller [boka en tid direkt](https://bjorkpsykologi.kaddio.com/booking/cal).
 
 <!-- foton från mottagningen -->
 

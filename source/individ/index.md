@@ -13,7 +13,7 @@ Jag anpassar hur jag arbetar efter dina behov men använder främst metoder frå
 
 Jag erbjuder alltid 20 minuters gratis konsultation online. Det kan vara bra om du är osäker på om psykologsamtal är rätt för dig.
 
-Min mottagning ligger Gamla stan (Stortorget 3). Online träffas vi via systemet Kaddio.
+Min mottagning ligger Gamla stan (Järntorgsgatan 6). Online träffas vi via systemet Kaddio.
 
 | Priser                                       |       |                                                                                                               |
 | :------------------------------------------- | ----: | :------------------------------------------------------------------------------------------------------------ |
