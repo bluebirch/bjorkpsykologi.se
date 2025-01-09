@@ -9,6 +9,7 @@ updated: 2023-10-02 11:05:00
 Jag har arbetat som psykolog på Arbetsförmedlingen (2017--2019), i vuxenpsykiatri (2019--2020) och inom företagshälsovård (2021). Sedan 2021 arbetar jag som skolpsykolog och 2024 startade jag min egna firma.
 
 Jag har grundutbildning i Internal Family Systems (IFS, 2024) samt doktorsexamen i psykologi (2016).
+
 ### Min berättelse
 
 När jag var barn sade min mamma att jag borde bli psykolog. Jag var så bra på att lyssna, tyckte hon. Det dröjde dock länge innan jag blev psykolog. Först vid 31 års ålder, efter en karriär inom IT-branschen, började jag läsa psykologi. Varje kurs jag läste var oerhört intressant och särskilt kurserna i gruppsykologi och existentiell psykologi lämnade djupa avtryck. Det var här mitt intresse för mellanmänskligt samspel och kontinental filosofi grundlades.

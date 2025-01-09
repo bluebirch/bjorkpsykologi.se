@@ -13,12 +13,9 @@ Jag anpassar hur jag arbetar efter dina behov men använder främst metoder frå
 
 Jag erbjuder alltid 20 minuters gratis konsultation online. Det kan vara bra om du är osäker på om psykologsamtal är rätt för dig.
 
-Min mottagning ligger Gamla stan (Järntorgsgatan 6). Online träffas vi via systemet Kaddio.
-
-| Priser                                       |       |                                                                                                               |
-| :------------------------------------------- | ----: | :------------------------------------------------------------------------------------------------------------ |
-| Samtal på plats i Stockholm (45--50 minuter) | 1 200 | <a href="https://bjorkpsykologi.kaddio.com/booking/cal/samtal"><button class="button">Boka</button></a>       |
-| Samtal online (45--50 minuter)               |   900 | <a href="https://bjorkpsykologi.kaddio.com/booking/cal/samtal-video"><button class="button">Boka</button></a> |
-
-<div align="center"><a href="https://bjorkpsykologi.kaddio.com/booking/cal/kostnadsfri-konsultation-video"><button class="button">Boka kostnadsfri konsultation</button></a> <a href="https://bjorkpsykologi.kaddio.com/contact-us"><button class="button">Kontakta mig</button></a>
+<div align="center">
+<a href="/bokning-priser"><button class="button">Priser</button></a>
+<a href="https://bjorkpsykologi.kaddio.com/booking"><button class="button">Boka</button></a>
+<a href="https://bjorkpsykologi.kaddio.com/booking/cal/kostnadsfri-konsultation-video"><button class="button">Boka kostnadsfri konsultation</button></a>
+<a href="https://bjorkpsykologi.kaddio.com/contact-us"><button class="button">Kontakta mig</button></a>
 </div>

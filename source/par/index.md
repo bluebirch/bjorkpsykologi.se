@@ -18,12 +18,9 @@ Självklart välkomnar jag par i regnbågens alla färger. Jag är också öppen
 
 Jag erbjuder alltid 20 minuters kostnadsfri konsultation online. Det kan vara bra om ni är osäkra på om parterapi är rätt för er.
 
-| Priser                                                             |       |                                                                                                                                    |
-| :----------------------------------------------------------------- | ----: | :--------------------------------------------------------------------------------------------------------------------------------- |
-| Parterapi på plats i Stockholm (90 minuter)                        | 2 100 | <a href="https://bjorkpsykologi.kaddio.com/booking/cal/samtal-for-par-och-familjer"><button class="button">Boka</button></a>       |
-| Parterapi online (90 minuter)                                      | 1 600 | <a href="https://bjorkpsykologi.kaddio.com/booking/cal/samtal-for-par-och-familjer-video"><button class="button">Boka</button></a> |
-| Uppstart på plats i Stockholm (2 parsamtal, 2 individuella samtal) | 5 500 | <a href="https://bjorkpsykologi.kaddio.com/booking/cal/samtal-for-par-och-familjer"><button class="button">Boka</button></a>       |
-| Uppstart online (2 parsamtal, 2 individuella samtal)               | 4 200 | <a href="https://bjorkpsykologi.kaddio.com/booking/cal/samtal-for-par-och-familjer-video"><button class="button">Boka</button></a> |
-
-<div align="center"><a href="https://bjorkpsykologi.kaddio.com/booking/cal/kostnadsfri-konsultation-video"><button class="button">Boka kostnadsfri konsultation</button></a> <a href="https://bjorkpsykologi.kaddio.com/contact-us"><button class="button">Kontakta mig</button></a>
+<div align="center">
+<a href="/bokning-priser"><button class="button">Priser</button></a>
+<a href="https://bjorkpsykologi.kaddio.com/booking"><button class="button">Boka</button></a>
+<a href="https://bjorkpsykologi.kaddio.com/booking/cal/kostnadsfri-konsultation-video"><button class="button">Boka kostnadsfri konsultation</button></a>
+<a href="https://bjorkpsykologi.kaddio.com/contact-us"><button class="button">Kontakta mig</button></a>
 </div>

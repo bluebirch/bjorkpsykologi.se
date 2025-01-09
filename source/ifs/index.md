@@ -18,10 +18,9 @@ IFS har sitt eget inneboende flöde och sessionerna tenderar att bli längre än
 
 Jag är utbildad IFS-terapeut (nivå 1). Min mottagning ligger Gamla stan (Järntorgsgatan 6). Online träffas vi via systemet Kaddio.
 
-| Priser                                                               |       |                                                                                                            |
-| :------------------------------------------------------------------- | ----: | :--------------------------------------------------------------------------------------------------------- |
-| Internal Family Systems (IFS), på plats i Stockholm (60--75 minuter) | 1 500 | <a href="https://bjorkpsykologi.kaddio.com/booking/cal/ifs"><button class="button">Boka</button></a>       |
-| Internal Family Systems (IFS), online (60--75 minuter)               | 1 500 | <a href="https://bjorkpsykologi.kaddio.com/booking/cal/ifs-video"><button class="button">Boka</button></a> |
-
-<div align="center"><a href="https://bjorkpsykologi.kaddio.com/booking/cal/kostnadsfri-konsultation-video"><button class="button">Boka kostnadsfri konsultation</button></a> <a href="https://bjorkpsykologi.kaddio.com/contact-us"><button class="button">Kontakta mig</button></a>
+<div align="center">
+<a href="/bokning-priser"><button class="button">Priser</button></a>
+<a href="https://bjorkpsykologi.kaddio.com/booking"><button class="button">Boka</button></a>
+<a href="https://bjorkpsykologi.kaddio.com/booking/cal/kostnadsfri-konsultation-video"><button class="button">Boka kostnadsfri konsultation</button></a>
+<a href="https://bjorkpsykologi.kaddio.com/contact-us"><button class="button">Kontakta mig</button></a>
 </div>

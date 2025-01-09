@@ -121,7 +121,7 @@ navbar:
         #AR: /ar
         Blogg: /blogg
         Om mig: /om
-        Kontakt: /kontakt
+        Bokning: /bokning-priser
     # Links to be shown on the right of the navigation bar
     links:
         Boka kostnadsfri konsultation: https://bjorkpsykologi.kaddio.com/booking/cal/kostnadsfri-konsultation-video
