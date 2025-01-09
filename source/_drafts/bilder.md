@@ -2,7 +2,7 @@
 title: Bilder
 ---
 
-![](/bilder/tim-foster-kSJMF4AKyO0-unsplash.jpg)
+![](/img/tim-foster-kSJMF4AKyO0-unsplash.jpg)
 
 {% message size:small %}
 
@@ -14,7 +14,7 @@ Photo by
 
 Photo by [Uwe Conrad](https://unsplash.com/@uconrad?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/tall-tree-iXuX_qvoesU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
-![](/bilder/ashley-batz-betmVWGYcLY-unsplash.jpg)
+![](/img/ashley-batz-betmVWGYcLY-unsplash.jpg)
 
 {% message size:small %}
 
@@ -22,7 +22,7 @@ Photo by [Uwe Conrad](https://unsplash.com/@uconrad?utm_content=creditCopyText&u
 
 {% endmessage %}
 
-![](/bilder/annie-spratt-jNkvZ8hx8QQ-unsplash.jpg)
+![](/img/annie-spratt-jNkvZ8hx8QQ-unsplash.jpg)
 
 {% message size:small %}
 

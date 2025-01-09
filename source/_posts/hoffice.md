@@ -3,7 +3,7 @@ title: Hoffice
 date: 2024-04-28 21:43:00
 tags:
   - arbete
-cover: /bilder/annie-spratt-QckxruozjRg-unsplash.jpg
+cover: /img/annie-spratt-QckxruozjRg-unsplash.jpg
 ---
 
 Ett tips till alla som arbetar mycket hemma är *hoffice*. Det är en sammanslagning av *home + office* och innebar ursprungligen att frilansare och andra distansarbetare träffades hemma hos någon och arbetade tillsammans. Grundkonceptet är att man träffas på morgonen, sätter upp mål för dagen och arbetar i pass om 45 minuter. I pauserna göra man något tillsammans -- stretching, mindfulness, dans eller lek -- och sätter upp mål för nästa 45 minuter.

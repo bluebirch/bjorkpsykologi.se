@@ -2,7 +2,7 @@
 title: Psykolog Stefan Björk
 date: 2023-04-11 09:58:00
 updated: 2025-01-09T19:46:00
-cover: /bilder/index-cover.jpg
+cover: /img/index-cover.jpg
 ---
 
 Jag är legitimerad psykolog och filosofie doktor i psykologi. Jag tar emot invidier och par i Stockholm. Jag arbetar primärt med *[Internal Family Systems](/ifs)* (IFS), en terapeutisk metod som hjälper dig utforska och förstå olika delar av dig själv och hur de kan skapa inre konflikter. Genom att lära känna och läka de delar som bär på smärtsamma bördor blir det "inre familjesystemet" mer harmoniskt och du fungerar och mår bättre.

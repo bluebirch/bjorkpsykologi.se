@@ -4,7 +4,7 @@ date: 2024-07-29 17:58:07
 tags:
   - våld i nära relation
   - relationer
-cover: /bilder/per-isdal-definition-vald.jpg
+cover: /img/per-isdal-definition-vald.jpg
 ---
 
 När vi pratar om våld i nära relation tänker vi ofta på fysiskt våld: knuffar, örfilar, slag. Men våld är så mycket mer. Den norske psykologen och psykoterapeuten Per Isdal, som var med och startade *Alternativ till vold* i Norge på 1980-talet, definierar våld som *"varje handling riktad mot en annan person, som genom denna handling skadar, smärtar, skrämmer eller kränker, får denna person att göra något mot sin vilja eller avstå från något som den vill"*.

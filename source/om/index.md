@@ -4,7 +4,7 @@ date: 2023-04-08 00:00:00
 updated: 2023-10-02 11:05:00
 ---
 
-<img src="/bilder/2024-08-08-Stefan.jpg" style="width: 50%; float: right; margin-left: 1ex">
+<img src="/img/2024-08-08-Stefan.jpg" style="width: 50%; float: right; margin-left: 1ex">
 
 Jag har arbetat som psykolog på Arbetsförmedlingen (2017--2019), i vuxenpsykiatri (2019--2020) och inom företagshälsovård (2021). Sedan 2021 arbetar jag som skolpsykolog och 2024 startade jag min egna firma.
 

@@ -5,7 +5,7 @@ tags:
   - problemskapande beteenden
   - skolan
   - TMO
-cover: /bilder/timothy-eberly-28S1UBUM7aQ-unsplash.jpg
+cover: /img/timothy-eberly-28S1UBUM7aQ-unsplash.jpg
 ---
 
 Barn som lärt sig att vuxna inte går att lita på måste hitta sätt att förhålla sig till alla vuxna de har i sin omgivning: föräldrar, lärare, tränare, ledare och andra auktoritetspersoner. Det finns fyra vanliga strategier som barn ofta använder för att skydda sig mot vuxna de inte kan lita på och bibehålla en känsla av kontroll.[^1]

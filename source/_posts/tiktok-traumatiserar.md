@@ -3,7 +3,7 @@ title: TikTok traumatiserar
 date: 2024-06-16 20:57:03
 tags:
   - trauma
-cover: /bilder/iStock-1367260745.jpg
+cover: /img/iStock-1367260745.jpg
 excerpt: "Dagens Nyheter har intervjuat barn om vad de sett på TikTok, YouTube och Instagram: dödligt våld, män som får sina halsar avskurna, lemlästade kroppar, trafikolyckor, katter och hundar som sparkas och stryps, människor som begår självmord eller pratar om att skada sig själva. Allt detta är förstås upprörande och oacceptabelt. Men det som verkligen fastnar hos mig är att de reaktioner barnen beskriver är i linje med psykiskt trauma."
 ---
 

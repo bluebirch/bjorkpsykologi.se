@@ -1,7 +1,7 @@
 ---
 title: Bokning och priser
 date: 2025-01-09 19:47:35
-cover: /bilder/mottagningsrum.jpg
+cover: /img/mottagningsrum.jpg
 ---
 
 | Tjänst                                                   | Pris  |

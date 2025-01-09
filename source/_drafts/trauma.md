@@ -3,7 +3,7 @@ title: Vad är trauma?
 tags:
   - trauma
   - IFS
-cover: /bilder/mick-haupt-kepBYG2S9dE-unsplash.jpg
+cover: /img/mick-haupt-kepBYG2S9dE-unsplash.jpg
 ---
 
 Det är svårt att prata om trauma eftersom ordet betyder olika saker i olika sammanhang. En del använder ordet trauma om svåra eller smärtsamma händelser. Det kan vara allt från sexuella övergrepp och bilolyckor till att de blivit övergivna av sina partners. Andra använder ordet trauma om människor som vuxit upp i dysfunktionella hem där det förekommit övergrepp, försummelse, missbruk eller psykisk ohälsa. Ytterligare andra tar fasta på att det grekiska ordet trauma (τραῦμα) betyder "sår" eller "skada" och att traumat därför inte är en händelse över huvud taget, utan det spår eller avtryck som finns kvar i oss efter en svår händelse.

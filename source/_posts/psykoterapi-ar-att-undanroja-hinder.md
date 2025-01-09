@@ -4,7 +4,7 @@ date: 2024-05-10 17:10:50
 tags:
   - psykoterapi
   - humanistisk psykologi
-cover: /bilder/john-mccann-dOx3W_53aOI-unsplash.jpg
+cover: /img/john-mccann-dOx3W_53aOI-unsplash.jpg
 ---
 
 Det naturliga för människor är att växa och utvecklas. Precis som ett ekollon växer upp till en ståtlig ek bara det får en chans, kommer en mänsklig individ att utvecklas och förverkliga sin unikt mänskliga potential så länge inget hindrar henne. Till det unikt mänskliga hör klarhet och djup i ens egna känslor, tankar, önskningar och intressen; tillgång till sina egna resurser och sin egen vilja; att fritt kunna uttrycka sig själv och relatera till andra; med tiden också finna mål och mening med sitt eget liv. Detta är vad Karen Horney och andra inom den humanistiska psykologin kallar för *självförverkligande*.

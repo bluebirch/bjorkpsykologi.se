@@ -3,7 +3,7 @@ title: I skolan behövs inga diagnoser
 date: 2024-06-24 09:58:04
 tags:
   - skolan
-cover: /bilder/barn-i-skola.jpg
+cover: /img/barn-i-skola.jpg
 ---
 
 Det är ett hårt tryck på mig som skolpsykolog att skriva remiss till hälso- och sjukvården med frågeställning kring NPF-diagnoser som autism och ADHD. Trycket kommer från både lärare och vårdnadshavare.
