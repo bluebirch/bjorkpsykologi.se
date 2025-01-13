@@ -123,8 +123,8 @@ navbar:
         Om mig: /om
         Bokning: /bokning-priser
     # Links to be shown on the right of the navigation bar
-    links:
-        Boka kostnadsfri konsultation: https://bjorkpsykologi.kaddio.com/booking/cal/kostnadsfri-konsultation-video
+    # links:
+    #     Boka kostnadsfri konsultation: https://bjorkpsykologi.kaddio.com/booking/cal/kostnadsfri-konsultation-video
 # Page footer configurations
 footer:
     # Copyright text
