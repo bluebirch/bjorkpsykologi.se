@@ -5,7 +5,7 @@ cover: /img/mottagningsrum.jpg
 ---
 
 | Tjänst                                                   | Pris  |
-| -------------------------------------------------------- | ----- |
+| :------------------------------------------------------- | ----: |
 | Individuellt samtal (45--50 min.)                        | 1 200 |
 | Individuellt samtal / IFS (60--75 min.)                  | 1 500 |
 | Parterapi (90 min.)                                      | 2 100 |
