@@ -11,6 +11,12 @@ Jag har erfarenhet av att arbeta med vuxna, barn, föräldrar, familjer och fram
 
 Varmt välkommen att höra av dig för att se hur jag kan hjälpa just dig.
 
+{% message color:danger %}
+
+För närvarande har jag ont om lediga tider och kan bara erbjuda strötider. Du är välkommen att höra av dig om du vill stå på min väntelista för IFS.
+
+{% endmessage %}
+
 {% message color:info "title:Kostnadsfri konsultation" %}
 
 Jag erbjuder 20 minuters kostnadsfri konsultation via video. Boka en tid så kan vi se hur jag kan hjälpa just dig.

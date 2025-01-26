@@ -16,4 +16,4 @@ Inom den somatiska medicinen betyder trauma "skada till följd av yttre fysisk p
 
 När jag nyligen förberedde en föreläsning om traumamedveten omsorg (TMO) försökte jag hitta en bra definition av trauma. Det visade sig vara svårt, inte bara på grund av sammanblandningen mellan händelse och konsekvens, utan också för att olika författare tar fasta på olika aspekter av det jag brukar kalla för "traumarelaterat fungerande". Men när inte ens Bessel van der Kolk har en entydig definition av trauma i sin storsäljare "The body keeps the score" (på svenska "Kroppen håller räkningen") börjar jag undra om det inte är så att de faktiskt vill att trauma skall vara ett lurvigt begrepp som kan betyda lite vad som helst.
 
-Jag skall återkomma till definitioner av trauma i framtida inlägg.
+Jag skall återkomma till definitioner av trauma i {% post_link hur-kan-trauma-definieras framtida inlägg %}.
