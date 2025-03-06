@@ -13,7 +13,7 @@ Varmt välkommen att höra av dig för att se hur jag kan hjälpa just dig.
 
 {% message color:danger %}
 
-För närvarande har jag ont om lediga tider och kan bara erbjuda strötider eller återbudstider med kort varsel. Hör av dig om du vill stå på min väntelista IFS och/eller återbudstider.
+För närvarande har jag ont om lediga tider och kan bara erbjuda strötider eller återbudstider med kort varsel. Hör av dig om du vill stå på min väntelista eller återbudslista.
 
 Jag hoppas kunna utöka verksamheten inom en inte alltför avlägsen framtid.
 
