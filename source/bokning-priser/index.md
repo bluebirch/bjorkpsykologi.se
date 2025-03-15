@@ -4,12 +4,22 @@ date: 2025-01-09 19:47:35
 cover: /img/mottagningsrum.jpg
 ---
 
-| Tjänst                                                   | Pris  |
-| :------------------------------------------------------- | ----: |
-| Individuellt samtal (45--50 min.)                        | 1 200 |
-| Individuellt samtal / IFS (60--75 min.)                  | 1 500 |
-| Parterapi (90 min.)                                      | 2 100 |
-| Uppstart parterapi (2 parsamtal + 2 individuella samtal) | 5 500 |
+Traditionellt är längden på behandlande samtal 45--50 minuter. Det fungerar bra för nybesök och traditionella psykologsamtal. För IFS är det oftast för kort tid. Därför erbjuder jag längre sessioner på 70 respektive 90 minuter. Om du är osäker, börja med att boka 50 minuter. Efter några samtal upptäcker vi vilken längd som fungerar bäst för just dig.
+
+| Individuella samtal         |  Pris |                                                                                                                                                                                                                                                                  Boka |
+| :-------------------------- | ----: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Standardsession (50 min)    | 1 200 |       <a href="https://bjorkpsykologi.kaddio.com/booking/cal/individ-standardsession"><button class="button">Gamla stan</button></a> <a href="https://bjorkpsykologi.kaddio.com/booking/cal/individ-standardsession-video"><button class="button">Online</button></a> |
+| Lång session (70 min)       | 1 500 | <a href="https://bjorkpsykologi.kaddio.com/booking/cal/individ-extra-lang-session"><button class="button">Gamla stan</button></a> <a href="https://bjorkpsykologi.kaddio.com/booking/cal/individ-extra-lang-session-video"><button class="button">Online</button></a> |
+| Extra lång session (90 min) | 1 800 |             <a href="https://bjorkpsykologi.kaddio.com/booking/cal/individ-lang-session"><button class="button">Gamla stan</button></a> <a href="https://bjorkpsykologi.kaddio.com/booking/cal/individ-lang-session-video"><button class="button">Online</button></a> |
+
+När jag träffar par fungerar oftast 90 minuter bäst. Det ger gott om tid att ta upp svårigheter och möjlighet för båda parter att få utrymme. Parterapi kan dock vara intensivt och ibland är en och en halv timme alltför ansträngande. Då kan det vara lämpligt att boka den kortare sessionen. Om ni är osäkra, börja med att boka 90 minuter.
+
+| Parterapi                |  Pris |                                                                                                                                                                                                                                                    Boka |
+| :----------------------- | ----: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Standardsession (90 min) | 2 100 | <a href="https://bjorkpsykologi.kaddio.com/booking/cal/par-standardsession"><button class="button">Gamla stan</button></a> <a href="https://bjorkpsykologi.kaddio.com/booking/cal/par-standardsession-video"><button class="button">Online</button></a> |
+| Kort session (60 min)    | 1 800 |       <a href="https://bjorkpsykologi.kaddio.com/booking/cal/par-kort-session"><button class="button">Gamla stan</button></a> <a href="https://bjorkpsykologi.kaddio.com/booking/cal/par-kort-session-video"><button class="button">Online</button></a> |
+
+Om du vill se alla bokningsbara tider på en gång -- till exempel om du vill kunna välja mellan olika längd på sessioner eller att träffas i Gamla stan eller online -- kan du komma till bokningssidan med knappen nedan.
 
 <div align="center">
 <a href="https://bjorkpsykologi.kaddio.com/booking"><button class="button">Gå till bokningssida</button></a>
