@@ -2,13 +2,19 @@
   "app:toggle-left-sidebar": [
     {
       "modifiers": [],
-      "key": "F3"
+      "key": "F7"
     }
   ],
   "app:toggle-right-sidebar": [
     {
       "modifiers": [],
-      "key": "F4"
+      "key": "F8"
+    }
+  ],
+  "editor:toggle-fold-properties": [
+    {
+      "modifiers": [],
+      "key": "F12"
     }
   ]
 }
