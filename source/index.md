@@ -17,6 +17,8 @@ Den 1 augusti 2025 flyttar jag till nya lokaler och utökar verksamheten. Det be
 
 {% endmessage %}
 
+
+
 {% message color:info "title:Kostnadsfri konsultation" %}
 
 Jag erbjuder 20 minuters kostnadsfri konsultation via video. Boka en tid så kan vi se hur jag kan hjälpa just dig.
@@ -24,3 +26,14 @@ Jag erbjuder 20 minuters kostnadsfri konsultation via video. Boka en tid så kan
 <div align="center"><a href="https://bjorkpsykologi.kaddio.com/booking/cal/kostnadsfri-konsultation-video"><button class="button">Boka kostnadsfri konsultation</button></a></div>
 
 {% endmessage %}
+
+<div>
+  <div style="display: inline-block; width: 50%; height: 10em; text-align: center; float: left">
+    <img src="/img/Psykologforbundet-Medlem-i-Psykologforetagarna.png" style="width: 100%; height: 100%; object-fit: contain">
+  </div>
+  <div style="display: inline-block; width: 50%; height: 10em; text-align: center; float: right">
+    <img src="/img/IFS-Institute-logo.png" style="width: 100%; height: 100%; object-fit: contain">
+  </div>
+<div>
+
+&nbsp;
