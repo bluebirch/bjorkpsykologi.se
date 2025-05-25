@@ -16,5 +16,11 @@
       "modifiers": [],
       "key": "F12"
     }
+  ],
+  "editor:toggle-source": [
+    {
+      "modifiers": [],
+      "key": "F5"
+    }
   ]
 }

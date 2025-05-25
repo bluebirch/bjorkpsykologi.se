@@ -5,17 +5,15 @@ updated: 2025-01-09T19:46:00
 cover: /img/index-cover.jpg
 ---
 
-Jag är legitimerad psykolog och filosofie doktor i psykologi. Jag tar emot invidier och par i Stockholm. Jag arbetar primärt med *[Internal Family Systems](/ifs)* (IFS), en terapeutisk metod som hjälper dig utforska och förstå olika delar av dig själv och hur de kan skapa inre konflikter. Genom att lära känna och läka de delar som bär på smärtsamma bördor blir det "inre familjesystemet" mer harmoniskt och du fungerar och mår bättre.
+Legitimerad psykolog och filosofie doktor i psykologi. Jag tar emot individer och par i Stockholm och digitalt. Jag har erfarenhet att arbeta med vuxna, barn, föräldrar, familjer och framför allt relationer av alla slag. Hos mig kan du få hjälp med exempelvis ångest, nedstämdhet, stress och annat som hindrar dig från att må bra och leva det liv du vill leva. Du kan få hjälp att navigera genom livskriser och bearbeta trauma. Du och din partner kan få hjälp att utveckla er relation.
 
-Jag har erfarenhet av att arbeta med vuxna, barn, föräldrar, familjer och framför allt *mellanmänskliga relationer*. Hos mig kan du få hjälp med exempelvis ångest, nedstämdhet, stress och annat som hindrar dig från att må bra och leva det liv du vill leva. Du kan få hjälp att navigera genom livskriser och bearbeta trauma. Du och din partner kan få hjälp med er relation. Du kan få hjälp med ditt föräldraskap.
+Min främsta arbetsmetod är  *[Internal Family Systems](/ifs)* (IFS), en terapeutisk metod som hjälper dig utforska, förstå och läka olika delar av dig själv som ofta är i konflikt med varandra (den ständiga inre kritikern, det sårade inre barnet, och så vidare). I IFS betraktas känslor och beteenden som ställer till problem som delar av oss som i grunden vill väl -- de vill skydda och hjälpa -- men de har ofta inget bättre sätt att göra det än att undvika, kritisera, klamra sig fast vid andra, stänga ner känslor, dissociera, självskada eller vad det nu kan vara. Genom att lära känna och läka de delar som bär på smärtsamma bördor kan vår "inre familj" av delar bli mer harmonisk och fungera bättre, vilket gör att *vi* blir mer harmoniska och fungerar bättre i relation till andra människor.
 
 Varmt välkommen att höra av dig för att se hur jag kan hjälpa just dig.
 
-{% message color:danger %}
+{% message color:success "title:Nu utökar jag verksamheten" %}
 
-För närvarande har jag ont om lediga tider och kan bara erbjuda strötider eller återbudstider med kort varsel. Hör av dig om du vill stå på min väntelista eller återbudslista.
-
-Jag hoppas kunna utöka verksamheten inom en inte alltför avlägsen framtid.
+Den 1 augusti 2025 flyttar jag till nya lokaler och utökar verksamheten. Det betyder att jag kommer att kunna ta emot nya klienter och också erbjuda fasta tider. {% post_link nu-utokar-jag-verksamheten Läs mer på bloggen. %}
 
 {% endmessage %}
 

@@ -6,7 +6,7 @@ tags:
 cover: /img/tadeusz-zachwieja-VKLSn4yyAv8-unsplash.jpg
 ---
 
-Från och med augusti kommer jag utöka verksamheten till minst tre dagar i veckan. Det betyder att jag kommer att kunna ta emot nya klienter och erbjuda fasta tider. Mottagningen kommer också flytta till Wallingatan på Norrmalm, några minuters promenad från Hötorget. Jag kommer också att justera priserna något.
+Från och med augusti kommer jag utöka verksamheten till minst tre dagar i veckan. Det betyder att jag kommer att kunna ta emot nya klienter och erbjuda fasta tider. Mottagningen kommer att flytta till Wallingatan på Norrmalm, några minuters promenad från Hötorget. Jag kommer också att justera priserna något.
 
 <!-- more -->
 
