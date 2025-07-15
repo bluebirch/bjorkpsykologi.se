@@ -13,7 +13,7 @@ Varmt välkommen att höra av dig för att se hur jag kan hjälpa just dig.
 
 {% message color:success "title:Nu utökar jag verksamheten" %}
 
-Den 1 augusti 2025 flyttar jag till nya lokaler och utökar verksamheten. Det betyder att jag kommer att kunna ta emot nya klienter och också erbjuda fasta tider.
+Den 1 augusti 2025 flyttar jag till nya lokaler på Norrmalm och utökar verksamheten. Det betyder att jag kommer att kunna ta emot nya klienter och också erbjuda fasta tider.
 
 <div align="center"><a href="/blogg/2025/05/nu-utokar-jag-verksamheten/"><button class="button">Läs mer på bloggen</button></a></p></div>
 
