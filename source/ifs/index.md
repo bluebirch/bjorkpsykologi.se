@@ -3,6 +3,7 @@ title: Internal Family Systems (IFS)
 date: 2024-02-24 07:54:41
 updated: 2025-03-26T12:18:00
 cover: /img/timon-studler-BIk2ANMmNz4-unsplash.jpg
+status: published
 ---
 
 Internal Family Systems (IFS) är en form av psykoterapi som fokuserar på klientens inre "delar", "själv" och inneboende förmåga att självläka.

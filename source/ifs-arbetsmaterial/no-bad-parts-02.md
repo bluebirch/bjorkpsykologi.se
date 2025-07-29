@@ -1,6 +1,7 @@
 ---
-title: 'Övning 2: Kartlägg dina delar'
+title: "Övning 2: Kartlägg dina delar"
 date: 2024-02-24 07:54:41
+status: needs translation
 ---
 
 Från Schwartz (2021), kapitel 1. Skall översättas till svenska.

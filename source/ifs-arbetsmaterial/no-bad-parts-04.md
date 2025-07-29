@@ -1,6 +1,7 @@
 ---
-title: 'Övning 4: Meditation över dilemma'
+title: "Övning 4: Meditation över dilemma"
 date: 2024-02-24 15:40:00
+status: needs translation
 ---
 
 Från Schwartz (2021), kapitel 3. Skall översättas till svenska.

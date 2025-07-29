@@ -2,6 +2,7 @@
 title: Resurser och arbetsmaterial för IFS
 date: 2025-03-26T12:19:00
 cover: /ifs-resurser/self-therapy.jpg
+status: published
 ---
 
 Det här är lite arbetsmaterial för IFS som jag använder i terapi och på retreater.
@@ -10,5 +11,4 @@ Det här är lite arbetsmaterial för IFS som jag använder i terapi och på ret
 
 ## Övningar/meditationer
 
-	
 1. [Lär känna en beskyddare (introduktion till IFS)](/ifs-resurser/ovning-01).

@@ -3,6 +3,7 @@ title: Relationell psykoterapi
 date: 2023-10-02 17:11:00
 tags:
   - psykoterapi
+status: published
 ---
 
 Relationell psykoterapi är en form av psykoterapi som utgår från att vi är våra relationer och att psykiska problem till stor del har sin grund i bristfälliga relationer. Relationen mellan terapeut och klient är viktig. Det är i en trygg terapeutisk relation man kan förstå och våga förändra sitt sätt att relatera till andra.

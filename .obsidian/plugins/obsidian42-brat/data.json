@@ -1,0 +1,26 @@
+{
+  "pluginList": [
+    "marcusolsson/obsidian-projects",
+    "Fevol/obsidian-criticmarkup"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "marcusolsson/obsidian-projects",
+      "version": "latest"
+    },
+    {
+      "repo": "Fevol/obsidian-criticmarkup",
+      "version": "latest"
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "personalAccessToken": ""
+}

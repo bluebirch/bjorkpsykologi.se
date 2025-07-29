@@ -1,4 +1,5 @@
 ---
 title: Olika sorters trötthet
-tags:
+tags: []
+status: idea
 ---

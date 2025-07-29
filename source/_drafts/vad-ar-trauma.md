@@ -3,6 +3,7 @@ title: Vad är trauma?
 tags:
   - trauma
   - dissociation
+status: early draft
 ---
 
 Det finns flera olika förståelser av "trauma". Olika personer kan mena ganska olika saker när de pratar om "trauma" och det uppstår lätt missförstånd och förvirring. Det blir inte enklare av att även vi professionella -- psykologer, psykoterapeuter, psykiatriker och så vidare -- menar olika saker när vi pratar om "trauma". I det här inlägget skall jag försöka reda ut lite av den här förvirringen och klargöra vad *jag* menar med "trauma"
@@ -13,9 +14,7 @@ Andra tar fasta på att det grekiska ordet "trauma" (τραῦμα) betyder "ska
 
 Detta får stor betydelse för hur man skall förstå trauma. De som definierar trauma som en händelse intresserar sig för vad som karaktäriserar trauma-händelser. Hit räknas till exempel våldsutsatthet, övergrepp, våldtäkt, krig, svåra olyckor och att bevittna våldsam död.
 
-
-
-Ordet "trauma" är ursprungligen ett grekiskt ord  som betyder "sår" eller "skada". Ofta pratar vi om trauma som om det vore en händelse, men traumat är inte händelsen i sig, utan det spår eller avtryck som kan finnas kvar i oss efteråt. Ett psykiskt trauma är en *inre skada*, en *bestående spricka eller splittring inuti personen till följd av svåra eller smärtsamma händelser*.
+Ordet "trauma" är ursprungligen ett grekiskt ord som betyder "sår" eller "skada". Ofta pratar vi om trauma som om det vore en händelse, men traumat är inte händelsen i sig, utan det spår eller avtryck som kan finnas kvar i oss efteråt. Ett psykiskt trauma är en *inre skada*, en *bestående spricka eller splittring inuti personen till följd av svåra eller smärtsamma händelser*.
 
 Det är inte alla svåra händelser som leder trauma. Det är när händelsen eller situationen är så överväldigande att vi står hjälplösa och maktlösa inför den som ett trauma kan uppstå. Trauma kan också vara en följd av försummelse och omsorgsbrist i barndomen, alltså sådant som borde hänt men inte hände.
 

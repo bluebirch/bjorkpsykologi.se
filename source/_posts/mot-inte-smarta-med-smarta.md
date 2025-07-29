@@ -7,6 +7,7 @@ tags:
   - skolan
   - TMO
 cover: /img/grayscale-photo-of-boy-in-collared-shirt-IXfZPpnsFXo.jpg
+status: published
 ---
 
 Svåra känslor som ensamhet, rädsla och skam är en form *själslig smärta*. Vi reagerar likadant på smärtsamma känslor som på kroppslig smärta: vi gör vad vi kan för att undvika det som gör ont.

@@ -4,6 +4,7 @@ date: 2024-06-24 09:58:04
 tags:
   - skolan
 cover: /img/barn-i-skola.jpg
+status: published
 ---
 
 Det är ett hårt tryck på mig som skolpsykolog att skriva remiss till hälso- och sjukvården med frågeställning kring NPF-diagnoser som autism och ADHD. Trycket kommer från både lärare och vårdnadshavare.

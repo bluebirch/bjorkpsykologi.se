@@ -1,3 +1,4 @@
 ---
 title: Trotssyndrom
+status: idea
 ---

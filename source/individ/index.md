@@ -3,6 +3,7 @@ title: Samtal för individer
 date: 2024-06-26 13:39:17
 updated: 2024-07-12T16:12:00
 cover: /img/orbtal-media-Esq0ovRY-Zs-unsplash.jpg
+status: published
 ---
 
 Varför skall man prata med en psykolog? Det kan finnas många anledningar. Kanske förföljs du av nedstämdhet, ångest eller stress? Kanske fungerar inte relationerna till dem som står dig närmast? Kanske upplever du att du kommit till vägs ände i en ohållbar livssituation och inte vet hur du kan komma vidare? Kanske vill du utvecklas, lära känna sig själv och bli bättre på relationer?

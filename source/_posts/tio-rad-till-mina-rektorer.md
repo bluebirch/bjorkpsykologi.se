@@ -5,6 +5,7 @@ updated: 2023-10-03 19:34:00
 tags:
   - citat
   - skolan
+status: published
 ---
 
 En bekant postade tio råd ur en bok om ledarskap i skola och universitet. Jag tillägnar råden alla rektorer jag arbetat tillsammans med som skolpsykolog.

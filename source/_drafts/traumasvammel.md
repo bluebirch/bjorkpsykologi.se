@@ -2,6 +2,7 @@
 title: Vad är trauma?
 tags:
   - trauma
+status: early draft
 ---
 
 Trauma är ursprungligen ett grekiskt ord (τραῦμα) som betyder "sår" eller "skada". Ett trauma är inte en händelse, utan den skada i själ och kropp som en svår händelse lämnar efter sig.
@@ -69,7 +70,7 @@ Men grejen är att man upptäckte att det inte bara är svåra händelser som kr
 
 Så då tänkte man väl vad som orskar trauma. Och det var riktigt hemska saker som man inte kunde processa. Sådant som vi inte hade kapacitet att hantera eller processa. Och så kan det vara. Men det är också andra situationer som ger liknande skador. Om jag lever under hot eller liknande så att det är bättre att splitta av en del för att kunna hantera tillvaron.
 
-Det är det som karaktäriserar trauma. Nämligen fragmentering och dissociation. Det var någon som skrev det. Dissociation innebär att att en del av en upplevelse hålls borta från medvetandet. 
+Det är det som karaktäriserar trauma. Nämligen fragmentering och dissociation. Det var någon som skrev det. Dissociation innebär att att en del av en upplevelse hålls borta från medvetandet.
 
 Som Janina Fischer skriver, det handlar om att den del av mig som är med om det hemska inte kan accepteras av olika anledningar. Det var "inte jag" som var med om det där hemska. Det var alldeles för överväldigande eller för hemskt eller helt enkelt bara oacceptabelt att jag var den där som blev utsatt för det som jag blev utsatt för. Nu vill jag kolla vad Janina Fischer skriver.
 
@@ -90,4 +91,3 @@ Det är för rörigt!
 Trauma betyder skada och är något som drabba en person efter svåra händelser av olika slag. Trauma är inte själva händelsen, utan det sår som finns kvar efteråt.
 
 Traumat uppstår för att händelsen är så överväldigande eller skrämmande att den inte går att hantera eller bearbeta. Det är av... fan.
-

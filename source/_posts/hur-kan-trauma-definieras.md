@@ -4,6 +4,7 @@ date: 2025-01-26 11:51:20
 tags:
   - trauma
 cover: /img/PTSD-kriterier.jpg
+status: published
 ---
 
 I ett tidigare inlägg skrev jag att {% post_link trauma-ar-ett-lurvigt-begrepp "trauma" är ett lurvigt begrepp %} som både kan syfta på en svår händelse eller den skada som kan finnas kvar i kroppen efter en svår händelse. Det är också en skillnad mellan hur ordet "trauma" används i vardagsspråket, där det kan betyda lite vad som helst, och det används av oss professionella inom hälso- och sjukvården. Hur kan "trauma" definieras så att vi vet vad vi pratar om?

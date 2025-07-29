@@ -3,6 +3,7 @@ title: Mottagningen flyttar till Norrmalm
 date: 2025-07-15 10:03:09
 tags:
   - nyheter
+status: published
 ---
 
 Mottagningen flyttar! Från och med augusti finns jag på Wallingatan 3B på Norrmalm -- men jag har smygstartat och tar emot klienter på torsdagar redan nu i juli. Det här är ett rum jag hyr på heltid och som jag kommer att kunna möblera precis som jag själv vill ha den. [Välkommen att boka en tid!](/bokning-priser).

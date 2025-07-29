@@ -3,6 +3,7 @@ title: Bokning och priser
 date: 2025-01-09 19:47:35
 updated: 2025-05-25T10:19:00
 cover: /img/mottagningsrum.jpg
+status: published
 ---
 
 Traditionellt är längden på behandlande samtal 45--50 minuter. Det fungerar bra för nybesök och traditionella psykologsamtal. För IFS är det oftast för kort tid. Därför erbjuder jag längre sessioner på 70 respektive 90 minuter. Om du är osäker, börja med att boka 50 minuter. Efter några samtal upptäcker vi vilken längd som fungerar bäst för just dig.

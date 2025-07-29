@@ -3,6 +3,7 @@ title: Psykolog Stefan Björk
 date: 2023-04-11 09:58:00
 updated: 2025-05-25T11:24:00
 cover: /img/index-cover.jpg
+status: published
 ---
 
 Legitimerad psykolog och filosofie doktor i psykologi. Jag tar emot individer och par i Stockholm och digitalt. Jag har erfarenhet att arbeta med vuxna, barn, föräldrar, familjer och framför allt relationer av alla slag. Hos mig kan du få hjälp med exempelvis ångest, nedstämdhet, stress och annat som hindrar dig från att må bra och leva det liv du vill leva. Du kan få hjälp att navigera genom livskriser och bearbeta trauma. Du och din partner kan få hjälp att utveckla er relation.
@@ -18,8 +19,6 @@ Den 1 augusti 2025 flyttar jag till nya lokaler på Norrmalm och utökar verksam
 <div align="center"><a href="/blogg/2025/05/nu-utokar-jag-verksamheten/"><button class="button">Läs mer på bloggen</button></a></p></div>
 
 {% endmessage %}
-
-
 
 {% message color:info "title:Kostnadsfri konsultation" %}
 

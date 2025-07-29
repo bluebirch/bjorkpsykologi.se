@@ -5,6 +5,7 @@ tags:
   - citat
   - psykoterapi
 cover: /img/carl-jorgensen-FBMF6cd3E7A-unsplash-cropped.jpg
+status: published
 ---
 
 > If you want to know me, then you must know my story, for my story defines who I am. And if I want to know myself, to gain insight into the meaning of my own life, then I too must come to know my own story.

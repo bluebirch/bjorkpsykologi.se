@@ -3,6 +3,7 @@ title: Språkmedvetet lyssnande
 tags:
   - psykiatri
   - språk
+status: draft
 ---
 
 "Jag har haft kontakt med psykiatrin i tio år och du är den första som förstår mig", sade patienten till mig. Jag blev förvånad eftersom jag var helt ny som psykolog i vuxenpsykiatri. När patient efter patient sade liknande saker, förstod jag att jag måste göra någonting rätt. Vad var det jag gjorde annorlunda?

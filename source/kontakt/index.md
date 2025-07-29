@@ -2,6 +2,7 @@
 title: Kontakt
 date: 2023-06-27 00:00:00
 updated: 2024-03-29 14:38:00
+status: published
 ---
 
 <i class="fa-solid fa-phone"></i> 070-622 24 37  

@@ -3,6 +3,7 @@ title: Mottagningen flyttar
 date: 2024-11-25 07:44:50
 tags:
   - nyheter
+status: published
 ---
 
 Min mottagning flyttar. Från och med fredag 29 november finns jag på Järntorgsgatan 6 i Gamla stan. Ring på "Psykoterapi Järntorget" i porttelefonen.

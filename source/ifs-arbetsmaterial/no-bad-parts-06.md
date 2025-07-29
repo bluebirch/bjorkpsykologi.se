@@ -1,6 +1,7 @@
 ---
-title: 'Övning 6: Daglig IFS-meditation'
+title: "Övning 6: Daglig IFS-meditation"
 date: 2024-02-24 15:49:00
+status: needs translation
 ---
 
 Från Schwartz (2021), kapitel 4. Skall översättas till svenska.

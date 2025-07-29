@@ -5,6 +5,7 @@ tags:
   - psykiatri
   - diagnoser
 cover: /img/DSM-5.jpg
+status: published
 ---
 
 Det är ett utbrett missförstånd att psykiatriska diagnoser är förklaringar. Att diagnosen på något sätt förklarar varför jag tänker, känner och handlar som jag gör. Det stämmer inte. En psykiatrisk diagnos är bara en *beskrivning av ett karaktäristiskt sätt att tänka, känna och handla*. Diagnosen är bara ett annat ord, en fackterm. Det är enklare att säga att Lisa "har depression" än att säga att hon är konstant nedstämd, inte kan känna glädje, inte kan sova, inte har någon ork och känner sig helt värdelös. Men det förklarar inte *varför* hon är nedstämd, orkeslös och känner sig värdelös.

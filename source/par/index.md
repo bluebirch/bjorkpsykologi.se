@@ -2,6 +2,7 @@
 title: Samtal för par
 date: 2023-11-14 14:39:29
 cover: /img/priscilla-du-preez-9vHPCKymSh0-unsplash.jpg
+status: published
 ---
 
 Det finns många anledningar att söka parterapi. Ofta är det svårigheter som gör att man söker hjälp. Det kan vara svårigheter med kommunikation, konflikter, närhet eller sex. Men parterapi är också en investering där ni kan få möjlighet att fördjupa relationen och lära er få djupare kontakt, kommunicera, möta varandras behov och samtidigt sätta gränser på ett tryggt och respektfullt sätt. Målet är att stärka närhet, tillit och friheten att säga både "ja" och "nej".

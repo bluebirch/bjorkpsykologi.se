@@ -1,6 +1,7 @@
 ---
 title: "Övning 1: Lär känna en beskyddare"
 date: 2025-03-26T12:16:00
+status: published
 ---
 
 Introduktionsövning IFS, baserad på övningen *Getting to know a protector* (Schwartz, 2021, kapitel 1).

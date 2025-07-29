@@ -22,5 +22,17 @@
       "modifiers": [],
       "key": "F5"
     }
+  ],
+  "neighbouring-files:next": [
+    {
+      "modifiers": [],
+      "key": "F4"
+    }
+  ],
+  "neighbouring-files:prev": [
+    {
+      "modifiers": [],
+      "key": "F3"
+    }
   ]
 }

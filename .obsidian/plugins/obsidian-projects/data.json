@@ -1,0 +1,191 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "source",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "groupByField": "status",
+            "includeFields": [
+              "date",
+              "tags"
+            ],
+            "columns": {
+              "idea": {
+                "weight": 0,
+                "records": [
+                  "source/_drafts/trauma-ar-ett-rorigt-begrepp.md",
+                  "source/_drafts/vad-gor-man-nar-man-inte-nar-varandra.md",
+                  "source/_drafts/trauma-som-dissociation-och-fragmentering.md",
+                  "source/_drafts/okningen-av-adhd-diagnoser-ar-orimlig.md",
+                  "source/_drafts/vilken-psykoterapi-skall-jag-valja.md",
+                  "source/_drafts/trotssyndrom.md",
+                  "source/_drafts/olika-sorters-trotthet.md",
+                  "source/_drafts/olika-slags-trotthet-och-aterhamtning.md",
+                  "source/_drafts/neuropsykiatriska-diagnoser-ar-benamningar-pa-diskrepansen-mellan-omgivingens-krav-och-individens-formaga.md",
+                  "source/_drafts/funktionsvariationer-och-funktionshinder.md",
+                  "source/_drafts/tala-for-sina-delar.md",
+                  "source/_drafts/support-empathy-truth.md",
+                  "source/_drafts/stangd-livssituation.md",
+                  "source/_drafts/skolskadade-elever.md",
+                  "source/_drafts/psykiskt-vald.md",
+                  "source/_drafts/professionens-ord-har-makt.md",
+                  "source/_drafts/problemlosning-i-skolan.md",
+                  "source/_drafts/patienten-som-blev-overtalad-att-borja-med-litium.md",
+                  "source/_drafts/passiv-aggressivitet.md",
+                  "source/_drafts/paradoxen-i-skolan.md",
+                  "source/_drafts/neuropsykiatriska-diagnoser-ar-benamningar-pa-disprepansen-mellan-omgivningens-krav-och-individens-formaga.md",
+                  "source/_drafts/krishantering-i-relationer.md",
+                  "source/_drafts/kommunikation-och-jag-budskap.md",
+                  "source/_drafts/ifs-som-humanistisk-psykoterapi.md",
+                  "source/_drafts/hur-ett-utlatande-kan-folja-med-en-arbetssokande.md",
+                  "source/_drafts/berattelser-om-patienter-far-sitt-eget-liv.md",
+                  "source/_drafts/humanistisk-psykologi.md",
+                  "source/_drafts/foraldrar-som-vill-att-deras-barn-skall-utredas.md",
+                  "source/_drafts/elever-som-overreagerar.md",
+                  "source/_drafts/elever-som-utagerar.md",
+                  "source/_drafts/diagnoshysterin.md",
+                  "source/_drafts/det-ar-svart-att-vara-ihop.md",
+                  "source/_drafts/barn-gor-ratt-om-de-kan.md",
+                  "source/_drafts/akademin-som-ett-systematiskt-satt-att-tanka-och-soka-kunskap.md"
+                ]
+              },
+              "early draft": {
+                "weight": 1,
+                "records": [
+                  "source/_drafts/vad-ar-trauma.md",
+                  "source/_drafts/traumasvammel.md",
+                  "source/_drafts/skamkompassen.md"
+                ]
+              },
+              "needs translation": {
+                "weight": 2
+              },
+              "draft": {
+                "weight": 3,
+                "records": [
+                  "source/_drafts/trauma.md",
+                  "source/_drafts/sprakmedvetet-lyssnande.md",
+                  "source/_drafts/index.md",
+                  "source/_drafts/ifs-delar.md",
+                  "source/_drafts/bilder.md",
+                  "source/_drafts/ifs-odlar-sjalvmedkansla.md",
+                  "source/ifs-arbetsmaterial/ovning-03.md",
+                  "source/ifs-arbetsmaterial/lathund.md",
+                  "source/boka/index.md",
+                  "source/_drafts/olika-delar.md",
+                  "source/_drafts/hur-definierar-man-trauma.md",
+                  "source/_drafts/agens.md"
+                ]
+              },
+              "final draft": {
+                "weight": 4
+              },
+              "finished": {
+                "weight": 5
+              },
+              "published": {
+                "weight": 6,
+                "records": [
+                  "source/_posts/tio-rad-till-mina-rektorer.md",
+                  "source/om/index.md",
+                  "source/_posts/internal-family-systems.md",
+                  "source/_posts/relationell-psykoterapi.md",
+                  "source/_posts/mot-inte-smarta-med-smarta.md",
+                  "source/_posts/uppstart.md",
+                  "source/_posts/om-du-vill-forsta-dig-sjalv.md",
+                  "source/_posts/barn-som-saknar-tillit-till-vuxna.md",
+                  "source/_posts/hoffice.md",
+                  "source/_posts/psykoterapi-ar-att-undanroja-hinder.md",
+                  "source/_posts/diagnoser-ar-beskrivningar-inte-forklaringar.md",
+                  "source/_posts/tiktok-traumatiserar.md",
+                  "source/_posts/i-skolan-behovs-inga-diagnoser.md",
+                  "source/_posts/vad-ar-vald.md",
+                  "source/_posts/mottagningen-flyttar.md",
+                  "source/_posts/trauma-ar-ett-lurvigt-begrepp.md",
+                  "source/_posts/hur-kan-trauma-definieras.md",
+                  "source/_posts/nya-bokningsbara-tider.md",
+                  "source/_posts/nu-utokar-jag-verksamheten.md",
+                  "source/_posts/mottagningen-flyttar-till-norrmalm.md",
+                  "source/ifs/index.md",
+                  "source/index.md",
+                  "source/kontakt/index.md",
+                  "source/par/index.md"
+                ]
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": [
+              {
+                "field": "path",
+                "operator": "contains",
+                "enabled": false,
+                "value": "_draft"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "date",
+                "order": "desc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "c9f7ee84-1cac-48f9-87fc-ea66252d63f6",
+          "name": "Kanban",
+          "type": "board"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "4723242a-4a0e-4a2a-9fb9-c2ced2169b10",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "720d4267-1018-4435-b110-59ead7535d78",
+      "name": "Posts and pages"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "locale": {
+      "firstDayOfWeek": "default"
+    },
+    "commands": [],
+    "linkBehavior": "open-note"
+  }
+}

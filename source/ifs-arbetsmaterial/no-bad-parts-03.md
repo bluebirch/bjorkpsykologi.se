@@ -1,6 +1,7 @@
 ---
-title: 'Övning 3: Separation och förkroppsligande'
+title: "Övning 3: Separation och förkroppsligande"
 date: 2024-02-24 15:31:00
+status: needs translation
 ---
 
 Från Schwartz (2021), kapitel 2. Skall översättas till svenska.

@@ -2,6 +2,7 @@
 title: Om mig
 date: 2023-04-08 00:00:00
 updated: 2025-05-25T13:12:00
+status: published
 ---
 
 - Har arbetat som psykolog på Arbetsförmedlingen (2017--2019), i vuxenpsykiatri (2019--2020), inom företagshälsovård (2021) och sedan 2021 som skolpsykolog.

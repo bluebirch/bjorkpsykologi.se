@@ -1,6 +1,7 @@
 ---
-title: 'Övning 5: Arbeta med en utmanande beskyddare'
+title: "Övning 5: Arbeta med en utmanande beskyddare"
 date: 2024-02-24 15:40:00
+status: needs translation
 ---
 
 Från Schwartz (2021), kapitel 3. Skall översättas till svenska.

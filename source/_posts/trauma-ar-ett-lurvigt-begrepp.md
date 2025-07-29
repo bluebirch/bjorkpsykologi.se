@@ -4,6 +4,7 @@ date: 2025-01-14 21:34:16
 tags:
   - trauma
 cover: /img/lorin-both-QFf3IzJY6lM-unsplash.jpg
+status: published
 ---
 
 Det är populärt att prata om trauma nuförtiden. Problemet är bara att trauma kan betyda lite vad som helst. Många talar om trauma som om det vore en händelse. Olyckor, naturkatastrofer, misshandel, våldtäkter, mobbing. Men också vardagliga händelser som hör livet till, som separationer, ofrivillig barnlöshet, korsbandsskador och förlorade hockeymatcher. Ingen händelse verkar vara för liten för att kunna kallas trauma.
