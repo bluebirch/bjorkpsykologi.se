@@ -3,13 +3,14 @@ title: "Introduktion till IFS: delar"
 tags:
   - IFS
 status: draft
+author: Stefan Björk
 ---
 
 Det är ofta vi pratar om oss själva som om vi bestod av olika delar. "En del av mig vill, en annan del vågar inte", kan vi säga. Ibland pratar vi om "vårt inre barn". Vi kan också säga att vi har olika "sidor", bra och dåliga. Och vi är en person på jobbet, en annan när vi är med våra vänner, en tredje med vår familj.
 
-Det här är utgångspunkten i Internal Family Systems (IFS). De motstridiga rösterna, de inre barnen och våra olika sidor betraktas som *delpersonligheter* eller *delar* med egna upplevelser och agendor.
+Det här är utgångspunkten i Internal Family Systems (IFS). De motstridiga rösterna, de inre barnen och våra olika sidor betraktas som *delar* av oss själva med egna upplevelser och agendor.
 
-Att vi består av delar är varken kontroversiellt eller nytt. Unikt för IFS är däremot att delarna hänger ihop och påverkar varandra i ett komplext *inre familjesystem*. En del kan, till exempel, bära på smärtsamma minnen av tidigare svek och besvikelser. En annan del kan vara misstänksam mot andra människor för att den inte vill att den första delen skall bli sårad igen. En tredje del kan tycka att de två första delarna är jobbiga för den värnar en fjärde del som längtar efter närhet och kontakt. Resultatet blir en inre konflikt som yttrar sig i ett ambivalent beteende (både kontaktsökande och avvisande) och självkritik ("jag är så jobbig!").
+Att vi består av delar är varken kontroversiellt eller nytt. Unikt för IFS är däremot synsättet att delarna hänger ihop och påverkar varandra i ett komplext *inre familjesystem*. En del kan, till exempel, bära på smärtsamma minnen av tidigare svek och besvikelser. En annan del kan vara misstänksam mot andra människor för att den inte vill att den första delen skall bli sårad igen. En tredje del kan tycka att de två första delarna är jobbiga för den värnar en fjärde del som längtar efter närhet och kontakt. Resultatet blir en inre konflikt som yttrar sig i ett ambivalent beteende (både kontaktsökande och avvisande) och självkritik ("jag är så jobbig!").
 
 ## Exildelar
 

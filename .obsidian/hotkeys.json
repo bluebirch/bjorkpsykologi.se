@@ -34,5 +34,14 @@
       "modifiers": [],
       "key": "F3"
     }
+  ],
+  "commentator:comment": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
   ]
 }

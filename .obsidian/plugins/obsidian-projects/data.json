@@ -21,7 +21,8 @@
             "groupByField": "status",
             "includeFields": [
               "date",
-              "tags"
+              "tags",
+              "title"
             ],
             "columns": {
               "idea": {
@@ -86,16 +87,22 @@
                   "source/ifs-arbetsmaterial/ovning-03.md",
                   "source/ifs-arbetsmaterial/lathund.md",
                   "source/boka/index.md",
-                  "source/_drafts/olika-delar.md",
                   "source/_drafts/hur-definierar-man-trauma.md",
                   "source/_drafts/agens.md"
                 ]
               },
               "final draft": {
-                "weight": 4
+                "weight": 4,
+                "records": [
+                  "source/_drafts/i-ifs-arbetar-man-med-sina-olika-delar.md"
+                ]
               },
               "finished": {
-                "weight": 5
+                "weight": 5,
+                "records": [
+                  "source/_drafts/ifs-odlar-sjalvmedkansla.md",
+                  "source/_drafts/ifs-grundantaganden.md"
+                ]
               },
               "published": {
                 "weight": 6,
@@ -134,8 +141,8 @@
               {
                 "field": "path",
                 "operator": "contains",
-                "enabled": false,
-                "value": "_draft"
+                "enabled": true,
+                "value": "_"
               }
             ]
           },
