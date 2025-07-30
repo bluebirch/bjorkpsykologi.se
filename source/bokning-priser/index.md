@@ -1,7 +1,7 @@
 ---
 title: Bokning och priser
 date: 2025-01-09 19:47:35
-updated: 2025-05-25T10:19:00
+updated: 2025-07-30T14:43:00
 cover: /img/mottagningsrum.jpg
 status: published
 ---
@@ -16,9 +16,9 @@ Nedanstående priser gäller från 1 augusti 2025.
 
 | Individuella samtal         |  Pris |                                                                                                                                                                                                                                                              Boka |
 | :-------------------------- | ----: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Standardsession (50 min)    | 1 400 |       <a href="https://bjorkpsykologi.kaddio.com/booking/cal/individ-standardsession"><button class="button">Fysiskt</button></a> <a href="https://bjorkpsykologi.kaddio.com/booking/cal/individ-standardsession-video"><button class="button">Video</button></a> |
-| Lång session (70 min)       | 1 600 |             <a href="https://bjorkpsykologi.kaddio.com/booking/cal/individ-lang-session"><button class="button">Fysiskt</button></a> <a href="https://bjorkpsykologi.kaddio.com/booking/cal/individ-lang-session-video"><button class="button">Video</button></a> |
-| Extra lång session (90 min) | 1 950 | <a href="https://bjorkpsykologi.kaddio.com/booking/cal/individ-extra-lang-session"><button class="button">Fysiskt</button></a> <a href="https://bjorkpsykologi.kaddio.com/booking/cal/individ-extra-lang-session-video"><button class="button">Video</button></a> |
+| Standardsession (50 min)    | 1 300 |       <a href="https://bjorkpsykologi.kaddio.com/booking/cal/individ-standardsession"><button class="button">Fysiskt</button></a> <a href="https://bjorkpsykologi.kaddio.com/booking/cal/individ-standardsession-video"><button class="button">Video</button></a> |
+| Lång session (70 min)       | 1 550 |             <a href="https://bjorkpsykologi.kaddio.com/booking/cal/individ-lang-session"><button class="button">Fysiskt</button></a> <a href="https://bjorkpsykologi.kaddio.com/booking/cal/individ-lang-session-video"><button class="button">Video</button></a> |
+| Extra lång session (90 min) | 1 850 | <a href="https://bjorkpsykologi.kaddio.com/booking/cal/individ-extra-lang-session"><button class="button">Fysiskt</button></a> <a href="https://bjorkpsykologi.kaddio.com/booking/cal/individ-extra-lang-session-video"><button class="button">Video</button></a> |
 
 När jag träffar par fungerar oftast 90 minuter bäst. Det ger gott om tid att ta upp svårigheter och möjlighet för båda parter att få utrymme. Parterapi kan dock vara intensivt och ibland är en och en halv timme alltför ansträngande. Då kan det vara lämpligt att boka den kortare sessionen. Om ni är osäkra, börja med att boka 90 minuter.
 
