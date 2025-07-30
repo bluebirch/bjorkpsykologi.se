@@ -94,14 +94,14 @@
               "final draft": {
                 "weight": 4,
                 "records": [
-                  "source/_drafts/i-ifs-arbetar-man-med-sina-olika-delar.md"
+                  "source/_drafts/i-ifs-arbetar-man-med-sina-olika-delar.md",
+                  "source/_drafts/ifs-grundantaganden.md"
                 ]
               },
               "finished": {
                 "weight": 5,
                 "records": [
-                  "source/_drafts/ifs-odlar-sjalvmedkansla.md",
-                  "source/_drafts/ifs-grundantaganden.md"
+                  "source/_drafts/ifs-odlar-sjalvmedkansla.md"
                 ]
               },
               "published": {

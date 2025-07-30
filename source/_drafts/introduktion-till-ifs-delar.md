@@ -8,25 +8,25 @@ author: Stefan Björk
 
 Det är ofta vi pratar om oss själva som om vi bestod av olika delar. "En del av mig vill, en annan del vågar inte", kan vi säga. Ibland pratar vi om "vårt inre barn". Vi kan också säga att vi har olika "sidor", bra och dåliga. Och vi är en person på jobbet, en annan när vi är med våra vänner, en tredje med vår familj.
 
-Det här är utgångspunkten i Internal Family Systems (IFS). De motstridiga rösterna, de inre barnen och våra olika sidor betraktas som *delar* av oss själva med egna upplevelser och agendor.
+Det här är utgångspunkten i Internal Family Systems (IFS). De motstridiga rösterna, de inre barnen och våra olika sidor betraktas som *delar* av oss själva.
 
-Att vi består av delar är varken kontroversiellt eller nytt. Unikt för IFS är däremot synsättet att delarna hänger ihop och påverkar varandra i ett komplext *inre familjesystem*. En del kan, till exempel, bära på smärtsamma minnen av tidigare svek och besvikelser. En annan del kan vara misstänksam mot andra människor för att den inte vill att den första delen skall bli sårad igen. En tredje del kan tycka att de två första delarna är jobbiga för den värnar en fjärde del som längtar efter närhet och kontakt. Resultatet blir en inre konflikt som yttrar sig i ett ambivalent beteende (både kontaktsökande och avvisande) och självkritik ("jag är så jobbig!").
+Att vi består av delar är varken kontroversiellt eller nytt. Unikt för IFS är däremot synsättet att delarna hänger ihop och påverkar varandra i ett komplext *inre familjesystem*. En del kan, till exempel, bära på smärtsamma minnen av tidigare svek och besvikelser. En annan del vill inte att den första delen skall bli sårad igen och är därför misstänksam mot andra människor. En tredje del kan tycka att de två första delarna är jobbiga för den värnar en fjärde del som längtar efter närhet och kontakt. Resultatet blir en inre konflikt som yttrar sig i ett ambivalent beteende (både kontaktsökande och avvisande) och självkritik ("jag är så jobbig!").
 
 ## Exildelar
 
-Inom IFS skiljer man mellan två huvudtyper av delar: exildelar och beskyddare. *Exildelar* är delar som bär på bördor av smärtsamma känslor, upplevelser och minnen. Som barn är det många gånger som vi tvingas gömma undan vår rädsla, till exempel för att de vuxna inte accepterar den. Ibland blir vi sårade av elaka kommentarer, kränkningar eller övergrepp. Eftersom inte omgivningen accepterar våra sårade delar, gör inte vi det heller. De smärtsamma känslorna hålls borta från medvetandet. De förpassas i exil. Syns de inte, finns de inte.
+Inom IFS skiljer man mellan två huvudtyper av delar: exildelar och beskyddare. *Exildelar* bär på bördor i form av smärtsamma känslor, minnen och extrema föreställningar (t. ex. "jag är oälskbar"). Exildelar har ofta, men långt ifrån alltid, sitt ursprung i barndomen. Ibland har vi blivit sårade av elaka kommentarer, kränkningar eller rentav övergrepp. Vi har tvingats gömma undran vår rädsla, besvikelse, ilska och andra aspekter av det som hände hände för att de vuxna inte velat eller kunnat acceptera det. Eftersom inte omgivningen accepterat våra smärtsamma upplevelser och känslor, har inte vi heller gjort det. Följden blir att det smärtsamma hålls borta från medvetandet. Förpassas i exil. Syns de inte, finns de inte.
 
-Men de sårade delarna finns kvar. Precis som alla förtryckta grupper längtar de efter att få bryta sig ur sitt fängelse och berätta sin historia. Och precis som övergivna barn längtar de efter att bli omhändertagna och älskade. De söker ständigt efter någon som kan rädda och befria dem.
+Men de sårade delarna finns kvar. Precis som alla förtryckta människor längtar de efter att få bryta sig ur sitt fängelse och berätta sin historia. Och precis som övergivna barn längtar de efter att bli omhändertagna och älskade. De söker ständigt efter någon som kan rädda och befria dem.
 
-Så länge de sårade delarna är i exil är det lugnt. Eftersom de är fast i det förflutna, påverkas de inte av det som händer här och nu. Att låta dem komma fram innebär inte bara att man blir överväldigad av smärtsamma känslor och minnen, utan också att man blir mer sårbar.
+Så länge de sårade delarna är i exil är det till synes lugnt. Eftersom de är fast i det förflutna, påverkas de inte omedelbart av det som händer här och nu. Men när de kommer fram innebär inte bara att vi blir överväldigade av smärtsamma känslor och minnen, utan också att vi blir mer sårbara.
 
-Exildelar kan ställa till verkliga problem för oss. I sin längtan efter att bli älskade, beskyddade och läka såren efter att ha blivit förskjutna, söker de sig ofta till personer som påminner om dem som ursprungligen gjorde dem illa -- ibland till den person som faktiskt gjorde dem illa. De kan vara beredda att utstå ytterligare förnedring för att få kärlek, beskydd och försoning. Ibland tror de rentav att de förtjänar det.
+Exildelar kan ställa till problem för oss. I sin längtan efter att bli älskade, beskyddade och läka såren efter att ha blivit förskjutna, söker de sig ofta till personer som påminner om dem som ursprungligen gjorde dem illa -- ibland till den person som faktiskt gjorde dem illa. De kan vara beredda att utstå ytterligare förnedring för att få kärlek, beskydd och försoning. Ibland tror de rentav att de förtjänar det.
 
 ## Beskyddare
 
-Beskyddare är delar som ser till att exildelarna stannar i exil och inte får något inflytande över oss. De är både rädda om och rädda för exildelarna. De vill inte att de skall bli ytterligare sårade, men de vill heller inte att de skall överväldiga oss med sina smärtsamma känslor och minnen, än mindre ta över och få oss att bli sårbara, klängiga och behövande.
+Beskyddare är delar som ser till att exildelarna stannar i exil och inte får något inflytande över oss. De är både rädda om och rädda för exildelarna. De vill inte att de skall fara mer illa, men de vill heller inte att de skall överväldiga oss med smärtsamma känslor och minnen. Det vill definitivt inte att vi skall bli sårbara, klängiga och behövande.
 
-*** JAG HATAR ATT SKRIVA ***
+*** JAG HATAR ATT SKRIVA *** -- fast jag gör det ju ganska bra, även om den här texten nog är ganska stulen
 
 En del kan vara en professionell och kompetent jobb-del s En del av oss kan till exempel bära på minnen av tidigare svek och besvikelser och ha svårt att lita på andra. En annan del av oss kan samtidigt längta efter närhet och kontakt och tycka att den första delen ställer till problem.
 
@@ -56,3 +56,9 @@ De delar som ställer till problem för oss är som regel delar som försöker s
 Det är svårt att skriva om delar.
 
 Vi pratar om "det inre barnet". Ibland pratar vi om olika "sidor" hos oss själva
+
+## Referenser
+
+Schwartz, R. C., & Sweezy, M. (2020). *Internal family systems therapy* (2:a utgåvan). Guilford Press.
+
+ Schwartz, R. C. (2021). *No bad parts: Healing trauma and restoring wholeness with the internal family systems model*. Sounds True.
