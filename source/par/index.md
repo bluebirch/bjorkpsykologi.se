@@ -3,6 +3,7 @@ title: Parterapi – fördjupa och utveckla relationen
 date: 2023-11-14 14:39:29
 cover: /img/priscilla-du-preez-9vHPCKymSh0-unsplash.jpg
 status: published
+updated: 2025-09-07T22:22:00
 ---
 
 Det finns många anledningar att söka parterapi. Ofta handlar det om utmaningar som kommunikationssvårigheter, konflikter, avsaknad av närhet, sexuella svårigheter eller frustration över återkommande mönster. Det kan också vara en längtan efter att tillsammans investera i och fördjupa relationen, öka tryggheten och stärka tilliten. Oavsett anledning är parrelationen som sådan en möjlighet till personlig utveckling -- en chans att växa individuellt samtidigt som ni utvecklar er relation.
