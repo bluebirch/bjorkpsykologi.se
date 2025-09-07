@@ -1,24 +1,18 @@
 ---
 title: Psykolog Stefan Björk
 date: 2023-04-11 09:58:00
-updated: 2025-05-25T11:24:00
+updated: 2025-09-07T22:41:00
 cover: /img/index-cover.jpg
 status: published
 ---
 
-Legitimerad psykolog och filosofie doktor i psykologi. Jag tar emot individer och par i Stockholm och digitalt. Jag har erfarenhet att arbeta med vuxna, barn, föräldrar, familjer och framför allt relationer av alla slag. Hos mig kan du få hjälp med exempelvis ångest, nedstämdhet, stress och annat som hindrar dig från att må bra och leva det liv du vill leva. Du kan få hjälp att navigera genom livskriser och bearbeta trauma. Du och din partner kan få hjälp att utveckla er relation.
+Legitimerad psykolog och filosofie doktor i psykologi som erbjuder samtalsterapi för individer och par i Stockholm och online. Jag har erfarenhet att arbeta med vuxna, barn, föräldrar, familjer och framför allt relationer av alla slag. Hos mig kan du få hjälp med exempelvis ångest, nedstämdhet, stress och annat som hindrar dig från att må bra och leva det liv du vill leva. Du kan få hjälp att navigera genom livskriser och bearbeta trauma. Du och din partner kan få hjälp att utveckla er relation.
 
-Min främsta arbetsmetod är [Internal Family Systems](/ifs) (IFS), en terapeutisk metod som hjälper dig utforska, förstå och läka olika delar av dig själv som ofta är i konflikt med varandra (den ständiga inre kritikern, det sårade inre barnet, och så vidare). I IFS betraktas känslor och beteenden som ställer till problem som delar av oss som i grunden vill väl -- de vill skydda och hjälpa -- men de har ofta inget bättre sätt att göra det än att undvika, kritisera, klamra sig fast vid andra, stänga ner känslor, dissociera, självskada eller vad det nu kan vara. Genom att lära känna och läka de delar som bär på smärtsamma bördor kan vår "inre familj" av delar bli mer harmonisk och fungera bättre, vilket gör att *vi* blir mer harmoniska och fungerar bättre i relation till andra människor.
+Mia främsta arbetsmetoder är *[Internal Family Systems](/ifs)* (IFS) och *Intimay from the Inside Out* (IFIO). IFS är en psykoterapeutisk metod som utgår från att vi alla har olika inre delar: den inre kritikern, det sårade barnet, den ilskna beskyddaren, och så vidare. Med IFS utforskar du dina delar och lär dig samarbeta med dem i stället för att kämpa mot dem. Målet med IFS är att läka de delar som bär på smärtsamma bördor vilket leder till att den "inre familjen" av delar blir mer harmonisk och fungerar bättre, vilket i sin tur gör att vi mår och fungerar bättre.
+
+Intimacy from the Inside Out (IFIO) är en parterapimetod baserad på IFS som hjälper par att förstå och möta sina inre delar tillsammans. Genom nyfikenhet och medkänsla lär ni er att kommunicera bortom reaktiva försvar och skapa djupare kontakt och känslomässig närhet i relationen.
 
 Varmt välkommen att höra av dig för att se hur jag kan hjälpa just dig.
-
-{% message color:success "title:Nu utökar jag verksamheten" %}
-
-Den 1 augusti 2025 flyttar jag till nya lokaler på Norrmalm och utökar verksamheten. Det betyder att jag kommer att kunna ta emot nya klienter och också erbjuda fasta tider.
-
-<div align="center"><a href="/blogg/2025/05/nu-utokar-jag-verksamheten/"><button class="button">Läs mer på bloggen</button></a></p></div>
-
-{% endmessage %}
 
 {% message color:info "title:Kostnadsfri konsultation" %}
 
