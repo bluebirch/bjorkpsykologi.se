@@ -14,7 +14,7 @@ För tillfället är jag fullbokad och kan bara erbjuda strötider. Du är välk
 
 {% endmessage %}
 
-Mina främsta arbetsmetoder är *[Internal Family Systems](/ifs)* (IFS) och *Intimay from the Inside Out* (IFIO). IFS är en psykoterapeutisk metod som utgår från att vi alla har olika inre delar: den inre kritikern, det sårade barnet, den ilskna beskyddaren, och så vidare. Med IFS utforskar du dina delar och lär dig samarbeta med dem i stället för att kämpa mot dem. Målet med IFS är att läka de delar som bär på smärtsamma bördor vilket leder till att den "inre familjen" av delar blir mer harmonisk och fungerar bättre, vilket i sin tur gör att vi mår och fungerar bättre.
+Mina främsta arbetsmetoder är *[Internal Family Systems](/ifs)* (IFS) och *Intimacy from the Inside Out* (IFIO). IFS är en psykoterapeutisk metod som utgår från att vi alla har olika inre delar: den inre kritikern, det sårade barnet, den ilskna beskyddaren, och så vidare. Med IFS utforskar du dina delar och lär dig samarbeta med dem i stället för att kämpa mot dem. Målet med IFS är att läka de delar som bär på smärtsamma bördor vilket leder till att den "inre familjen" av delar blir mer harmonisk och fungerar bättre, vilket i sin tur gör att vi mår och fungerar bättre.
 
 Intimacy from the Inside Out (IFIO) är en parterapimetod baserad på IFS som hjälper par att förstå och möta sina inre delar tillsammans. Genom nyfikenhet och medkänsla lär ni er att kommunicera bortom reaktiva försvar och skapa djupare kontakt och känslomässig närhet i relationen.
 
