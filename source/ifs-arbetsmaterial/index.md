@@ -1,7 +1,7 @@
 ---
 title: Resurser och arbetsmaterial för IFS
 date: 2025-03-26T12:19:00
-cover: /ifs-resurser/self-therapy.jpg
+cover: /ifs-arbetsmaterial/self-therapy.jpg
 status: published
 ---
 
