@@ -1,26 +1,30 @@
 ---
 title: "Övning 1: Lära känna en beskyddare"
-date: 2024-02-24 07:54:41
+date: 2025-11-14T18:49:00
 status: needs translation
 ---
 
-Från Schwartz (2021), kapitel 1. Skall översättas till svenska.
+En inledande och introducerande meditation till IFS. Baserad på den första övningen i *No bad parts* (2021, kapitel 1).
 
-> **Exercise: Getting to Know a Protector**
+> Ta en stund och justera din ställning så att du sitter bekvämt. Lägg märke till att du andas. Följ några andetag hela vägen in, hela vägen ut.
 >
-> Take a second and get comfortable. Set up like you would if you were going to meditate. If it helps you to take deep breaths, then do that.
+> Skanna din kropp och din inre värld. Lägg märke till om det är några tankar, känslor, kroppsförnimmelser eller impulser som sticker ut. Såhär långt är det inte helt olikt mindfulness där du bara lägger märke till vad som finns där och separerar en aning från det.
 >
-> Now I invite you to do a scan of your body and your mind, noting in particular any thoughts, emotions, sensations, or impulses that stand out. So far, it's not unlike mindfulness practice, where you're just noticing what's there and separating from it a little bit.
+> Lägg märke om det är någon av de här känslorna, tankarna, kroppsförnimmelserna eller impulserna som verkar vilja ha din uppmärksamhet. Om det är så, fokusera på den en stund och se om du kan få en uppfattning om var i eller omkring din kropp som den verkar befinna sig.
 >
-> As you do that, see if one of those emotions, thoughts, sensations, or impulses is calling to you—seems to want your attention. If so, then try to focus on it exclusively for a minute and see if you can notice where it seems to be located in your body or around your body.
+> Lägg märke till vad du känner för den. Tycker du illa om den? Stör du dig på den? Är du rädd för den? Vill du bli av med den? Är du beroende av den?
 >
-> As you notice it, notice how you feel toward it. By that I mean, do you dislike it? Does it annoy you? Are you afraid of it? Do you want to get rid of it? Do you depend on it? So we're just noticing that you have a relationship with this thought, emotion, sensation, or impulse. If you feel anything besides a kind of openness or curiosity toward it, then ask the parts of you that might not like it or are afraid of it or have any other extreme feeling about it to just relax inside and give you a little space to get to know it without an attitude.
+> Lägg märke till att du har en relation till den här tanken, känslan, kroppsförnimmelsen eller impulsen.
 >
-> If you can't get to that curious place, that's okay. You could spend the time talking to the parts of you that don't want to relax about their fears about letting you actually interact with the target emotion, thought, sensation, or impulse.
+> Om du känner något annat än öppenhet och nyfikenhet för den här delen, be de delar som kanske inte tycker om den, är rädda för den eller har någon annan stark uppfattning om den att slappna av lite och lämna plats så att du kan lära känna den förutsättningslöst.
 >
-> But if you can get into that mindfully curious place relative to the target, then it is safe to begin to interact with it. That might feel a bit odd to you at this point, but just give it a try. And by that, I mean as you focus on this emotion or impulse or thought or sensation and you notice it in this place in your body, ask it if there's something it wants you to know and then wait for an answer. Don't think of the answer, so any thinking parts can relax too. Just wait silently with your focus on that place in your body until an answer comes and if nothing comes, that's okay too.If you get an answer, then as a follow-up you can ask what it's afraid would happen if it didn't do this inside of you. What's it afraid would happen if it didn't do what it does? And if it answers that question, then you probably learned something about how it's trying to protect you. If that's true, then see if it's possible to extend some appreciation to it for at least trying to keep you safe and see how it reacts to your appreciation. Then ask this part of you what it needs from you in the future.
+> Det är okej om du inte hittar den där nyfikenheten. Du kan ta tillfället i akt att lära känna de delar av dig som inte vill att du skall relatera till den här känslan, tanken, kroppsförnimmelsen eller impulsen.
 >
-> When the time feels right, shift your focus back to the outside world and notice more of your surroundings, but also thank your parts for whatever they allowed you to do and let them know that this isn't their last chance to have a conversation with you, because you plan to get to know them even more.
+> Men om du hittar den där nyfikenheten gentemot den här delen av dig, då finns en möjlighet att relatera till den. Det kan kännas lite konstigt såhär i början, men gör ett försök. Så, när du fokuserar på den här känslan eller impulsen eller tanken eller kroppsförnimmelsen på där den visar sig i din kropp eller i din inre värld, fråga den om det är någonting den vill att du skall veta och vänta på ett svar. Försökt inte tänka ut ett svar, bara vänta i tystnad samtidigt som du fokuserar på den plats i eller omkring din kropp där delen manifesterar sig. Det är helt okej om det inte kommer något svar. Om du får ett svar, kan du fråga den vad den är rädd skulle hända om den inte gör det den gör inuti dig, om den inte visade sig på det sätt den gör med den tanke, känsla, impuls eller kroppsförnimmelse som den kommer med. Vad fruktar den skulle hända om den inte gjorde det den gör för dig?
+>
+> Om du får ett svar, har du lärt dig någonting om den här delen och hur den försöker skydda dig. Om så är fallet, se om du kan visa den tacksamhet för att den åtminstone försöker skydda dig. Hur reagerar den på din tacksamhet? Fråga sedan vad den här delen behöver av dig i framtiden.
+>
+> När allt känns fullbordat, kom tillbaka till här och nu och rikta din uppmärksamhet mot världen runtomkring dig. Men tacka först dina delar för vad de lät dig få veta om dem. Låt dem få veta att det är inte är sista chansen att få möta dig utan att du har för avsikt att lära känna dem bättre.
 
 ## Referenser
 
