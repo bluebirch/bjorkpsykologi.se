@@ -3,7 +3,7 @@ title: GDPR-policy
 date: 2025-10-14 15:21:47
 ---
 
-Björk psykologi värnar om din personliga integritet och följer Dataskyddsförordningen (GDPR), Hälso- och sjukvårdslagen (2017:30, HSL) samt Patientdatalagen (2008:355, PDL).
+Björk psykologi / Mod, hopp och kärlek AB värnar om din personliga integritet och följer Dataskyddsförordningen (GDPR), Hälso- och sjukvårdslagen (2017:30, HSL) samt Patientdatalagen (2008:355, PDL).
 
 ## Personuppgifter vi samlar in
 

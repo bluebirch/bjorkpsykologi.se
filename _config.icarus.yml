@@ -128,7 +128,7 @@ navbar:
 # Page footer configurations
 footer:
     # Copyright text
-    copyright: Org. nr. 559549-7917 · 070-622 24 37 · <a href="mailto:stefan@bjorkpsykologi.se">stefan@bjorkpsykologi.se</a>
+    copyright: Org. nr. 559549-7917 · 070-622 24 37 · <a href="mailto:stefan@bjorkpsykologi.se">stefan@bjorkpsykologi.se</a> · <a href="/gdpr">GDPR</a>
     # Links to be shown on the right of the footer section
     links:
         Facebook:
