@@ -8,12 +8,6 @@ status: published
 
 Traditionellt är längden på behandlande samtal 45--50 minuter. Det fungerar bra för nybesök och traditionella psykologsamtal. För IFS är det oftast för kort tid. Därför erbjuder jag längre sessioner på 70 respektive 90 minuter. Om du är osäker, börja med att boka 50 minuter. Efter några samtal upptäcker vi vilken längd som fungerar bäst för just dig.
 
-{% message color:info %}
-
-Nedanstående priser gäller från 1 augusti 2025.
-
-{% endmessage %}
-
 | Individuella samtal         |  Pris |                                                                                                                                                                                                                                                              Boka |
 | :-------------------------- | ----: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Standardsession (50 min)    | 1 300 |       <a href="https://bjorkpsykologi.kaddio.com/booking/cal/individ-standardsession"><button class="button">Fysiskt</button></a> <a href="https://bjorkpsykologi.kaddio.com/booking/cal/individ-standardsession-video"><button class="button">Video</button></a> |
@@ -29,11 +23,15 @@ När jag träffar par fungerar oftast 90 minuter bäst. Det ger gott om tid att 
 
 Om du vill se alla bokningsbara tider på en gång -- till exempel om du vill kunna välja mellan olika längd på sessioner eller att träffas på Mottagningen eller online -- kan du komma till bokningssidan med knappen nedan.
 
+{% message color:info %}
+
 <div align="center">
 <a href="https://bjorkpsykologi.kaddio.com/booking"><button class="button">Gå till bokningssida</button></a>
 <a href="https://bjorkpsykologi.kaddio.com/booking/cal/kostnadsfri-konsultation-video"><button class="button">Boka kostnadsfri konsultation</button></a>
 <a href="https://bjorkpsykologi.kaddio.com/contact-us"><button class="button">Kontakta mig</button></a>
 </div>
+
+{% endmessage %}
 
 ## Hitta hit
 
@@ -43,14 +41,14 @@ Mottagningen ligger på Wallingatan 3B på Norrmalm. Portkod finns i bokningsbek
 
 ## Videosamtal
 
-Videosamtal sker med [Kaddio](https://bjorkpsykologi.kaddio.com) eller [Signal](https://signal.org). Signal är överlägset Kaddio när det gäller bild- och ljudkvalitet.
+Videosamtal sker med [Kaddio](https://bjorkpsykologi.kaddio.com) eller [Signal](https://signal.org).
 
 - **Kaddio:** Vid besöket loggar du in på Kaddio och väntar på att jag startar videosamtalet. Kaddio fungerar bäst på dator. Snabb uppkoppling och bra ljud är viktigt. På Kaddios hjälpsida finns [tips vid tekniska problem](https://help.kaddio.com/help/videosamtal-tips-vid-tekniska-problem).
 - **Signal:** Vid besöket ringer jag upp dig på Signal. Det fungerar bäst med desktop-appen. Snabb uppkoppling och bra ljud är viktigt. Innan vi använder Signal första gången vill jag att vi träffats minst en gång på mottagningen eller via Kaddio (där du loggar in med BankID).
 
 ## Avbokningspolicy
 
-Avbokning gör du enklast själv i bokningssystemet [Kaddio](https://bjorkpsykologi.kaddio.com), men avbokning per mejl, SMS eller telefon går också bra. Avbokning senare än 24 timmar innan bokad tid debiteras till fullt pris. Uteblivet (ej avbokat) besök debiteras med till fullt pris.
+Avbokning gör du enklast själv i bokningssystemet [Kaddio](https://bjorkpsykologi.kaddio.com), men avbokning per mejl, SMS eller telefon går också bra. Avbokning senare än 24 timmar innan bokad tid räknas som uteblivet besök. Uteblivet (ej avbokat) besök debiteras till fullt pris.
 
 ## Betalning
 

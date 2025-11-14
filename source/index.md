@@ -2,7 +2,7 @@
 title: Psykolog Stefan Björk
 date: 2023-04-11 09:58:00
 updated: 2025-11-08T09:14:00
-cover: /img/index-cover.jpg
+cover: /img/Stefan-2024-08-widescreen.jpg
 status: published
 ---
 

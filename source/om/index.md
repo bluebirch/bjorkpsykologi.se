@@ -1,25 +1,24 @@
 ---
 title: Om Stefan Björk
 date: 2023-04-08 00:00:00
-updated: 2025-09-07T22:21:00
+updated: 2025-11-14T17:02:00
+cover: /img/Stefan-2025-09-widescreen.jpg
 status: published
 ---
 
 Jag är legitimerad psykolog med doktorsexamen från Umeå universitet. Jag har en bred erfarenhet inom vuxenpsykiatri, arbetslivsinriktad rehabilitering och skolpsykologi. Sedan 2021 arbetar jag som skolpsykolog. Parallellt driver jag en privat mottagning med fokus på individuell terapi och parterapi. Mina huvudsakliga arbetsmetoder är Internal Family Systems (IFS) och Intimacy from the Inside Out (IFIO).
 
-## Min resa till psykologyrket
-
-<img src="/img/2024-08-08-Stefan.jpg" style="width: 50%; float: right; margin-left: 1ex">
+## Min väg till psykologyrket
 
 När jag var barn sade min mamma att jag borde bli psykolog. Jag var så bra på att lyssna, tyckte hon. Det dröjde dock länge innan jag blev psykolog. Först vid 31 års ålder, efter en karriär inom IT-branschen, började jag läsa psykologi. Under utbildningen var det framför allt kurserna i gruppsykologi och existentiell psykologi lämnade som lämnade avtryck. Det var här mitt intresse för mellanmänskligt samspel och kontinental filosofi grundlades.
 
 Efter grundutbildningen blev jag kvar i akademin och undervisade blivande psykologer i forskningsmetod och vetenskapsteori. Jag blev sedermera antagen som doktorand och skrev en avhandling som handlade om blivande pappors möte med mödrahälsovården. Under doktorandtiden fördjupade jag min förståelse av människor som i grunden sociala, kulturella och berättande varelser.
 
-## Min professionella erfarenhet
+## Min erfarenhet som psykolog
 
 Jag har arbetat som psykolog på Arbetsförmedlingen, inom vuxenpsykiatrin och inom företagshälsovård. Sedan 2021 arbetar jag som skolpsykolog. En av mina viktigaste uppgifter som skolpsykolog är att hjälpa vuxna att förstå och samarbeta kring elever med svårigheter av olika slag. Ofta yttrar sig svårigheterna i så kallat "problemskapande beteende".
 
-## Min privata mottagning och metod
+## Min mottagning och hur jag arbetar
 
 Utöver mitt arbete i skolan bedriver jag privat praktik där jag möter vuxna individer och par. Jag är utbildad i Internal Family Systems (IFS) nivå 1 och kommer våren 2025 att genomföra vidareutbildning i IFS nivå 2 samt Intimacy from the Inside Out (IFIO).
 
