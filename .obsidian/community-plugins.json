@@ -2,12 +2,12 @@
   "obsidian-linter",
   "obsidian-git",
   "obsidian-shellcommands",
-  "obsidian-minimal-settings",
   "obsidian-editor-shortcuts",
   "tag-wrangler",
   "obsidian42-brat",
   "multi-properties",
   "obsidian-projects",
   "neighbouring-files",
-  "commentator"
+  "commentator",
+  "obsidian-style-settings"
 ]

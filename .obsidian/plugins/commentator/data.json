@@ -1,6 +1,6 @@
 {
   "version": "0.2.3",
-  "default_edit_mode": 1,
+  "default_edit_mode": 0,
   "default_preview_mode": 0,
   "comment_style": "icon",
   "editor_styling": false,
