@@ -81,14 +81,15 @@
                   "source/_drafts/trauma.md",
                   "source/_drafts/sprakmedvetet-lyssnande.md",
                   "source/_drafts/index.md",
-                  "source/_drafts/ifs-delar.md",
                   "source/_drafts/bilder.md",
                   "source/_drafts/ifs-odlar-sjalvmedkansla.md",
                   "source/ifs-arbetsmaterial/ovning-03.md",
                   "source/ifs-arbetsmaterial/lathund.md",
                   "source/boka/index.md",
                   "source/_drafts/hur-definierar-man-trauma.md",
-                  "source/_drafts/agens.md"
+                  "source/_drafts/agens.md",
+                  "source/_drafts/varning-for-ifs.md",
+                  "source/_drafts/introduktion-till-ifs-delar.md"
                 ]
               },
               "final draft": {
@@ -132,6 +133,9 @@
                   "source/kontakt/index.md",
                   "source/par/index.md"
                 ]
+              },
+              "No status": {
+                "records": []
               }
             }
           },
