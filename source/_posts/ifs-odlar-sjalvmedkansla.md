@@ -1,11 +1,12 @@
 ---
 title: IFS odlar självmedkänsla
+date: 2025-11-22 14:57:52
 tags:
   - IFS
   - psykoterapi
   - självmedkänsla
-cover: /img/yerlin-matu-GtwiBmtJvaU-unsplash.jpg
-status: finished
+cover: /img/dreamstime_m_216958436_cropped.jpg
+status: published
 ---
 
 Vi har alla sidor eller delar av oss själva som vi inte tycker om. Den där lata, overksamma delen av oss som bara vill ligga i soffan, se på TV-serier och chilla. Det där lilla känsliga barnet inom oss som blir så patetiskt ledset över småsaker. Eller den där ständiga kritiska rösten som gör att vi känner oss värdelösa.
@@ -20,10 +21,16 @@ När vi lär känna de jobbiga delarna av oss, finner vi att de i grund och bott
 
 Att möta sina delar med medkänsla är inte alltid lätt. Eftersom det är olika delar av oss som inte tycker om varandra, behöver man oftast arbeta med flera delar innan man får medkänsla för dem alla.
 
-Men väl där kan vi möta oss själva med förståelse och acceptans. Om vi kan ha förståelse för delen som bara vill ligga i soffan kanske vi kan välja att ge oss en stund välbehövd vila utan att den delen helt tar över. Om vi kan ha medkänsla med det sårade barnet kanske vi kan skilja dess smärta från den situation som här och nu väckte den, hålla om barnet inom oss och samtidigt agera vuxet.
+Men så småningom kan vi möta oss själva med förståelse och acceptans. Om vi kan ha förståelse för delen som bara vill ligga i soffan kanske vi kan välja att ge oss en stund välbehövlig vila utan att den delen helt tar över. Om vi kan ha medkänsla med det sårade barnet kanske vi kan skilja dess smärta från den situation som här och nu väckte den, hålla om barnet inom oss och samtidigt agera vuxet.
 
-Självmedkänsla är det första steget i IFS-terapi. Det är ett paradigmskifte från att försöka kontrollera och bli av med jobbiga delar av oss själva till att förstå, acceptera och älska dem. Även om det kan ta lång tid att läka delar som bär på bördor och ge delar med besvärliga skyddsstrategier nya uppgifter, kan självmedkänsla göra stor skillnad för hur man mår och fungerar redan tidigt i terapin.  
+Självmedkänsla är det första steget i IFS-terapi. Det är ett paradigmskifte från att försöka kontrollera och bli av med jobbiga delar av oss själva till att förstå, acceptera och älska dem. Även om det kan ta lång tid att läka delar som bär på bördor och ge delar med besvärliga skyddsstrategier nya uppgifter, gör självmedkänsla stor skillnad för hur man mår och fungerar redan tidigt i terapin.  
 
 ## Referenser
 
 Schwartz, R. C. (2013). Moving from acceptance toward transformation with internal Family Systems Therapy (IFS). *Journal of Clinical Psychology, 69*(8), 805--816. <https://doi.org/10.1002/jclp.22016>
+
+<div>
+<small>
+Omslagsfoto: <a href="https://www.dreamstime.com/little-caucasian-boy-kid-wearing-casual-clothes-hugging-oneself-happy-positive-smiling-confident-little-caucasian-boy-kid-image216958436" rel="noopener" target="_blank">216958436</a> @ <a href="https://www.dreamstime.com/aaron595_info" rel="noopener" target="_blank">Aaron595</a> | <a href="https://www.dreamstime.com/" rel="noopener" target="_blank">Dreamstime.com</a>
+</small>
+</div>

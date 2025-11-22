@@ -101,9 +101,7 @@
               },
               "finished": {
                 "weight": 5,
-                "records": [
-                  "source/_drafts/ifs-odlar-sjalvmedkansla.md"
-                ]
+                "records": []
               },
               "published": {
                 "weight": 6,
@@ -131,7 +129,8 @@
                   "source/ifs/index.md",
                   "source/index.md",
                   "source/kontakt/index.md",
-                  "source/par/index.md"
+                  "source/par/index.md",
+                  "source/_posts/ifs-odlar-sjalvmedkansla.md"
                 ]
               },
               "No status": {
