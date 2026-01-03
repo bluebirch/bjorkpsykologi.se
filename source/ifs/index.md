@@ -18,8 +18,6 @@ Under en terapisession med IFS är det klienten som utforskar och lär känna si
 
 IFS har sitt eget inneboende flöde och sessionerna tenderar att bli längre än sedvanliga 45 minuter. Därför erbjuder jag längre sessioner på 70 respektive 90 minuter.
 
-Jag är utbildad IFS-terapeut (nivå 1). Min mottagning ligger Gamla stan (Järntorgsgatan 6). Online träffas vi via systemet Kaddio.
-
 {% message color:info %}
 
 <div align="center">
