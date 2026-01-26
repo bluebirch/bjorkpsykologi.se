@@ -1,7 +1,7 @@
 ---
 title: Psykolog Stefan Björk
 date: 2023-04-11 09:58:00
-updated: 2025-11-08T09:14:00
+updated: 2026-01-26T20:46:00
 cover: /img/Stefan-2024-08-widescreen.jpg
 status: published
 ---
@@ -13,12 +13,6 @@ Mina främsta arbetsmetoder är *[Internal Family Systems](/ifs)* (IFS) och *Int
 Intimacy from the Inside Out (IFIO) är en parterapimetod baserad på IFS som hjälper par att förstå och möta sina inre delar tillsammans. Genom nyfikenhet och medkänsla lär ni er att kommunicera bortom reaktiva försvar och skapa djupare kontakt och känslomässig närhet i relationen.
 
 Varmt välkommen att höra av dig för att se hur jag kan hjälpa just dig.
-
-{% message color:danger %}
-
-Just nu är jag fullbokad och det finns bara strötider att boka. Det finns också möjlighet att stå på min avbokningslista. Hör av dig i så fall.
-
-{% endmessage %}
 
 {% message color:info "title:Kostnadsfri konsultation" %}
 

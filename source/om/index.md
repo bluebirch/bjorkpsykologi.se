@@ -1,7 +1,7 @@
 ---
 title: Om Stefan Björk
 date: 2023-04-08 00:00:00
-updated: 2025-11-14T17:02:00
+updated: 2026-01-17T13:05:00
 cover: /img/Stefan-2025-09-widescreen.jpg
 status: published
 ---
@@ -20,7 +20,7 @@ Jag har arbetat som psykolog på Arbetsförmedlingen, inom vuxenpsykiatrin och i
 
 ## Min mottagning och hur jag arbetar
 
-Utöver mitt arbete i skolan bedriver jag privat praktik där jag möter vuxna individer och par. Jag är utbildad i Internal Family Systems (IFS) nivå 1 och kommer våren 2025 att genomföra vidareutbildning i IFS nivå 2 samt Intimacy from the Inside Out (IFIO).
+Utöver mitt arbete i skolan bedriver jag privat praktik där jag möter vuxna individer och par. Jag är utbildad i Internal Family Systems (IFS) nivå 2 och kommer våren 2025 att genomföra vidareutbildning Intimacy from the Inside Out (IFIO).
 
 Mitt terapeutiska förhållningssätt bygger på det förutsättningslösa och språkmedvetna lyssnandet i kombination med IFS tanke om att vi alla har olika delar som samverkar i ett komplext inre system. Jag är fast förankrad i den humanistiska psykologin och dess tro på människans inneboende förmåga att utvecklas, växa och läka. Min styrka som terapeut är min nyfikenhet, fördomsfrihet, empati och respekt för varje människas unika berättelse och inre värld.
 

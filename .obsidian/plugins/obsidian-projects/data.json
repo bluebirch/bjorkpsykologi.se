@@ -96,7 +96,7 @@
                 "weight": 4,
                 "records": [
                   "source/_drafts/i-ifs-arbetar-man-med-sina-olika-delar.md",
-                  "source/_drafts/ifs-grundantaganden.md"
+                  "source/_drafts/introduktion-till-ifs-grundantaganden.md"
                 ]
               },
               "finished": {
@@ -130,10 +130,14 @@
                   "source/index.md",
                   "source/kontakt/index.md",
                   "source/par/index.md",
-                  "source/_posts/ifs-odlar-sjalvmedkansla.md"
+                  "source/_posts/ifs-odlar-sjalvmedkansla.md",
+                  "source/_posts/om-du-inte-slutar-grata.md"
                 ]
               },
               "No status": {
+                "records": []
+              },
+              "klar": {
                 "records": []
               }
             }
