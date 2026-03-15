@@ -21,6 +21,8 @@ När jag träffar par fungerar oftast 90 minuter bäst. Det ger gott om tid att 
 | Standardsession (90 min) | 2 100 | <a href="https://bjorkpsykologi.kaddio.com/booking/cal/par-standardsession"><button class="button">Fysiskt</button></a> <a href="https://bjorkpsykologi.kaddio.com/booking/cal/par-standardsession-video"><button class="button">Video</button></a> |
 | Kort session (60 min)    | 1 800 |       <a href="https://bjorkpsykologi.kaddio.com/booking/cal/par-kort-session"><button class="button">Fysiskt</button></a> <a href="https://bjorkpsykologi.kaddio.com/booking/cal/par-kort-session-video"><button class="button">Video</button></a> |
 
+Om du är arbetslös, sjukskriven eller av annan anledning har svårt att betala fullpris, finns ett rabatterat pris som är 150--300 kr lägre beroende på typ av session. Hör av dig i så fall.
+
 Om du vill se alla bokningsbara tider på en gång -- till exempel om du vill kunna välja mellan olika längd på sessioner eller att träffas på Mottagningen eller online -- kan du komma till bokningssidan med knappen nedan.
 
 {% message color:info %}

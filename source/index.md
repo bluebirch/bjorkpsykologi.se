@@ -22,6 +22,13 @@ Jag erbjuder 20 minuters kostnadsfri konsultation via video. Boka en tid så kan
 
 {% endmessage %}
 
+{% message color:warning "title:Ny pris- och avbokningspolicy" %}
+
+Från och med april 2026 gäller samma pris för alla och en striktare tillämpning av avbokningsplicyn. {% post_link rabatter-och-avbokningspolicy Läs mer på bloggen. %}
+
+{% endmessage %}
+
+
 <div>
   <div style="display: inline-block; width: 50%; height: 10em; text-align: center; float: left">
     <img src="/img/Psykologforbundet-Medlem-i-Psykologforetagarna.png" style="width: 100%; height: 100%; object-fit: contain">
