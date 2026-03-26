@@ -22,12 +22,17 @@ Jag erbjuder 20 minuters kostnadsfri konsultation via video. Boka en tid så kan
 
 {% endmessage %}
 
+{% message color:danger "title:Fullbokad" %}
+
+För närvarande är jag fullbokad. Söker du IFS individuellt kan jag sätta upp dig på min väntelista. Söker ni som par kan det eventuellt finnas utrymme.
+
+{% endmessage %}
+
 {% message color:warning "title:Ny pris- och avbokningspolicy" %}
 
 Från och med april 2026 gäller samma pris för alla och en striktare tillämpning av avbokningsplicyn. {% post_link rabatter-och-avbokningspolicy Läs mer på bloggen. %}
 
 {% endmessage %}
-
 
 <div>
   <div style="display: inline-block; width: 50%; height: 10em; text-align: center; float: left">
