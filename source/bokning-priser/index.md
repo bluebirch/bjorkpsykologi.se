@@ -39,13 +39,6 @@ Mottagningen ligger på Wallingatan 3B på Norrmalm. Portkod finns i bokningsbek
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2035.6383045224366!2d18.07035457628856!3d59.3222964746109!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465f770054cd313f%3A0x33e1c7972ef55ea!2sBj%C3%B6rk%20psykologi!5e0!3m2!1ssv!2sse!4v1736449980645!5m2!1ssv!2sse" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-## Videosamtal
-
-Videosamtal sker med [Kaddio](https://bjorkpsykologi.kaddio.com) eller [Signal](https://signal.org).
-
-- **Kaddio:** Vid besöket loggar du in på Kaddio och väntar på att jag startar videosamtalet. Kaddio fungerar bäst på dator. Snabb uppkoppling och bra ljud är viktigt. På Kaddios hjälpsida finns [tips vid tekniska problem](https://help.kaddio.com/help/videosamtal-tips-vid-tekniska-problem).
-- **Signal:** Vid besöket ringer jag upp dig på Signal. Det fungerar bäst med desktop-appen. Snabb uppkoppling och bra ljud är viktigt. Innan vi använder Signal första gången vill jag att vi träffats minst en gång på mottagningen eller via Kaddio (där du loggar in med BankID).
-
 ## Avbokningspolicy
 
 Avbokning gör du enklast själv i bokningssystemet [Kaddio](https://bjorkpsykologi.kaddio.com), men avbokning per mejl, SMS eller telefon går också bra. Avbokning senare än 24 timmar innan bokad tid räknas som uteblivet besök. Uteblivet (ej avbokat) besök debiteras till fullt pris.
