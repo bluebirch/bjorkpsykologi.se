@@ -17,7 +17,7 @@ Vi börjar med ett **nybesök** som vi bokar efter överenskommelse, förslagsvi
 
 | Parterapi                | Ordinarie pris | Reducerat pris* |
 | :----------------------- | -------------: | --------------: |
-| Nybesök                  |          2 100 |           1 750 |
+| Nybesök (90 min)         |          2 100 |           1 750 |
 | Standardsession (90 min) |          2 100 |           1 750 |
 | Kort session (60 min)    |          1 800 |           1 500 |
 
