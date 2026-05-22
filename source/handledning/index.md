@@ -16,7 +16,9 @@ Jag kan också handleda och konsultera allmänt kring klinisk psykologi och skol
 
 Om du funderar på hur du som psykolog skall navigera i och hitta hållbara positioner i en värld som döljer patientens livssammanhang bakom ett individualiserande, diagnostiskt--medicinskt (medikaliserande) språk, kan jag hjälpa dig.
 
-Jag kan också handleda och konsultera i kunskapssökande: kvalitativa och kvantitativa forskningsmetoder, enkätkonstruktion, statistik, psykometri och testkonstruktion.
+## Kvalifikationer
+
+Utöver utbildning i IFS och IFIO har jag en doktorsexamen i psykologi från Umeå universitet. Min avhandling var en kvalitativ studie om mäns möte med mödrahälsovården och handlar bland annat om bemötande och de maktasymmetrier som påverkar alla mellanmänskliga möten. Jag har också undervisat i forskningsmetod, statistik och psykometri. När det gäller kliniskt arbete har jag erfarenhet av skola, arbetslivsinriktad rehabilitering och psykiatri.
 
 ## Priser
 
