@@ -18,7 +18,7 @@ Om du funderar på hur du som psykolog skall navigera i och hitta hållbara posi
 
 ## Kvalifikationer
 
-Utöver utbildning i IFS och IFIO har jag en doktorsexamen i psykologi från Umeå universitet. Min avhandling var en kvalitativ studie om mäns möte med mödrahälsovården och handlar bland annat om bemötande och de maktasymmetrier som påverkar alla mellanmänskliga möten. Jag har också undervisat i forskningsmetod, statistik och psykometri. När det gäller kliniskt arbete har jag erfarenhet av skola, arbetslivsinriktad rehabilitering och psykiatri.
+Utöver utbildning i IFS och IFIO har jag en doktorsexamen i psykologi och genusvetenskap från Umeå universitet. Min avhandling var en kvalitativ studie om mäns möte med mödrahälsovården och handlar bland annat om bemötande och de maktasymmetrier som påverkar alla mellanmänskliga möten. Jag har också undervisat i forskningsmetod, statistik och psykometri. När det gäller kliniskt arbete har jag erfarenhet av skola, arbetslivsinriktad rehabilitering och psykiatri.
 
 ## Priser
 
