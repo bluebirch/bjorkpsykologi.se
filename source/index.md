@@ -18,7 +18,7 @@ Varmt välkommen att höra av dig för att se hur jag kan hjälpa just dig.
 
 Jag erbjuder 20 minuters kostnadsfri konsultation via video. Boka en tid så kan vi se hur jag kan hjälpa just dig.
 
-<div align="center"><a href="https://bjorkpsykologi.kaddio.com/booking/cal/kostnadsfri-konsultation-video"><button class="button">Boka kostnadsfri konsultation</button></a></div>
+<div align="center"><a href="https://bjorkpsykologi.kaddio.com/booking/cal/kostnadsfri-konsultation"><button class="button">Boka kostnadsfri konsultation</button></a></div>
 
 {% endmessage %}
 

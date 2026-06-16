@@ -11,7 +11,7 @@ Det finns många anledningar att söka parterapi. Ofta handlar det om utmaningar
 <div align="center">
 <a href="/bokning-priser"><button class="button">Priser</button></a>
 <a href="https://bjorkpsykologi.kaddio.com/booking"><button class="button">Boka</button></a>
-<a href="https://bjorkpsykologi.kaddio.com/booking/cal/kostnadsfri-konsultation-video"><button class="button">Boka kostnadsfri konsultation</button></a>
+<a href="https://bjorkpsykologi.kaddio.com/booking/cal/kostnadsfri-konsultation"><button class="button">Boka kostnadsfri konsultation</button></a>
 <a href="https://bjorkpsykologi.kaddio.com/contact-us"><button class="button">Kontakta mig</button></a>
 </div>
 
@@ -49,6 +49,6 @@ Jag är utbildad i *Internal Family Systems* (IFS) nivå 1 och kommer att genomf
 
 Jag erbjuder alltid en kostnadsfri 20-minuters konsultation online. Det är ett bra tillfälle för er att ställa frågor, känna efter om ni är bekväma med mig som terapeut och om parterapi är rätt steg för er.
 
-<div align="center"><a href="https://bjorkpsykologi.kaddio.com/booking/cal/kostnadsfri-konsultation-video"><button class="button">Boka kostnadsfri konsultation</button></a></div>
+<div align="center"><a href="https://bjorkpsykologi.kaddio.com/booking/cal/kostnadsfri-konsultation"><button class="button">Boka kostnadsfri konsultation</button></a></div>
 
 {% endmessage %}

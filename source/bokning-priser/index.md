@@ -6,7 +6,7 @@ cover: /img/mottagningsrum.jpg
 status: published
 ---
 
-Vi börjar med ett **nybesök** som vi bokar efter överenskommelse, förslagsvis i samband med en [kostnadsfri konsultation](https://bjorkpsykologi.kaddio.com/booking/cal/kostnadsfri-konsultation-video). Därefter kommer vi överens om tider för **återbesök** eller så bokar du själv i [Kaddio](https://bjorkpsykologi.kaddio.com/booking).
+Vi börjar med ett **nybesök** som vi bokar efter överenskommelse, förslagsvis i samband med en [kostnadsfri konsultation](https://bjorkpsykologi.kaddio.com/booking/cal/kostnadsfri-konsultation). Därefter kommer vi överens om tider för **återbesök** eller så bokar du själv i [Kaddio](https://bjorkpsykologi.kaddio.com/booking).
 
 | Individuella samtal / IFS   | Ordinarie pris | Reducerat pris* |
 | :-------------------------- | -------------: | --------------: |
@@ -27,7 +27,7 @@ Vi börjar med ett **nybesök** som vi bokar efter överenskommelse, förslagsvi
 
 <div align="center">
 <a href="https://bjorkpsykologi.kaddio.com/booking"><button class="button">Gå till bokningssida</button></a>
-<a href="https://bjorkpsykologi.kaddio.com/booking/cal/kostnadsfri-konsultation-video"><button class="button">Boka kostnadsfri konsultation</button></a>
+<a href="https://bjorkpsykologi.kaddio.com/booking/cal/kostnadsfri-konsultation"><button class="button">Boka kostnadsfri konsultation</button></a>
 <a href="https://bjorkpsykologi.kaddio.com/contact-us"><button class="button">Kontakta mig</button></a>
 </div>
 

@@ -28,7 +28,7 @@ Mitt terapeutiska förhållningssätt bygger på det förutsättningslösa och s
 
 Om du är nyfiken på hur jag kan hjälpa dig kan du boka en 20-minuters kostnadsfri konsultation via video
 
-<div align="center"><a href="https://bjorkpsykologi.kaddio.com/booking/cal/kostnadsfri-konsultation-video"><button class="button">Boka kostnadsfri konsultation</button></a></div>
+<div align="center"><a href="https://bjorkpsykologi.kaddio.com/booking/cal/kostnadsfri-konsultation"><button class="button">Boka kostnadsfri konsultation</button></a></div>
 
 {% endmessage %}
 
