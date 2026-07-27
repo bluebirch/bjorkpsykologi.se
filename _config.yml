@@ -129,9 +129,9 @@ theme: icarus
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: rsync
-  host: 192.168.0.3
-  user: stefan
-  root: /volume1/bjorkpsykologi.se
+  host: ssh.loopia.se
+  user: qhepq8
+  root: /www/webvol40/y9/0ip8xeil6tcx4jg/bjorkpsykologi.se/public_html
   delete: true
   verbose: true
   ignore_errors: true

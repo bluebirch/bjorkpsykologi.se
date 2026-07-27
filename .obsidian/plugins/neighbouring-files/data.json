@@ -1,0 +1,9 @@
+{
+  "defaultSortOrder": "alphabetical",
+  "enableFolderLoop": false,
+  "includedFileTypes": "allFiles",
+  "additionalExtensions": [
+    "canvas",
+    "pdf"
+  ]
+}
