@@ -1,6 +1,5 @@
 ---
 title: Funktionsvariationer och funktionshinder
-tags: []
 status: idea
 ---
 

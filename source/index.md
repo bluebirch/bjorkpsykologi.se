@@ -1,7 +1,7 @@
 ---
 title: Psykolog Stefan Björk
 date: 2023-04-11 09:58:00
-updated: 2026-01-26T20:46:00
+updated: 2026-11-12T15:46:00
 cover: /img/Stefan-2024-08-widescreen.jpg
 status: published
 ---
@@ -26,11 +26,7 @@ Jag erbjuder 20 minuters kostnadsfri konsultation via video. Boka en tid så kan
 
 För närvarande är jag fullbokad. Söker du IFS individuellt kan jag sätta upp dig på min väntelista. Söker ni som par kan det eventuellt finnas utrymme.
 
-{% endmessage %}
-
-{% message color:warning "title:Ny pris- och avbokningspolicy" %}
-
-Från och med april 2026 gäller samma pris för alla och en striktare tillämpning av avbokningsplicyn. {% post_link rabatter-och-avbokningspolicy Läs mer på bloggen. %}
+Från 1 januari 2026 kommer jag att gå upp i tid vilket betyder att jag kommer att kunna påbörja fler klienter.
 
 {% endmessage %}
 

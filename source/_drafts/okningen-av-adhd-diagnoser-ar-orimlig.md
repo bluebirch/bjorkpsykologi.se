@@ -1,5 +1,5 @@
 ---
-title: Ökningen av ADHD-diagnoser är orimlig
+title: "Ökningen av ADHD-diagnoser är orimlig"
 tags:
   - ADHD
   - psykologikritik
