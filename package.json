@@ -35,7 +35,7 @@
     "lodash": "^4.18.1"
   },
   "devDependencies": {
-    "babel-plugin-inferno": "^6.9.0",
+    "babel-plugin-inferno": "^10.0.0",
     "hexo-renderer-sass": "github:kmuncie/hexo-renderer-sass"
   }
 }
